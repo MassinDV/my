@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tvboxs.website/iptv/logos/2m.png" group-title="MOROCCO",2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvboxs.website/iptv/logos/alaoula.png" group-title="MOROCCO",Al Aoula*
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvboxs.website/iptv/logos/alaoula.png" group-title="MOROCCO",Al Aoula
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvboxs.website/iptv/logos/laayoune.png" group-title="MOROCCO",Al Aoula laayoune
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula laayoune" tvg-logo="https://tvboxs.website/iptv/logos/laayoune.png" group-title="MOROCCO",Al Aoula laayoune*
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvboxs.website/iptv/logos/arriyadia.png" group-title="MOROCCO",Arryadia
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvboxs.website/iptv/logos/arriyadia.png" group-title="MOROCCO",Arryadia*
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvboxs.website/iptv/logos/attakafiya.png" group-title="MOROCCO",Arrabiaa
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvboxs.website/iptv/logos/attakafiya.png" group-title="MOROCCO",Arrabiaa*
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvboxs.website/iptv/logos/almaghribia.png" group-title="MOROCCO",Al Maghribia
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvboxs.website/iptv/logos/almaghribia.png" group-title="MOROCCO",Al Maghribia*
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvboxs.website/iptv/logos/assadissa.png" group-title="MOROCCO",Assadissa
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvboxs.website/iptv/logos/assadissa.png" group-title="MOROCCO",Assadissa*
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvboxs.website/iptv/logos/tamazight.png" group-title="MOROCCO",Tamazight
+http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvboxs.website/iptv/logos/tamazight.png" group-title="MOROCCO",Tamazight*
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvboxs.website/iptv/logos/Medi-1-TV.png" group-title="MOROCCO",Medi1 TV
+http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w1474658739.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvboxs.website/iptv/logos/Medi-1-AF.png" group-title="MOROCCO",MEDI1 TV Afrique
+http://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/chunklist_w1363500254.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tvboxs.website/iptv/logos/Medi-1-TV.png" group-title="MOROCCO",MEDI1 TV Arabic
+https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://tvboxs.website/iptv/logos/m24.png" group-title="MOROCCO", M24 TV
+https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8
