@@ -83,43 +83,43 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_oujda/hls_snrt_radi
 #EXTINF:-1 tvg-id="" tvg-name="Radio Oujda" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/RA-Meknas.png" tvg-shift="0" group-title="Radio MOROCCO", Radio Meknas
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_meknes/hls_snrt_radio/radio_meknes-avc1_100000=2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Medina FM" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="Radio MOROCCO", Medina FM
+#EXTINF:-1 tvg-id="" tvg-name="Medina FM" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/MedinaFM.png" tvg-shift="0" group-title="Radio MOROCCO", Medina FM
 https://medinafm.ice.infomaniak.ch/medinafm-64.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Hit Radio" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="Radio MOROCCO", Hit Radio
+#EXTINF:-1 tvg-id="" tvg-name="Hit Radio" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/small-logo-hitradio.png" tvg-shift="0" group-title="Radio MOROCCO", Hit Radio
 https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Hit Radio Mgharba" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="Radio MOROCCO", Hit Radio Mgharba
+#EXTINF:-1 tvg-id="" tvg-name="Hit Radio Mgharba" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/mgharba.png" tvg-shift="0" group-title="Radio MOROCCO", Hit Radio Mgharba
 https://mgharba.ice.infomaniak.ch/mgharba-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Hit Radio Gold" tvg-logo="" tvg-shift="0" group-title="Radio MOROCCO", Hit Radio Gold
+#EXTINF:-1 tvg-id="" tvg-name="Hit Radio Gold" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/hitradiogold.png" tvg-shift="0" group-title="Radio MOROCCO", Hit Radio Gold
 https://gold.ice.infomaniak.ch/gold-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Aswat" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="Radio MOROCCO", Aswat
+#EXTINF:-1 tvg-id="" tvg-name="Aswat" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/aswat.jpg" tvg-shift="0" group-title="Radio MOROCCO", Aswat
 https://broadcast.ice.infomaniak.ch/aswat-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Medina FM" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.pnghttps://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="Radio MOROCCO", Medina FM
+#EXTINF:-1 tvg-id="" tvg-name="Medina FM" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/MedinaFM.png" tvg-shift="0" group-title="Radio MOROCCO", Medina FM
 https://atlanticradio.ma:8090/stream?type=http&nocache=2695
-#EXTINF:-1 tvg-id="" tvg-name="Cap Radio" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.pnghttps://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.pnghttps://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.pnghttps://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="Radio MOROCCO", Cap Radio
+#EXTINF:-1 tvg-id="" tvg-name="Cap Radio" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/CAP-RADIO-1.png" tvg-shift="0" group-title="Radio MOROCCO", Cap Radio
 http://51.255.235.165:5548/stream.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Chada FM" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.pnghttps://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.pnghttps://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="Radio MOROCCO", Chada FM
+#EXTINF:-1 tvg-id="" tvg-name="Chada FM" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/chadafm.png" tvg-shift="0" group-title="Radio MOROCCO", Chada FM
 http://broadcast.infomaniak.net/chadafm-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="Medradio" tvg-logo="" tvg-shift="0" group-title="Radio MOROCCO", Medradio
 http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Radio Atbir" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.pnghttps://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="Radio MOROCCO", Radio Atbir
+#EXTINF:-1 tvg-id="" tvg-name="Radio Atbir" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/radio-atbir.png" tvg-shift="0" group-title="Radio MOROCCO", Radio Atbir
 http://node-04.zeno.fm/bqdbb6hd0neuv?1588519536980=&rj-tok=AAABcdstv_EApuGpXQSJ2lX1rw&rj-ttl=5
-#EXTINF:-1 tvg-id="" tvg-name="France Maghreb" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="Radio MOROCCO", France Maghreb
+#EXTINF:-1 tvg-id="" tvg-name="France Maghreb" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/francemaghreb.jpg" tvg-shift="0" group-title="Radio MOROCCO", France Maghreb
 https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Radio Mars" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.pnghttps://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.pnghttps://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.pnghttps://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="Radio MOROCCO", Radio Mars
+#EXTINF:-1 tvg-id="" tvg-name="Radio Mars" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/medi1radio.png" tvg-shift="0" group-title="Radio MOROCCO", Radio Mars
 https://radiomars.ice.infomaniak.ch/radiomars-128.mp3
 #EXTINF:-1 tvg-id="" tvg-name="Medi 1" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.pnghttps://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="Radio MOROCCO", Medi 1
 https://live.medi1.com/medi1
-#EXTINF:-1 tvg-id="" tvg-name="MFM Radio" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="Radio MOROCCO", MFM Radio
+#EXTINF:-1 tvg-id="" tvg-name="MFM Radio" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/MFM.png" tvg-shift="0" group-title="Radio MOROCCO", MFM Radio
 https://streamer.eagrpservices.com/audio/mfmradio.ogg
-#EXTINF:-1 tvg-id="" tvg-name="Radio 2M TS" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="Radio MOROCCO", Radio 2M TS
+#EXTINF:-1 tvg-id="" tvg-name="Radio 2M TS" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/2mradio.jpg" tvg-shift="0" group-title="Radio MOROCCO", Radio 2M TS
 http://92.222.103.14:8005/index.html?sid=1
-#EXTINF:-1 tvg-id="" tvg-name="Radio Al Manar AraBel" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="Radio MOROCCO", Radio Al Manar AraBel
+#EXTINF:-1 tvg-id="" tvg-name="Radio Al Manar AraBel" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/arabel.png" tvg-shift="0" group-title="Radio MOROCCO", Radio Al Manar AraBel
 http://www.arabelfm.ice.infomaniak.ch/arabelprodcastfm.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Only Rai" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="Radio MOROCCO", Only Rai
+#EXTINF:-1 tvg-id="" tvg-name="Only Rai" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/logo-only-rai.png" tvg-shift="0" group-title="Radio MOROCCO", Only Rai
 http://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Orient FM" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="Radio MOROCCO", Orient FM
+#EXTINF:-1 tvg-id="" tvg-name="Orient FM" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/radiooriant-removebg-preview.png" tvg-shift="0" group-title="Radio MOROCCO", Orient FM
 http://stream3.broadcast-associes.com:8405/Radio-Orient
-#EXTINF:-1 tvg-id="" tvg-name="Radio Sawt Ouarzazate" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="Radio MOROCCO", Radio Sawt Ouarzazate
+#EXTINF:-1 tvg-id="" tvg-name="Radio Sawt Ouarzazate" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/RadioSawtOuarzazate.png" tvg-shift="0" group-title="Radio MOROCCO", Radio Sawt Ouarzazate
 http://www.quran-radio.org:8002/stream
 #EXTINF:-1 tvg-id="" tvg-name="Radio Nador" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/radionador.jpg" tvg-shift="0" group-title="Radio MOROCCO", Radio Nador
 http://149.56.147.197:8092/stream
