@@ -3,23 +3,23 @@
 http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="2M Monde" tvg-logo="" tvg-shift="0" group-title="MOROCCO", 2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Aoula*" tvg-logo="https://github.com/MassinDV/iptv/blob/master/Logo/alaoula.png" tvg-shift="0" group-title="MOROCCO", Al Aoula*
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula*" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="MOROCCO", Al Aoula*
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Aoula" tvg-logo="https://github.com/MassinDV/iptv/blob/master/Logo/alaoula.png" tvg-shift="0" group-title="MOROCCO", Al Aoula
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="MOROCCO", Al Aoula
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Aoula laayoune" tvg-logo="" tvg-shift="0" group-title="MOROCCO", Al Aoula laayoune
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula laayoune" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="MOROCCO", Al Aoula laayoune
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Aoula laayoune" tvg-logo="" tvg-shift="0" group-title="MOROCCO", Al Aoula laayoune
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula laayoune" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="MOROCCO", Al Aoula laayoune
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arryadia" tvg-logo="" tvg-shift="0" group-title="MOROCCO", Arryadia
+#EXTINF:-1 tvg-id="" tvg-name="Arryadia" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="MOROCCO", Arryadia
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arrabiaa" tvg-logo="" tvg-shift="0" group-title="MOROCCO", Arrabiaa
+#EXTINF:-1 tvg-id="" tvg-name="Arrabiaa" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="MOROCCO", Arrabiaa
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arrabiaa*" tvg-logo="" tvg-shift="0" group-title="MOROCCO", Arrabiaa*
+#EXTINF:-1 tvg-id="" tvg-name="Arrabiaa*" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="MOROCCO", Arrabiaa*
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Maghribia" tvg-logo="" tvg-shift="0" group-title="MOROCCO", Al Maghribia
+#EXTINF:-1 tvg-id="" tvg-name="Al Maghribia" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="MOROCCO", Al Maghribia
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Maghribia*" tvg-logo="" tvg-shift="0" group-title="MOROCCO", Al Maghribia*
+#EXTINF:-1 tvg-id="" tvg-name="Al Maghribia*" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="MOROCCO", Al Maghribia*
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Assadissa" tvg-logo="" tvg-shift="0" group-title="MOROCCO", Assadissa
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
