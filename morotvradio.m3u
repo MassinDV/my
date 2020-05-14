@@ -99,7 +99,7 @@ https://atlanticradio.ma:8090/stream?type=http&nocache=2695
 http://51.255.235.165:5548/stream.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Chada FM" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/chadafm.png" tvg-shift="0" group-title="Radio MOROCCO", Chada FM
 http://broadcast.infomaniak.net/chadafm-high.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Medradio" tvg-logo="" tvg-shift="0" group-title="Radio MOROCCO", Medradio
+#EXTINF:-1 tvg-id="" tvg-name="Medradio" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/MedRadio.png" tvg-shift="0" group-title="Radio MOROCCO", Medradio
 http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3
 #EXTINF:-1 tvg-id="" tvg-name="Radio Atbir" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/radio-atbir.png" tvg-shift="0" group-title="Radio MOROCCO", Radio Atbir
 http://node-04.zeno.fm/bqdbb6hd0neuv?1588519536980=&rj-tok=AAABcdstv_EApuGpXQSJ2lX1rw&rj-ttl=5
@@ -107,7 +107,7 @@ http://node-04.zeno.fm/bqdbb6hd0neuv?1588519536980=&rj-tok=AAABcdstv_EApuGpXQSJ2
 https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3
 #EXTINF:-1 tvg-id="" tvg-name="Radio Mars" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/medi1radio.png" tvg-shift="0" group-title="Radio MOROCCO", Radio Mars
 https://radiomars.ice.infomaniak.ch/radiomars-128.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Medi 1" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.pnghttps://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="Radio MOROCCO", Medi 1
+#EXTINF:-1 tvg-id="" tvg-name="Medi 1" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/medi1radio.png" tvg-shift="0" group-title="Radio MOROCCO", Medi 1
 https://live.medi1.com/medi1
 #EXTINF:-1 tvg-id="" tvg-name="MFM Radio" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/MFM.png" tvg-shift="0" group-title="Radio MOROCCO", MFM Radio
 https://streamer.eagrpservices.com/audio/mfmradio.ogg
