@@ -129,3 +129,37 @@ https://listen.radioking.com/radio/252934/stream/297385
 https://listen.radioking.com/radio/179038/stream/220729
 #EXTINF:-1 tvg-id="" tvg-name="RIM RADIO" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/RIM-Radio.jpg" tvg-shift="0" group-title="Radio MOROCCO", RIM RADIO
 https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Monte Carlo Doualiya" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/RadioMonteCarloDoualiya.png" tvg-shift="0" group-title="Radio MOROCCO", Radio Monte Carlo Doualiya
+https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3
+#EXTINF:-1 tvg-id="" tvg-name="Radio Manarat" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/RadioManarat.jpg" tvg-shift="0" group-title="Radio MOROCCO", Radio Manarat
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Soleil" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Radiosoleil.jpg" tvg-shift="0" group-title="Radio MOROCCO", Radio Soleil
+https://radiosoleil.ice.infomaniak.ch/radiosoleil-128.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="NRJ Maroc" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/nrj.png" tvg-shift="0" group-title="Radio MOROCCO", NRJ Maroc
+https://scdn.nrjaudio.fm/ma/55820/aac_64.mp3?cdn_path=adswizz_lbs8&adws_out_b2
+#EXTINF:-1 tvg-id="" tvg-name="NRJ Maroc" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/nrj.png" tvg-shift="0" group-title="Radio MOROCCO", NRJ Maroc
+https://scdn.nrjaudio.fm/ma/55820/aac_64.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="Ness Radio" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/nessradio.png" tvg-shift="0" group-title="Radio MOROCCO", Ness Radio
+http://radio.nessradio.net:8000/nessradio.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Yabiladi" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Yabiladi.png" tvg-shift="0" group-title="Radio MOROCCO", NRJ Maroc
+http://37.187.146.76:8000/stream/1/
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Yabiladi" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/nessradio.png" tvg-shift="0" group-title="Radio MOROCCO", NRJ Maroc
+http://37.187.146.76:8000/stream/1/
+#EXTINF:-1 tvg-id="" tvg-name="Radio Star Maroc" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/satarmaroc.png" tvg-shift="0" group-title="Radio MOROCCO", Radio Star Maroc
+https://streamingv2.shoutcast.com/RadioStarMaroc
+
+#EXTINF:-1 tvg-id="" tvg-name="The Moroccan Radio" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Yabiladi.png" tvg-shift="0" group-title="Radio MOROCCO", The Moroccan Radio
+https://streamingv2.shoutcast.com/TheMoroccanRadio
+
+#EXTINF:-1 tvg-id="" tvg-name="Anwa-rock" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/radio_anwarock.jpg.png" tvg-shift="0" group-title="Radio MOROCCO", Anwa-rock
+https://streamingv2.shoutcast.com/Anwa-rock
+
+#EXTINF:-1 tvg-id="" tvg-name="Radio Coran" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/radiocoran.png" tvg-shift="0" group-title="Radio MOROCCO", Radio Coran
+http://92.222.103.13:8005/stream/1/
