@@ -3,7 +3,7 @@
 http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="2M Monde" tvg-logo="" tvg-shift="0" group-title="MOROCCO", 2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Aoula*" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/alaoula.png" tvg-shift="0" group-title="MOROCCO", Al Aoula*
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula*" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="MOROCCO", Al Aoula*
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Aoula" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="MOROCCO", Al Aoula
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
@@ -21,9 +21,9 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabi
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Maghribia*" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/almaghribia.png" tvg-shift="0" group-title="MOROCCO", Al Maghribia*
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Assadissa" tvg-logo="" tvg-shift="0" group-title="MOROCCO", Assadissa
+#EXTINF:-1 tvg-id="" tvg-name="Assadissa" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/assadissa.png" tvg-shift="0" group-title="MOROCCO", Assadissa
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Assadissa*" tvg-logo="" tvg-shift="0" group-title="MOROCCO", Assadissa*
+#EXTINF:-1 tvg-id="" tvg-name="Assadissa*" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/assadissa.png" tvg-shift="0" group-title="MOROCCO", Assadissa*
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1000000=3-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tamazight" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/tamazight.png" tvg-shift="0" group-title="MOROCCO", Tamazight
 http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
@@ -57,8 +57,7 @@ https://stream-12.dc3.dailymotion.com/sec(URBhp0zYv0oL3J-5svQBhtXsAcgLpqhGZKnY4l
 
 #EXTINF:-1 tvg-id="" tvg-name="MYComedy" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="MOROCCO", MYComedy
 http://live.creacast.com/mycomedy/smil:mycomedy.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT TV" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/small-logo-hitradio.png" tvg-shift="0" group-title="MOROCCO", HIT TV
-https://stream-15.dc3.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL544MUslbR9XCPj45SO6C6Xxo)/dm/3/x7k351m/s/live-2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Alidaa Alwatania" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/idaawataniya.png" tvg-shift="0" group-title="Radio MOROCCO", Alidaa Alwatania
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Amazighia" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/idaatamazight.png" tvg-shift="0" group-title="Radio MOROCCO", Amazighia
