@@ -51,7 +51,7 @@ http://www.sansat.net:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/7579
 #EXTINF:-1 tvg-id="" tvg-name="AR : CHADA FM HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaoula.png" tvg-shift="0" group-title="MOROCCO", AR : CHADA FM HD
 http://www.sansat.net:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/11126
 #EXTINF:-1 tvg-id="" tvg-name="Nasma SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/nasma.png" tvg-shift="0" group-title="MOROCCO", Nasma SD
-http://livecdnh2.tvanywhere.ae/hls/nessma/index.m3u8
+http://livecdnh2.tvanywhere.ae/hls/nessma/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nasma" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/nasma.png" tvg-shift="0" group-title="MOROCCO", Nasma
 http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
 
