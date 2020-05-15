@@ -1,0 +1,34 @@
+
+#EXTM3U
+#EXTINF:0 type="playlist", Morocco Series
+#EXTSIZE: طارق بن زياد - الحلقة 1
+https://vod.medi1tv.com/F0033750.mp4
+#EXTSIZE: طارق بن زياد - الحلقة 2
+https://vod.medi1tv.com/F0033751.mp4
+#EXTSIZE: طارق بن زياد - الحلقة 3
+https://vod.medi1tv.com/F0033752.mp4
+#EXTSIZE: طارق بن زياد - الحلقة 4
+https://vod.medi1tv.com/F0033753.mp4
+#EXTSIZE: السيدة الحرة - الحلقة 1
+https://vod.medi1tv.com/F0034256.mp4
+#EXTSIZE: السيدة الحرة - الحلقة 2
+https://vod.medi1tv.com/F0034371.mp4
+#EXTSIZE: السيدة الحرة - الحلقة 3
+https://vod.medi1tv.com/F0034557.mp4
+#EXTSIZE: hdiddan
+https://r8---sn-cxab5jvh-cg0ee.googlevideo.com/videoplayback?expire=1589596537&ei=Gf2-XouuJpaE1gKi6YGIDA&ip=81.11.221.28&id=o-ALV0e_jKfo7mlG9MwfxfKi8FJUlVqUBJ7hFShZ14dgUi&itag=397&aitags=133%2C134%2C135%2C160%2C242%2C243%2C244%2C278%2C394%2C395%2C396%2C397&source=youtube&requiressl=yes&mh=JE&mm=31%2C29&mn=sn-cxab5jvh-cg0ee%2Csn-5hnekn7d&ms=au%2Crdu&mv=m&mvi=7&pl=17&initcwndbps=1021250&vprv=1&mime=video%2Fmp4&gir=yes&clen=78929709&dur=2214.880&lmt=1588271101535130&mt=1589574877&fvip=2&keepalive=yes&c=WEB&txp=5431432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgL-pFrxl3OMSQdQ7IfCBNxx8x-spQ9W-cd9CY98xfWtcCIQDVkDEyNL5wWEg7eLV_xiU9FZ_2LqnCT3OuqJgpflayGQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAIl4p3Ms78S46Ee3yUtQvyoaQ8HrGKksNJNRf4YPKTjzAiEAqTiYY7p67xmZUURra4GqGcrVIFP3OUhDPZweUX2Tg4k%3D&alr=yes&cpn=7id2-R9fUrjzXv7j&cver=2.20200514.05.00&rn=1
+#EXTSIZE: Hiddan
+https://r1---sn-cxab5jvh-cg0ee.googlevideo.com/videoplayback?expire=1589596592&ei=UP2-Xr3OJNKogQe3_4IQ&ip=81.11.221.28&id=o-AELM-bFgKj4BAGeRlfkpZshcrru5HMwS0S4127_EPx3v&itag=22&source=youtube&requiressl=yes&mh=2D&mm=31%2C29&mn=sn-cxab5jvh-cg0ee%2Csn-5hnedn7s&ms=au%2Crdu&mv=m&mvi=0&pcm2cms=yes&pl=17&initcwndbps=1021250&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=1860.289&lmt=1557286328001106&mt=1589574877&fvip=1&c=WEB&txp=5535432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgVWzIg8dFgwpMDtQfHO6wsBIMlN1k9SH6Ds12Jht5xrACIQC46_v3oaqrfmTp2x4Rv-Kpf39UIDxMogJKaDe7QuToKQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAK94vAUV0H28b_EW1eHaRox5RzdZ4vsgYooLccHAXT4hAiBwUFugNWkJjWXlq8bA_RJFfP1YGyIxI4UXZK8A5U6n7g%3D%3D
+
+#EXTINF:0 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/tarikbnozyad.jpg" type="video" description="2005", طارق بن زياد - الحلقة 1
+https://vod.medi1tv.com/F0033750.mp4
+
+#EXTINF:0 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/tarikbnozyad.jpg" type="video" description="2005", طارق بن زياد - الحلقة 2
+https://vod.medi1tv.com/F0033751.mp4
+
+#EXTINF:0 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/tarikbnozyad.jpg" type="video" description="2005", طارق بن زياد - الحلقة 3
+https://vod.medi1tv.com/F0033752.mp4
+
+#EXTINF:0 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/tarikbnozyad.jpg" type="video" description="2005", طارق بن زياد - لحلقة 4
+https://vod.medi1tv.com/F0033753.mp4
+
