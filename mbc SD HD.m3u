@@ -1,0 +1,79 @@
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="MBC",MBC 1 HD
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="MBC",MBC 1 SD
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="MBC",MBC 2 HD 
+https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="MBC",MBC 2 SD
+https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="MBC",MBC 3 HD 
+https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="MBC",MBC 3 SD 
+https://shls-mbc3-prod.shahid.net/mbc3-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="MBC",MBC 4 HD
+https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="MBC",MBC 4 SD
+https://shls-mbc4-prod.shahid.net/mbc4-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/mbc5.png" group-title="MBC",MBC 5 HD
+https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/mbc5.png" group-title="MBC",MBC 5 SD
+https://shls-mbc5-prod.shahid.net/mbc5-prod_2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBCActionEn.sa.png" group-title="MBC",MBC Action HD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBCActionEn.sa.png" group-title="MBC",MBC Action SD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBCDrama.ae.png" group-title="MBC",MBC Drama HD
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBCDrama.ae.png" group-title="MBC",MBC Drama SD
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBCBollywoodEn.sa.png" group-title="MBC",MBC Bollywood HD
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBCBollywoodEn.sa.png" group-title="MBC",MBC Bollywood SD
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBCMax.ae.png" group-title="MBC",MBC Max HD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBCMax.ae.png" group-title="MBC",MBC Max SD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1340_1.png" group-title="MBC",MBC Iraq HD
+https://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1340_1.png" group-title="MBC",MBC Iraq SD
+https://shls-iraq-prod.shahid.net/iraq-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="MBC",MBC Masr HD
+https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="MBC",MBC Masr SD
+https://shls-masr-prod.shahid.net/masr-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr2.eg.png" group-title="MBC",MBC Masr 2 HD
+https://shls-masr2-prod.shahid.net/masr2-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr2.eg.png" group-title="MBC",MBC Masr 2 SD
+https://shls-masr2-prod.shahid.net/masr2-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/Alarabiya.png" group-title="MBC",Alarabiya HD
+https://shls-alarabiya-prod.shahid.net/alarabiya-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/Alarabiya.png" group-title="MBC",Alarabiya SD
+https://shls-alarabiya-prod.shahid.net/alarabiya-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/alarabiyahada.jpg" group-title="MBC",Alarabiya Al Hadath HD
+https://shls-hadath-prod.shahid.net/hadath-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/alarabiyahada.jpg" group-title="MBC",Alarabiya Al Hadath HD
+https://shls-hadath-prod.shahid.net/hadath-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/Wanasah.png" group-title="MBC", Wanasah HD
+https://shls-wanasah-prod.shahid.net/wanasah-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/Wanasah.png" group-title="MBC", Wanasah SD
+https://shls-wanasah-prod.shahid.net/wanasah-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/MBCFM-Riyadh.jpg" group-title="MBC",MBCFM Riyadh
+https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh_1.m3u8
