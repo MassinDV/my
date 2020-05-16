@@ -116,11 +116,11 @@ https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Shariqa Sport HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/SharjahSport.png" tvg-shift="0" group-title="EMIRATES", Shariqa Sport HD
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 1" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport_channel_1.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 1" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport1.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 2" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport_channe_2.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 2" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport2.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 3" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport_channe_2.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 3" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport1.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 4" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/qa-al-kass-four.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
@@ -128,6 +128,8 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1 tvg-id="" tvg-name="Shariqa Sport SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alkas5.png" tvg-shift="0" group-title="EMIRATES", Shariqa Sport SD
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_360p_chunks.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Sharijah Radio" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/sharijaradio.png" tvg-shift="0" group-title="EMIRATES Radio", Al Sharijah Radio
 https://svs.itworkscdn.net/smcweblive/sharjahweb/chunks.m3u8
