@@ -139,6 +139,118 @@ https://shls-wanasah-prod.shahid.net/wanasah-prod_2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/MBCFM-Riyadh.jpg" group-title="MBC",MBCFM Riyadh
 https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh_1.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="===== DE: FTA - HD+ =====" tvg-logo="" group-title="EU GERMANY",===== DE: FTA - HD+ =====
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55673
+#EXTINF:-1 tvg-ID="ard.de" tvg-name="DE: DAS ERSTE HD (ARD)" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_283D_3FB_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: DAS ERSTE HD (ARD)
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55674
+#EXTINF:-1 tvg-ID="ard.de" tvg-name="DE: DAS ERSTE (ARD)" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_283D_3FB_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: DAS ERSTE (ARD)
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55675
+#EXTINF:-1 tvg-ID="arte.de" tvg-name="DE: ARTE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_283E_3FB_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: ARTE HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55676
+#EXTINF:-1 tvg-ID="3sat.de" tvg-name="DE: 3 SAT" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2B8E_3F2_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: 3 SAT
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55677
+#EXTINF:-1 tvg-ID="ardalpha.de" tvg-name="DE: ARD HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_6F47_445_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: ARD HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55678
+#EXTINF:-1 tvg-ID="zdf.de" tvg-name="DE: ZDF HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2B66_3F3_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: ZDF HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55679
+#EXTINF:-1 tvg-ID="zdf.de" tvg-name="DE: ZDF" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_6D66_437_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: ZDF
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55680
+#EXTINF:-1 tvg-ID="zdfneo.de" tvg-name="DE: ZDF NEO" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2B7A_3F3_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: ZDF NEO
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55681
+#EXTINF:-1 tvg-ID="rtl.de" tvg-name="DE: RTL HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_EF10_421_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: RTL HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55682
+#EXTINF:-1 tvg-ID="rtl2.de" tvg-name="DE: RTLII HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_EF15_421_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: RTLII HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55683
+#EXTINF:-1 tvg-ID="rtl.de" tvg-name="DE: RTL TELVISION" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_2_23CD_44A_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: RTL TELVISION
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55684
+#EXTINF:-1 tvg-ID="rtl2.de" tvg-name="DE: RTL2" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_3070_3F5_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: RTL2
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55685
+#EXTINF:-1 tvg-ID="rtlplus.de" tvg-name="DE: RTL PLUS" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_2F30_441_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: RTL PLUS
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55686
+#EXTINF:-1 tvg-ID="rtlnitro.de" tvg-name="DE: RTL NITRO" tvg-logo="" group-title="EU GERMANY",DE: RTL NITRO
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55687
+#EXTINF:-1 tvg-ID="sixx.de" tvg-name="DE: SIXX HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_EF77_3F9_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: SIXX HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55688
+#EXTINF:-1 tvg-ID="pro7.de" tvg-name="DE: PROSIEBEN HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_EF75_3F9_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: PROSIEBEN HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55689
+#EXTINF:-1 tvg-ID="pro7.de" tvg-name="DE: PRO7 MAXX HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_EF8C_3F9_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: PRO7 MAXX HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55690
+#EXTINF:-1 tvg-ID="sat1.de" tvg-name="DE: SAT.1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_EF74_3F9_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: SAT.1 HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55691
+#EXTINF:-1 tvg-ID="sat1gold.de" tvg-name="DE: SAT.1 GOLD HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_30D4_413_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: SAT.1 GOLD HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55692
+#EXTINF:-1 tvg-ID="vox.de" tvg-name="DE: VOX HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_EF11_421_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: VOX HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55693
+#EXTINF:-1 tvg-ID="vox.de" tvg-name="DE: VOX" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_2F1C_441_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: VOX
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55694
+#EXTINF:-1 tvg-ID="phoenix.de" tvg-name="DE: PHOENIX HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_285B_401_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: PHOENIX HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55695
+#EXTINF:-1 tvg-ID="kabel1.de" tvg-name="DE: KABEL EINS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_EF76_3F9_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: KABEL EINS HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55696
+#EXTINF:-1 tvg-ID="kabeleinsclassic.de" tvg-name="DE: KABEL EINS CLASSICS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_16_14C2_407_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: KABEL EINS CLASSICS HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55697
+#EXTINF:-1 tvg-ID="tele5.de" tvg-name="DE: TELE 5 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1519_455_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: TELE 5 HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55698
+#EXTINF:-1 tvg-ID="anixe.de" tvg-name="DE: ANIXE HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_526C_41D_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: ANIXE HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55699
+#EXTINF:-1 tvg-ID="dmax.de" tvg-name="DE: DMAX HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_151A_455_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: DMAX HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55700
+#EXTINF:-1 tvg-ID="one.de" tvg-name="DE: ONE 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2888_40F_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: ONE 1 HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55701
+#EXTINF:-1 tvg-ID="" tvg-name="===== DE: SPORT =====" tvg-logo="" group-title="EU GERMANY",===== DE: SPORT =====
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55702
+#EXTINF:-1 tvg-ID="Sky Sport News HD" tvg-name="DE: SKY SPORT NEWS HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_6C_C_85_C00000_0_0_0.png" group-title="EU GERMANY",DE: SKY SPORT NEWS HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55703
+#EXTINF:-1 tvg-ID="skysport1.de" tvg-name="DE: SKY SPORT 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_81_6_85_C00000_0_0_0.png" group-title="EU GERMANY",DE: SKY SPORT 1 HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55705
+#EXTINF:-1 tvg-ID="skysport2.de" tvg-name="DE: SKY SPORT 2" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_16_DE_2_85_C00000_0_0_0.png" group-title="EU GERMANY",DE: SKY SPORT 2
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55706
+#EXTINF:-1 tvg-ID="skysport2.de" tvg-name="DE: SKY SPORT 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_72_D_85_C00000_0_0_0.png" group-title="EU GERMANY",DE: SKY SPORT 2 HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55707
+#EXTINF:-1 tvg-ID="dazn.de" tvg-name="DE: DAZN 1 BAR HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_84_9_85_C00000_0_0_0.png" group-title="EU GERMANY",DE: DAZN 1 BAR HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55708
+#EXTINF:-1 tvg-ID="dazn.de" tvg-name="DE: DAZN 2 BAR HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_7A_10_85_C00000_0_0_0.png" group-title="EU GERMANY",DE: DAZN 2 BAR HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55709
+#EXTINF:-1 tvg-ID="skybundesliga1.de" tvg-name="DE: SKY BUNDESLIGA 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_69_C_85_C00000_0_0_0.png" group-title="EU GERMANY",DE: SKY BUNDESLIGA 1 HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55710
+#EXTINF:-1 tvg-ID="skybundesliga2.de" tvg-name="DE: SKY BUNDESLIGA 2 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_10B_6_85_C00000_0_0_0.png" group-title="EU GERMANY",DE: SKY BUNDESLIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55711
+#EXTINF:-1 tvg-ID="skybundesliga3.de" tvg-name="DE: SKY BUNDESLIGA 3 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_115_D_85_C00000_0_0_0.png" group-title="EU GERMANY",DE: SKY BUNDESLIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55712
+#EXTINF:-1 tvg-ID="skybundesliga4.de" tvg-name="DE: SKY BUNDESLIGA 4 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_11F_C_85_C00000_0_0_0.png" group-title="EU GERMANY",DE: SKY BUNDESLIGA 4 HD (ONLY DURING LIVE MATCHES)
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55713
+#EXTINF:-1 tvg-ID="skybundesliga5.de" tvg-name="DE: SKY BUNDESLIGA 5 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_D3_124_3_85_C00000_0_0_0.png" group-title="EU GERMANY",DE: SKY BUNDESLIGA 5 HD (ONLY DURING LIVE MATCHES)
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55714
+#EXTINF:-1 tvg-ID="skybundesliga6.de" tvg-name="DE: SKY BUNDESLIGA 6 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_D3_12E_3_85_C00000_0_0_0.png" group-title="EU GERMANY",DE: SKY BUNDESLIGA 6 HD (ONLY DURING LIVE MATCHES)
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55715
+#EXTINF:-1 tvg-ID="skybundesliga7.de" tvg-name="DE: SKY BUNDESLIGA 7 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_D3_138_3_85_C00000_0_0_0.png" group-title="EU GERMANY",DE: SKY BUNDESLIGA 7 HD (ONLY DURING LIVE MATCHES)
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55716
+#EXTINF:-1 tvg-ID="skybundesliga8.de" tvg-name="DE: SKY BUNDESLIGA 8 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_D3_142_3_85_C00000_0_0_0.png" group-title="EU GERMANY",DE: SKY BUNDESLIGA 8 HD (ONLY DURING LIVE MATCHES)
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55717
+#EXTINF:-1 tvg-ID="skybundesliga9.de" tvg-name="DE: SKY BUNDESLIGA 9 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_D3_14C_2_85_C00000_0_0_0.png" group-title="EU GERMANY",DE: SKY BUNDESLIGA 9 HD (ONLY DURING LIVE MATCHES)
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55718
+#EXTINF:-1 tvg-ID="skybundesliga10.de" tvg-name="DE: SKY BUNDESLIGA 10 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_D3_FC_3_85_C00000_0_0_0.png" group-title="EU GERMANY",DE: SKY BUNDESLIGA 10 HD (ONLY DURING LIVE MATCHES)
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55719
+#EXTINF:-1 tvg-ID="eurosport1.de" tvg-name="DE: EUROSPORT 1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_30D6_413_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: EUROSPORT 1 HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55720
+#EXTINF:-1 tvg-ID="eurosport2.de" tvg-name="DE: EUROSPORT 2 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_1_760E_408_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: EUROSPORT 2 HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55721
+#EXTINF:-1 tvg-ID="eurosport2xtra.de" tvg-name="DE: EUROSPORT 2 HD XTRA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_30D7_413_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: EUROSPORT 2 HD XTRA
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55722
+#EXTINF:-1 tvg-ID="motorvision.de" tvg-name="DE: MOTORVISION TV" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_16_A8_B_85_C00000_0_0_0.png" group-title="EU GERMANY",DE: MOTORVISION TV
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55723
+#EXTINF:-1 tvg-ID="sport1.de" tvg-name="DE: SPORT1 HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_1581_41F_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: SPORT1 HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55724
+#EXTINF:-1 tvg-ID="" tvg-name="===== DE: MUSIK =====" tvg-logo="" group-title="EU GERMANY",===== DE: MUSIK =====
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55725
+#EXTINF:-1 tvg-ID="jukebox.de" tvg-name="DE: JUKEBOX" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_16_191_9_85_C00000_0_0_0.png" group-title="EU GERMANY",DE: JUKEBOX
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55726
+#EXTINF:-1 tvg-ID="classica.de" tvg-name="DE: CLASSICA" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_16_18_4_85_C00000_0_0_0.png" group-title="EU GERMANY",DE: CLASSICA
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55727
+#EXTINF:-1 tvg-ID="mtvgermany.de" tvg-name="DE: MTV HD" tvg-logo="http://www.vodkom.com:25461/images/Astra19/1_0_19_2777_409_1_C00000_0_0_0.png" group-title="EU GERMANY",DE: MTV HD
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/55728
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Alidaa Alwatania" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/idaawataniya.png" tvg-shift="0" group-title="Radio MOROCCO", Alidaa Alwatania
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8
