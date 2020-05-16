@@ -1,97 +1,97 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="DUBAI OLA HD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", DUBAI OLA HD
+#EXTINF:-1 tvg-id="ext" tvg-name="DUBAI OLA HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/dubaitv.png" tvg-shift="0" group-title="EMIRATES", DUBAI OLA HD
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dubai One" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Dubai One
+#EXTINF:-1 tvg-id="" tvg-name="Dubai One" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Dubaione.png" tvg-shift="0" group-title="EMIRATES", Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sharjah TV SD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Sharjah TV SD
+#EXTINF:-1 tvg-id="" tvg-name="Sharjah TV SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Sharjah TV SD
 https://svs.itworkscdn.net/smc1live/smc1.smil//playlist_360p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sharjah TV HD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Sharjah TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Sharjah TV HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Sharjah TV HD
 https://svs.itworkscdn.net/smc1live/smc1.smil//playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DUBAI ONE HD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", DUBAI ONE HD
+#EXTINF:-1 tvg-id="ext" tvg-name="DUBAI ONE HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Dubaione.png" tvg-shift="0" group-title="EMIRATES", DUBAI ONE HD
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="NOOR DUBAI HD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", NOOR DUBAI HD
+#EXTINF:-1 tvg-id="ext" tvg-name="NOOR DUBAI HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/noordubai.png" tvg-shift="0" group-title="EMIRATES", NOOR DUBAI HD
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8?
-#EXTINF:-1 tvg-id="ext" tvg-name="SAMA DUBAI" tvg-logo="" tvg-shift="0" group-title="EMIRATES", SAMA DUBAI
+#EXTINF:-1 tvg-id="ext" tvg-name="SAMA DUBAI" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", SAMA DUBAI
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DUBAI.ZAMAN" tvg-logo="" tvg-shift="0" group-title="EMIRATES", DUBAI.ZAMAN
+#EXTINF:-1 tvg-id="ext" tvg-name="DUBAI.ZAMAN" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/dubayzman.png" tvg-shift="0" group-title="EMIRATES", DUBAI.ZAMAN
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DUBAI Racing" tvg-logo="" tvg-shift="0" group-title="EMIRATES", DUBAI Racing
+#EXTINF:-1 tvg-id="ext" tvg-name="DUBAI Racing" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Dubaitrand.png" tvg-shift="0" group-title="EMIRATES", DUBAI Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiTV.uk" tvg-name="Abu Dhabi TV HD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Abu Dhabi TV HD
+#EXTINF:-1 tvg-id="AbuDhabiTV.uk" tvg-name="Abu Dhabi TV HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Abudabialoula.png" tvg-shift="0" group-title="EMIRATES", Abu Dhabi TV HD
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Abu Dhabi Drama HD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Abu Dhabi Drama HD
+#EXTINF:-1 tvg-id="ext" tvg-name="Abu Dhabi Drama HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/DubaiDrama.png" tvg-shift="0" group-title="EMIRATES", Abu Dhabi Drama HD
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL Emarat SD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", AL Emarat SD
+#EXTINF:-1 tvg-id="" tvg-name="AL Emarat SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", AL Emarat SD
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="AL Emarat HD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", AL Emarat HD
+#EXTINF:-1 tvg-id="ext" tvg-name="AL Emarat HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", AL Emarat HD
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL Emarat SD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", AL Emarat SD
+#EXTINF:-1 tvg-id="" tvg-name="AL Emarat SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", AL Emarat SD
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Dubai SD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", National Geographic Dubai SD
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Dubai SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Natgo.png" tvg-shift="0" group-title="EMIRATES", National Geographic Dubai SD
 http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Dubai" tvg-logo="" tvg-shift="0" group-title="EMIRATES", National Geographic Dubai
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Dubai" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Natgo.png" tvg-shift="0" group-title="EMIRATES", National Geographic Dubai
 http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hawas TV SD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Hawas TV SD
+#EXTINF:-1 tvg-id="" tvg-name="Hawas TV SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Hawas TV SD
 https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="AL Dafrah TV" tvg-logo="" tvg-shift="0" group-title="EMIRATES", AL Dafrah TV
+#EXTINF:-1 tvg-id="ext" tvg-name="AL Dafrah TV" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", AL Dafrah TV
 http://aldafrahtv.noip.us:1935/live/_definst_/myStream2/chunklist_w1054759444.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Sharqiya HD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Al Sharqiya HD
+#EXTINF:-1 tvg-id="" tvg-name="Al Sharqiya HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Al Sharqiya HD
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Sharqiya SD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Al Sharqiya SD
+#EXTINF:-1 tvg-id="" tvg-name="Al Sharqiya SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Al Sharqiya SD
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_360p_chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sharjah 2 HD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Sharjah 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sharjah 2 HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Sharjah 2 HD
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2tv_chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sharjah 2 SD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Sharjah 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="Sharjah 2 SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Sharjah 2 SD
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2tv_360p_chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ajman" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Ajman
+#EXTINF:-1 tvg-id="" tvg-name="Ajman" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Ajman
 http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ajyal TV" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Ajyal TV
+#EXTINF:-1 tvg-id="" tvg-name="Ajyal TV" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Sharjah" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Sharjah
+#EXTINF:-1 tvg-id="ext" tvg-name="Sharjah" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Sharjah
 https://r3---sn-25glene6.googlevideo.com/videoplayback?expire=1588717330&ei=spKxXsDKJYSEhwbX_ZPoBg&ip=78.31.205.6&id=8N8GWcez6j4.0&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=Yd&mm=44%2C26&mn=sn-25glene6%2Csn-aigzrner&ms=lva%2Conr&mv=m&mvi=2&pl=24&initcwndbps=725000&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&gir=yes&mt=1588695622&fvip=3&keepalive=yes&fexp=23882513&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AJpPlLswRgIhALqyauh_VbyRPmdYpd_8YnNW9XPAHMBBwxfQeNAPajWwAiEAr1fX5vC-PNeSXr8LVTp8o6phkJJGjBbDhyqkML_VnOk%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=ALrAebAwRQIgNsOrhYZekLOrpxQC7U36rG5mnYA_i9NG4jFkgug6aYQCIQDskGOdY8HZnfbGtd2eofmk0jop0OC5Q_H5PkuJQfTD5w%3D%3D&alr=yes&cpn=X-En_0g7T6EXJlco&cver=20200502&headm=3&rn=1
-#EXTINF:-1 tvg-id="" tvg-name="Alwousta TV HD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Alwousta TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Alwousta TV HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Alwousta TV HD
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alwousta TV SD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Alwousta TV SD
+#EXTINF:-1 tvg-id="" tvg-name="Alwousta TV SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Alwousta TV SD
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist_360p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ALAN" tvg-logo="" tvg-shift="0" group-title="EMIRATES", ALAN
+#EXTINF:-1 tvg-id="ext" tvg-name="ALAN" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", ALAN
 http://livecdnh3.tvanywhere.ae/hls/alaantv/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Citruss TV" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Citruss TV
+#EXTINF:-1 tvg-id="" tvg-name="Citruss TV" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Citruss TV
 https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YES TV HD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", YES TV HD
+#EXTINF:-1 tvg-id="" tvg-name="YES TV HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", YES TV HD
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YES TV SD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", YES TV SD
+#EXTINF:-1 tvg-id="" tvg-name="YES TV SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", YES TV SD
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="YES TV DUF" tvg-logo="" tvg-shift="0" group-title="EMIRATES", YES TV DUF
+#EXTINF:-1 tvg-id="" tvg-name="YES TV DUF" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", YES TV DUF
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Dafrah TV" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Al Dafrah TV
+#EXTINF:-1 tvg-id="" tvg-name="Al Dafrah TV" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Al Dafrah TV
 https://dcunilive50-lh.akamaihd.net/i/dclive_1@752146/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 1 HD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Abu Dhabi Sports 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Abu Dhabi Sports 1 HD
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 1 SD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Abu Dhabi Sports 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 1 SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Abu Dhabi Sports 1 SD
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 2 HD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Abu Dhabi Sports 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 2 HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Abu Dhabi Sports 2 HD
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 2 SD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Abu Dhabi Sports 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 2 SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Abu Dhabi Sports 2 SD
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 3 HD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Abu Dhabi Sports 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 3 HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Abu Dhabi Sports 3 HD
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 3 SD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Abu Dhabi Sports 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 3 SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Abu Dhabi Sports 3 SD
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 4 HD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Abu Dhabi Sports 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 4 HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Abu Dhabi Sports 4 HD
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 4 SD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Abu Dhabi Sports 4 SD
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 4 SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Abu Dhabi Sports 4 SD
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Shariqa Sport HD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Shariqa Sport HD
+#EXTINF:-1 tvg-id="" tvg-name="Shariqa Sport HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Shariqa Sport HD
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 1" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 1" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 2" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 2" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 3" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 3" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 4" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 4
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 4" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 5" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 5
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 5" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1 tvg-id="" tvg-name="Shariqa Sport SD" tvg-logo="" tvg-shift="0" group-title="EMIRATES", Shariqa Sport SD
+#EXTINF:-1 tvg-id="" tvg-name="Shariqa Sport SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Shariqa Sport SD
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_360p_chunks.m3u8
