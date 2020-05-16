@@ -16,3 +16,7 @@ https://vod.medi1tv.com/F0033753.mp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/mbc5.png" group-title="MBC",  أبو العروسة - الحلقة 4
 https://proxy-033.dc3.dailymotion.com/sec(S79Vn__uekJ7THocE7ur5gANM8Ds336moHiKgKWtiKUm6OEfjiXIdod5yC5npl8l5q89CRr9kXvFv4gbl59pVuUz1BEJT5X8FbKnjVx2k7w)/video/139/307/395703931_mp4_h264_aac_hd.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/mbc5.png" group-title="MBC", test
+https://belugacdn.shoofmax.com/contac/ep1/720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/mbc5.png" group-title="MBC", test
+https://belugacdn.shoofmax.com/contac/ep1/1080p/index.m3u8
