@@ -66,6 +66,10 @@ https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2tv_360p_chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ajman" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/ajmantv.png" tvg-shift="0" group-title="EMIRATES", Ajman
 http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Nour Dubai" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/logo-noordubai.png" tvg-shift="0" group-title="EMIRATES",Nour Dubai
+
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ajyal TV" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/" tvg-shift="0" group-title="EMIRATES", Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 
@@ -129,11 +133,11 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1 tvg-id="" tvg-name="Shariqa Sport SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alkas5.png" tvg-shift="0" group-title="EMIRATES", Shariqa Sport SD
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_360p_chunks.m3u8
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Al Sharijah Radio" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/sharijaradio.png" tvg-shift="0" group-title="EMIRATES Radio", Al Sharijah Radio
 https://svs.itworkscdn.net/smcweblive/sharjahweb/chunks.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="Plus" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Pulse.png" tvg-shift="0" group-title="EMIRATES Radio", Plus 95 Radio
 https://svs.itworkscdn.net/pulse95live/pulse96vision/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Nour Dubai" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/logo-noordubai.png" tvg-shift="0" group-title="EMIRATES Radio", Nour Dubai
+http://dmithrvll.cdn.mangomolo.com/noordubairdo/noordubairdo_aac/chunklist.m3u8
