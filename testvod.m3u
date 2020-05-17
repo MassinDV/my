@@ -1,9 +1,9 @@
 #EXTM3U size="medium"
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaraby.png" type="video" description="2013" group-title="Hdiddan", Epsiond 2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaraby.png" type="video" group-title="Hdiddan" description="2013" group-title="Hdiddan", Epsiond 2
 https://proxy-041.dc3.dailymotion.com/sec(zBLo9_ZO9Yz5cZ8xnl9pTs7m3pNfAP7ygzGQzvyFDuHj7Vy0mxyqXMhLOtrfUc58cUmYzE1ekJkw-UynDIvH3bebJiA1tKw6rj-79BFIfpA)/video/641/614/26416146_mp4_h264_aac_hq.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaraby.png" type="video" description="2013" group-title="Hdiddan", Epsiond 1 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaraby.png" type="video" group-title="Hdiddan" description="2013" group-title="Hdiddan", Epsiond 1 
 https://proxy-041.dc3.dailymotion.com/sec(zBLo9_ZO9Yz5cZ8xnl9pTs7m3pNfAP7ygzGQzvyFDuHj7Vy0mxyqXMhLOtrfUc58cUmYzE1ekJkw-UynDIvH3bebJiA1tKw6rj-79BFIfpA)/video/641/614/26416146_mp4_h264_aac_hq.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaraby.png" type="video" description="2013" group-title="Hdiddan", Epsiond 3
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaraby.png" type="video" group-title="Hdiddan" description="2013" group-title="Hdiddan", Epsiond 3
 https://proxy-041.dc3.dailymotion.com/sec(zBLo9_ZO9Yz5cZ8xnl9pTs7m3pNfAP7ygzGQzvyFDuHj7Vy0mxyqXMhLOtrfUc58cUmYzE1ekJkw-UynDIvH3bebJiA1tKw6rj-79BFIfpA)/video/641/614/26416146_mp4_h264_aac_hq.m3u8
