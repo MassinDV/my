@@ -17,8 +17,11 @@ https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/aljazeeramobashir.png .png" tvg-shift="0" group-title="Qatar", Al Jazeera Mobashir SD
 https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Jazeera Documentary " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/aljazeeramobashir.png .png" tvg-shift="0" group-title="Qatar", Ja Documentary SD
-https://r3---sn-cxab5jvh-cg0e6.googlevideo.com/videoplayback?expire=1589704947&ei=k6TAXvLiFJOm1gLSvaGgBQ&ip=81.11.221.28&id=69mnGsxTtAY.0&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mh=zy&mm=44%2C29&mn=sn-cxab5jvh-cg0e6%2Csn-5hne6nlk&ms=lva%2Crdu&mv=m&mvi=2&pl=17&gcr=be&initcwndbps=933750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1589683280&fvip=3&keepalive=yes&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIgeqppgDzdBDLG-kmSWT7fxr9r0_iBYDKjAf6SkRn1wxwCIQD8x4cG6ql8rUR48c_pXZ5QMupUnb3CqnDksDK-l9V2wg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgH-Qt7_Auqn4SoCrU14yAcTYopnwRnomL7J3UkJFU3HECIQC1T1v4cIyurog6eqHg8McOcqke6g9GHfqZpXKpB7_GZg%3D%3D
+#EXTINF:-1 tvg-id="ext" tvg-name="Jazeera Documentary " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/AljazeeraDoc.png" tvg-shift="0" group-title="Qatar", Ja Documentary HD
+https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Jazeera Documentary " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/AljazeeraDoc.png" tvg-shift="0" group-title="Qatar", Ja Documentary SD
+https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Al Araby " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaraby.png" tvg-shift="0" group-title="Qatar", Al Araby HD 
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
