@@ -11,7 +11,9 @@ http://example.com/playlists/2010-2014.m3u
 #EXTSIZE: Medium
 http://example.com/playlists/a-z.m3u
 #EXTINF:0 tvg-logo="http://example.com/logos/docs.png", documentary
-http://example.com/playlists/docs.m3u
+#EXTM3U size="medium"
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaraby.png" type="video" description="2014", Edge of Tomorrow
+https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
 #EXTINF:0 tvg-logo="http://example.com/logos/drama.png", Drama
 http://example.com/playlists/drama.m3u
 #EXTINF:0 tvg-logo="http://example.com/logos/comedy.png", Comedy
