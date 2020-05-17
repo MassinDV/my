@@ -17,7 +17,8 @@ https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/aljazeeramobashir.png .png" tvg-shift="0" group-title="Qatar", Al Jazeera Mobashir SD
 https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
 
-
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/aljazeeramobashir.png .png" tvg-shift="0" group-title="Qatar", Ja Documentary SD
+http://192.34.153.37:7777/AlJazeeraDocument_HD/AlJazeeraDocument_High.m3u8?user=sgls540839&session=229a67d2167b73b229817e6af37cef1ca085d5d4dfa788c27c0f8772c4f2024f&hlsid=HTTP_ID_11071&starttime=20200504T202449.777388
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Al Araby " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaraby.png" tvg-shift="0" group-title="Qatar", Al Araby HD 
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
