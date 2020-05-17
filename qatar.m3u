@@ -1,0 +1,25 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-name="Rayan 1 HD " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/akrayyan1.png" tvg-shift="0" group-title="Qatar", Rayan 1 HD 
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Rayan 2 HD " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/akrayyan1.png" tvg-shift="0" group-title="Qatar", Rayan Qadim HD 
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeempublich/alrayyanqadeem/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Qatar 1 HD " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/qtv.png" tvg-shift="0" group-title="Qatar", Qatar 1 HD
+http://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master720p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Qatar Talimya HD " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/qtvEdu1.png" tvg-shift="0" group-title="Qatar", Qatar Talimya HD
+http://qtv-i.akamaihd.net/hls/live/1019478-b/QTVEdu1/master720p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Qatar Talimya SD " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/qtvEdu1.png" tvg-shift="0" group-title="Qatar", Qatar Talimya SD
+http://qtv-i.akamaihd.net/hls/live/1019478/QTVEdu1/master576p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Qatar Talimya 2 HD " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/qtvEdu2.png" tvg-shift="0" group-title="Qatar", Qatar Talimya 2 HD
+http://qtv-i.akamaihd.net/hls/live/1019479/QTVEdu2/master720p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Qatar Talimya 2 SD " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/qtvEdu2.png" tvg-shift="0" group-title="Qatar", Qatar Talimya 2 SD
+http://qtv-i.akamaihd.net/hls/live/1019479-b/QTVEdu2/master720p.m3u8
+
+
+
