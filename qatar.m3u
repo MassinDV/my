@@ -47,29 +47,29 @@ http://qtv-i.akamaihd.net/hls/live/1019479/QTVEdu2/master720p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Qatar Talimya 2 SD " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/qtvEdu2.png" tvg-shift="0" group-title="Qatar", Qatar Talimya 2 SD
 http://qtv-i.akamaihd.net/hls/live/1019479-b/QTVEdu2/master720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 1" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport1.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 1" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport1.png" tvg-shift="0" group-title="Qatar", Al Kass Sports 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 1 *" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport1.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 1*
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 1 *" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport1.png" tvg-shift="0" group-title="Qatar", Al Kass Sports 1*
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1laoGlw/master570.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 2" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport2.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 2" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport2.png" tvg-shift="0" group-title="Qatar", Al Kass Sports 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 2 *" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport2.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 2*
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 2 *" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport2.png" tvg-shift="0" group-title="Qatar", Al Kass Sports 2*
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2baIzzy/master570.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 3" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport1.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 3
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 3" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport1.png" tvg-shift="0" group-title="Qatar", Al Kass Sports 3
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
 
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 4" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/qa-al-kass-four.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 4*
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 4" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/qa-al-kass-four.png" tvg-shift="0" group-title="Qatar", Al Kass Sports 4*
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 4" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/qa-al-kass-four.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 4
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 4" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/qa-al-kass-four.png" tvg-shift="0" group-title="Qatar", Al Kass Sports 4
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjeApo/master570.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 5" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alkas5.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 5
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 5" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alkas5.png" tvg-shift="0" group-title="Qatar", Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Shariqa Sport SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alkas5.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports Online
+#EXTINF:-1 tvg-id="" tvg-name="Shariqa Sport SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alkas5.png" tvg-shift="0" group-title="Qatar", Al Kass Sports Online
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlinespfwGsd/master570.m3u8
 
 http://52.178.28.223:1935/QURAN/myStream/index.m3u8
