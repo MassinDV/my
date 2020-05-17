@@ -1,19 +1,19 @@
 #EXTINF:
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Hiwartun.png" type="video" description="Tunisie" group-title="Tunisie", Al Hiwar HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/tu/Hiwartun.png" type="video" description="Tunisie" group-title="Tunisie", Al Hiwar HD
 https://live.vimeocdn.com/1589741799-0x8703d884c3fc3285b0b31318aa64c92027d5d2ee/92872e2f-3dc4-48eb-9b9a-5889d93bcae8/chunklist_b3256000.m3u8?max_segments=10
 
 
 #EXTINF:-1,Al Hiwar HDW
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/index.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/aljanoubia.png" type="video" description="Tunisie" group-title="Tunisie", Al Janoubia TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/tu/aljanoubia.png" type="video" description="Tunisie" group-title="Tunisie", Al Janoubia TV
 http://92.222.93.75:1935/live2/samir/index.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/saheltv.png" type="video" description="Tunisie" group-title="Tunisie", Sahel TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/tu/saheltv.png" type="video" description="Tunisie" group-title="Tunisie", Sahel TV
 ttps://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/index.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/telvza.png" type="video" description="Tunisie" group-title="Tunisie", Telvza
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/tu/telvza.png" type="video" description="Tunisie" group-title="Tunisie", Telvza
 http://149.202.197.2:1935/telvzaweb/myStream/index.m3u8a
 
 #EXTINF:-1,Watan TV (Opt-1)
