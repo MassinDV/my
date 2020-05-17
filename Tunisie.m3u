@@ -21,13 +21,13 @@ https://streaming.toutech.net/live/jfm/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/tu/jawhara.png" type="video" description="Tunisie" group-title="Tunisie", Jawhara FM (Opt-2)
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 
-#EXTINF:-1,Nessma TV HD*
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/tu/nesma.png" type="video" description="Tunisie" group-title="Tunisie",Nessma TV HD*
 https://stream-15.dc3.dailymotion.com/sec(URBhp0zYv0oL3J-5svQBhi7gAevJ7SmU9UZASS0YKqs)/dm/3/x7lmd4f/s/live-3.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/tu/nesma.png" type="video" description="Tunisie" group-title="Tunisie",Nessma TV HD
 http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/tu/nesma.png" type="video" description="Tunisie" group-title="Tunisie",Nessma TV HD*
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/tu/nesma.png" type="video" description="Tunisie" group-title="Tunisie",Nessma TV HD**
 https://stream-15.dc3.dailymotion.com/sec(URBhp0zYv0oL3J-5svQBhi7gAevJ7SmU9UZASS0YKqs)/dm/3/x7lmd4f/s/live-3.m3u8
 
 
