@@ -20,7 +20,7 @@ http://95.170.215.109/hls/m3u8/Karameesh-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/jordantv.png" group-title="Jordan", A1 Jordan
 http://livecdnh2.tvanywhere.ae/hls/jordan/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/KarameeshTv.jpg" group-title="Jordan", Jordan tv.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/jordantv.png" group-title="Jordan", Jordan tv.
 http://stream.joinvisions.net:1935/jorlive/jrtv/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/jordansport.png" group-title="Jordan", Jordan Sport
