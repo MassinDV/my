@@ -1,5 +1,30 @@
 
 #EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/aljazeera.png" tvg-shift="0" group-title="Qatar", Al Jazeera HD 
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/aljazeera.png" tvg-shift="0" group-title="Qatar", Al Jazeera SD 
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/aljazeeranen.png" tvg-shift="0" group-title="Qatar", Al Jazeera English HD 
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/aljazeeranen.png" tvg-shift="0" group-title="Qatar", Al Jazeera English SD 
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/aljazeeramobashir.png .png" tvg-shift="0" group-title="Qatar", Al Jazeera Mobashir HD
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/aljazeeramobashir.png .png" tvg-shift="0" group-title="Qatar", Al Jazeera Mobashir SD
+https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Araby " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaraby.png" tvg-shift="0" group-title="Qatar", Al Araby HD 
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Araby " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaraby.png" tvg-shift="0" group-title="Qatar", Al Araby SD
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="Rayan 1 HD " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/akrayyan1.png" tvg-shift="0" group-title="Qatar", Rayan 1 HD 
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan/chunks.m3u8
 
@@ -45,6 +70,8 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
 #EXTINF:-1 tvg-id="" tvg-name="Shariqa Sport SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alkas5.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports Online
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlinespfwGsd/master570.m3u8
+
+http://52.178.28.223:1935/QURAN/myStream/index.m3u8
 
 
 
