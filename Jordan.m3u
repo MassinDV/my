@@ -1,0 +1,25 @@
+#EXTINF:
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/Almamlkatv.png" group-title="Jordan",Al mamlaka Tv
+https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/roya.png" group-title="Jordan", Roya TV
+https://roya-live.ercdn.net/roya/roya_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/royanews.png" group-title="Jordan", Roya News TV
+https://roya-live.ercdn.net/roya/roya_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/altaghier-tv.png" group-title="Jordan", Altaghier tv
+https://playback2.akamaized.net/streams/17678123_8170529_lsicrawl8evgloosgrd_1/exp=1589841343~acl=%2f*~data=hdntl~hmac=5186fcf277435585e8e0ab336148a881413e6204ac6d48d908918ab988aacb02/media/17678123_8170529_lsicrawl8evgloosgrd_1@2128000pb.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/kaifatv.png" group-title="Jordan", Kaifa TV
+http://192.34.153.37:7777/Kaifa_HD/Kaifa_High.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/KarameeshTv.jpg" group-title="Jordan", Karameesh Tv
+http://www.elahmad.com/loading.mp4?id=karameeshtv
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/jordantv.png" group-title="Jordan", A1 Jordan
+http://192.34.153.37:7777/A1Jordan_HD/A1Jordan_High.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/KarameeshTv.jpg" group-title="Jordan", Jordan tv.
+http://www.elahmad.com/loading.mp4?id=jordantv
+
