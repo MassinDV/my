@@ -9,17 +9,25 @@ https://roya-live.ercdn.net/roya/roya_720p.m3u8
 https://roya-live.ercdn.net/roya/roya_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/altaghier-tv.png" group-title="Jordan", Altaghier tv
-https://playback2.akamaized.net/streams/17678123_8170529_lsicrawl8evgloosgrd_1/exp=1589841343~acl=%2f*~data=hdntl~hmac=5186fcf277435585e8e0ab336148a881413e6204ac6d48d908918ab988aacb02/media/17678123_8170529_lsicrawl8evgloosgrd_1@2128000pb.m3u8
+https://api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/kaifatv.png" group-title="Jordan", Kaifa TV
 http://192.34.153.37:7777/Kaifa_HD/Kaifa_High.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/KarameeshTv.jpg" group-title="Jordan", Karameesh Tv
-http://www.elahmad.com/loading.mp4?id=karameeshtv
+http://95.170.215.109/hls/m3u8/Karameesh-Backup.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/jordantv.png" group-title="Jordan", A1 Jordan
-http://192.34.153.37:7777/A1Jordan_HD/A1Jordan_High.m3u8
+http://livecdnh2.tvanywhere.ae/hls/jordan/04.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/KarameeshTv.jpg" group-title="Jordan", Jordan tv.
-http://www.elahmad.com/loading.mp4?id=jordantv
+http://stream.joinvisions.net:1935/jorlive/jrtv/playlist.m3u8?DVR
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/jordansport.png" group-title="Jordan", Jordan Sport
+http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/jordansport.png" group-title="Jordan", Jordan Sport HD
+http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/ammantv.png" group-title="Jordan", Amman TV
+https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
