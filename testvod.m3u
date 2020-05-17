@@ -1,28 +1,29 @@
-#EXTM3U
-#EXTINF:0 type="playlist", 2015
-#EXTSIZE: Medium
 #EXTM3U size="medium"
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaraby.png" type="video" description="2014", Edge of Tomorrow
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaraby.png" type="video" description="2014" group-title="Qatar", Edge of Tomorrow
 https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
-#EXTINF:0 type="playlist", 2010-2014
-#EXTSIZE: Medium
-http://example.com/playlists/2010-2014.m3u
-#EXTINF:0 type="playlist", A-Z
-#EXTSIZE: Medium
-http://example.com/playlists/a-z.m3u
-#EXTINF:0 tvg-logo="http://example.com/logos/docs.png", documentary
-#EXTM3U size="medium"
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaraby.png" type="video" description="2014", Edge of Tomorrow
+#EXTINF:0 tvg-logo="http://examples.com/logos/films/fantastic2.png" type="video" description="2005"group-title="Qatar", Flightplan
 https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
-#EXTINF:0 tvg-logo="http://example.com/logos/drama.png", Drama
-http://example.com/playlists/drama.m3u
-#EXTINF:0 tvg-logo="http://example.com/logos/comedy.png", Comedy
-http://example.com/playlists/comedy.m3u
-#EXTINF:0 tvg-logo="http://example.com/logos/serials.png", TV Series
-http://example.com/playlists/serials.m3u
-#EXTINF:0 tvg-logo="http://example.com/logos/trillers.png", Triller
-http://example.com/playlists/trillers.m3u
-#EXTINF:0 tvg-logo="http://example.com/logos/horror.png", Horror
-http://example.com/playlists/horror.m3u
-#EXTINF:0 tvg-logo="http://example.com/logos/fantastic.png", Fiction
-http://example.com/playlists/fantastic.m3u
+#EXTINF:0 tvg-logo="http://examples.com/logos/films/fantastic3.png" type="video" description="1997", Gattaca
+https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
+#EXTINF:0 tvg-logo="http://examples.com/logos/films/fantastic4.png" type="video" description="2003", Identity
+http://example.com/stream4
+#EXTINF:0 tvg-logo="http://examples.com/logos/films/fantastic5.png" type="video" description="2014", Interstellar
+http://example.com/stream5
+#EXTINF:0 tvg-logo="http://examples.com/logos/films/fantastic6.png" type="video" description="2010", Inception
+http://example.com/stream6
+#EXTINF:0 tvg-logo="http://examples.com/logos/films/fantastic7.png" type="video" description="2001", K-PAX
+http://example.com/stream7
+#EXTINF:0 tvg-logo="http://examples.com/logos/films/fantastic8.png" type="video" description="1999", Matrix
+https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
+#EXTINF:0 tvg-logo="http://examples.com/logos/films/fantastic9.png" type="video" description="2002", The Bourne Identity
+http://example.com/stream9
+#EXTINF:0 tvg-logo="http://examples.com/logos/films/fantastic10.png" type="video" description="2004", The Butterfly Effect
+http://example.com/stream10
+#EXTINF:0 tvg-logo="http://examples.com/logos/films/fantastic11.png" type="video" description="2008", The Curious Case of Benjamin Button
+http://example.com/stream11
+#EXTINF:0 tvg-logo="http://examples.com/logos/films/fantastic12.png" type="video" description="2008", The Dark Knight
+http://example.com/stream12
+#EXTINF:0 tvg-logo="http://examples.com/logos/films/fantastic13.png" type="video" description="2012", The Dark Knight Rises
+http://example.com/stream13
+#EXTINF:0 tvg-logo="http://examples.com/logos/films/fantastic14.png" type="video" description="1997", The Fifth Element
+http://example.com/stream14
