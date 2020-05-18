@@ -42,7 +42,7 @@ http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele Maroc" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/telemaroc.png" tvg-shift="0" group-title="MOROCCO", TELE MAROC HD
 https://playback.akamaized.net/streams/27130247_8196478_lsilr5z1qre0hmfo5wc_1/media/27130247_8196478_lsilr5z1qre0hmfo5wc_1@5256000pb.m3u8?dw=14400&ts=1589475600&hdnts=exp=1589649341~acl=/streams/27130247_8196478_lsilr5z1qre0hmfo5wc_1/media*~hmac=5d4ee2ae0a9f22238078e3fffd9b4e02a3f747059c797f99621188a57140725c
 
-#EXTINF:-1 tvg-id="" tvg-name="Tele Maroc" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rtvm.png" tvg-shift="0" group-title="MOROCCO", TELE MAROC HD
+#EXTINF:-1 tvg-id="" tvg-name="Tele Maroc" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rtvm.png" tvg-shift="0" group-title="MOROCCO", TV Melilla
 https://tvmelilla-hls-rm-lw.flumotion.com/chunklist_b1088000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/mbc5.jpg" tvg-shift="0" group-title="MOROCCO", MBC 5
