@@ -1,4 +1,5 @@
 
+#EXTM3U size="medium"
 #EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="MBC",MBC 1 HD
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="MBC",MBC 1 SD
