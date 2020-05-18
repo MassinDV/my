@@ -155,6 +155,7 @@ https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/Cv0DwdMoiLcHNzeurBQjNuhX72y
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="EG" tvg-url="" group-title="Egypt",TokTok
-http://95.170.215.109/hls/m3u8/TokTok-Backup.m3u8
+https://kanlivep2event-i.akamaihd.net/hls/live/747613-b/747613/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.watanegypt.tv/design/home/img/f-logo.png" tvg-country="EG" tvg-url="" group-title="Egypt",Watan
 http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
+
