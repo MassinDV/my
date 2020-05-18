@@ -28,23 +28,11 @@ http://livecdnh2.tvanywhere.ae/hls/hayat/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="EG" tvg-url="" group-title="Egypt",Al Kahera Wa Nas
 http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
 
-------------#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="EG" tvg-url="" group-title="",Cairo Cinema
-http://95.170.215.109/hls/m3u8/CairoCine-Backup.m3u8
-
-----------#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rqC93aC.png" tvg-country="EG" tvg-url="" group-title="Egypt",Cairo Drama
-http://95.170.215.109/hls/m3u8/Cairo-Dra-Backup.m3u8
-
---------#EXTINF:-1 tvg-id="CBC ARB" tvg-name="CBC ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VZmLIY2.png" tvg-country="EG" tvg-url="" group-title="Egypt",CBC
-http://95.170.215.109/hls/CBC-Backup-M.m3u8
-
 #EXTINF:-1 tvg-id="CBC ARB" tvg-name="CBC ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VZmLIY2.png" tvg-country="EG" tvg-url="" group-title="Egypt",CBC
 http://livecdnh2.tvanywhere.ae/hls/cap_brd_cen/index.m3u8
 
 #EXTINF:-1 tvg-id="CBC Drama ARB" tvg-name="CBC Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VW5Qk23.png" tvg-country="EG" tvg-url="" group-title="Egypt",CBC Drama
 http://livecdnh2.tvanywhere.ae/hls/cbc_drama/index.m3u8
-
---------#EXTINF:-1 tvg-id="CBC Sofra ARB" tvg-name="CBC Sofra ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8voC3Ns.png" tvg-country="EG" tvg-url="" group-title="Egypt",CBC Sofra
-http://95.170.215.109/hls/CBC-Sofra-Backup-M.m3u8
 
 #EXTINF:-1 tvg-id="CBC Sofra ARB" tvg-name="CBC Sofra ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8voC3Ns.png" tvg-country="EG" tvg-url="" group-title="Egypt",CBC Sofra
 http://livecdnh2.tvanywhere.ae/hls/cbc_sof/index.m3u8
@@ -54,14 +42,6 @@ http://livecdnh1.tvanywhere.ae/hls/dmcdrama/index.m3u8
 
 #EXTINF:-1 tvg-id="dmc HD ARB" tvg-name="dmc HD ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/es7v1kI.png" tvg-country="EG" tvg-url="" group-title="Egypt",DMC HD
 http://livecdnh3.tvanywhere.ae/hls/dmchd/index.m3u8
-
--------#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zrP1AUO.png" tvg-country="EG" tvg-url="" group-title="Egypt",Dream 2
-http://livecdnh2.tvanywhere.ae/hls/dream2/index.m3u8
-
----------#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RxfBIwt.png" tvg-country="EG" tvg-url="" group-title="Egypt",Extra News
-http://95.170.215.109/hls/m3u8/EXtra-New-Backup.m3u8
-----------#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/cvoRyfm.png" tvg-country="EG" tvg-url="" group-title="Egypt",Huda TV
-http://41.33.67.146:1935/live/1mystream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mazzika ARB" tvg-name="Mazzika ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uaIndQt.png" tvg-country="EG" tvg-url="" group-title="Egypt",Mazzika
 http://livecdnh2.tvanywhere.ae/hls/mazzika/index.m3u8
