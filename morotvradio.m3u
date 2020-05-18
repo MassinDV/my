@@ -45,6 +45,9 @@ https://playback.akamaized.net/streams/27130247_8196478_lsilr5z1qre0hmfo5wc_1/me
 #EXTINF:-1 tvg-id="" tvg-name="Tele Maroc" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rtvm.png" tvg-shift="0" group-title="MOROCCO", TV Melilla
 https://tvmelilla-hls-rm-lw.flumotion.com/chunklist_b1088000.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Tele Maroc" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/ceuta-tv.png" tvg-shift="0" group-title="MOROCCO", TV Ceuta
+https://5924d3ad0efcf.streamlock.net/rtvcetv/rtvcetvlive/chunklist_w1223798893.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/mbc5.jpg" tvg-shift="0" group-title="MOROCCO", MBC 5
 https://shls-mbc5-prod.shahid.net/mbc5-prod_8.m3u8?filter=144_720&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTU4ODY2NTY1MiwiaWF0IjoxNTg4NjI5NjUyLCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iYzFuYS1wcm9kLnNoYWhpZC5uZXQvbWJjMW5hLXByb2QubTN1OD9maWx0ZXI9MTQ0XzcyMCJ9.zLjA7SdgeFXimZeeH_xOvkPo9wTjunfKUGdAUj1DbCE
 #EXTINF:-1 tvg-id="" tvg-name="ASSABIA Aflam" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aflamtv.png" tvg-shift="0" group-title="MOROCCO", TNT ASSABIA Aflam
