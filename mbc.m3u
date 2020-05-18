@@ -20,9 +20,9 @@ https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="MBC",MBC 4 SD
 https://shls-mbc4-prod.shahid.net/mbc4-prod_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/mbc5.png" group-title="MBC",MBC 5 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/mbc5.png" group-title="MBC",MBC 5 HD
 https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/mbc5.png" group-title="MBC",MBC 5 SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/mbc5.png" group-title="MBC",MBC 5 SD
 https://shls-mbc5-prod.shahid.net/mbc5-prod_2.m3u8
 
 
