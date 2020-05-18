@@ -1,0 +1,160 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hbC1X9B.png" tvg-country="EG" tvg-url="" group-title="Egypt", Watan TV
+http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hbC1X9B.png" tvg-country="EG" tvg-url="" group-title="Egypt", Watan TV*
+http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hbC1X9B.png" tvg-country="EG" tvg-url="" group-title="Egypt",Fox Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hbC1X9B.png" tvg-country="EG" tvg-url="" group-title="",Al Fath TV
+https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Al Kahera Wal Nass 1 ARB" tvg-name="Al Kahera Wal Nass 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8vSNskY.png" tvg-country="EG" tvg-url="" group-title="Egypt",Al Kahera Wal Nas
+http://livecdnh2.tvanywhere.ae/hls/kahera_nas/index.m3u8
+#EXTINF:-1 tvg-id="Al Nahar Drama ARB" tvg-name="Al Nahar Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rrPDwV0.png" tvg-country="EG" tvg-url="" group-title="",Al Nahar Drama
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/index.m3u8
+#EXTINF:-1 tvg-id="Al Nahar TV ARB" tvg-name="Al Nahar TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/B0ah9kI.png" tvg-country="EG" tvg-url="" group-title="Egypt",Al Nahar TV
+http://livecdnh2.tvanywhere.ae/hls/nahar_sd/index.m3u8
+
+#EXTINF:-1 tvg-id="Al Nahar TV ARB" tvg-name="Al Nahar TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/B0ah9kI.png" tvg-country="EG" tvg-url="" group-title="Egypt",Al Mehwar
+https://livestreaming5.onlinehorizons.net/hls-live/MehwarTVOnline/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="Al Nahar TV ARB" tvg-name="Al Nahar TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/B0ah9kI.png" tvg-country="EG" tvg-url="" group-title="Egypt", Al Sharq Tv
+https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/P733fzV.jpg" tvg-country="EG" tvg-url="" group-title="Egypt",Alhayah TV
+http://livecdnh2.tvanywhere.ae/hls/hayat/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="EG" tvg-url="" group-title="Egypt",Al Kahera Wa Nas
+http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
+
+------------#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="EG" tvg-url="" group-title="",Cairo Cinema
+http://95.170.215.109/hls/m3u8/CairoCine-Backup.m3u8
+
+----------#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rqC93aC.png" tvg-country="EG" tvg-url="" group-title="Egypt",Cairo Drama
+http://95.170.215.109/hls/m3u8/Cairo-Dra-Backup.m3u8
+
+--------#EXTINF:-1 tvg-id="CBC ARB" tvg-name="CBC ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VZmLIY2.png" tvg-country="EG" tvg-url="" group-title="Egypt",CBC
+http://95.170.215.109/hls/CBC-Backup-M.m3u8
+
+#EXTINF:-1 tvg-id="CBC ARB" tvg-name="CBC ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VZmLIY2.png" tvg-country="EG" tvg-url="" group-title="Egypt",CBC
+http://livecdnh2.tvanywhere.ae/hls/cap_brd_cen/index.m3u8
+
+#EXTINF:-1 tvg-id="CBC Drama ARB" tvg-name="CBC Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VW5Qk23.png" tvg-country="EG" tvg-url="" group-title="Egypt",CBC Drama
+http://livecdnh2.tvanywhere.ae/hls/cbc_drama/index.m3u8
+
+--------#EXTINF:-1 tvg-id="CBC Sofra ARB" tvg-name="CBC Sofra ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8voC3Ns.png" tvg-country="EG" tvg-url="" group-title="Egypt",CBC Sofra
+http://95.170.215.109/hls/CBC-Sofra-Backup-M.m3u8
+
+#EXTINF:-1 tvg-id="CBC Sofra ARB" tvg-name="CBC Sofra ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8voC3Ns.png" tvg-country="EG" tvg-url="" group-title="Egypt",CBC Sofra
+http://livecdnh2.tvanywhere.ae/hls/cbc_sof/index.m3u8
+
+#EXTINF:-1 tvg-id="dmc Drama ARB" tvg-name="dmc Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iRKkgto.jpg" tvg-country="EG" tvg-url="" group-title="Egypt",DMC Drama
+http://livecdnh1.tvanywhere.ae/hls/dmcdrama/index.m3u8
+
+#EXTINF:-1 tvg-id="dmc HD ARB" tvg-name="dmc HD ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/es7v1kI.png" tvg-country="EG" tvg-url="" group-title="Egypt",DMC HD
+http://livecdnh3.tvanywhere.ae/hls/dmchd/index.m3u8
+
+-------#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zrP1AUO.png" tvg-country="EG" tvg-url="" group-title="Egypt",Dream 2
+http://livecdnh2.tvanywhere.ae/hls/dream2/index.m3u8
+
+---------#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RxfBIwt.png" tvg-country="EG" tvg-url="" group-title="Egypt",Extra News
+http://95.170.215.109/hls/m3u8/EXtra-New-Backup.m3u8
+----------#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/cvoRyfm.png" tvg-country="EG" tvg-url="" group-title="Egypt",Huda TV
+http://41.33.67.146:1935/live/1mystream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mazzika ARB" tvg-name="Mazzika ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uaIndQt.png" tvg-country="EG" tvg-url="" group-title="Egypt",Mazzika
+http://livecdnh2.tvanywhere.ae/hls/mazzika/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="EG" tvg-url="" group-title="Egypt",MBC Masr 1
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="EG" tvg-url="" group-title="Egypt",MBC Masr 1
+https://shls-masr-prod.shahid.net/masr-prod.m3u8
+
+#EXTINF:-1 tvg-id="MBC Masr 2 ARB" tvg-name="MBC Masr 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7dQmaj6.png" tvg-country="EG" tvg-url="" group-title="Egypt",MBC Masr 2
+http://95.170.215.107/hls/MBC-Masr-2-Backu-M.m3u8
+
+#EXTINF:-1 tvg-id="MBC Masr 2 ARB" tvg-name="MBC Masr 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7dQmaj6.png" tvg-country="EG" tvg-url="" group-title="Egypt",MBC Masr 2
+https://shls-masr2-prod.shahid.net/masr2-prod.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/K0MQiNB.png" tvg-country="EG" tvg-url="" group-title="Egypt",Mekameleen TV
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xhR4dy0.jpg" tvg-country="EG" tvg-url="" group-title="Egypt",Nile Cinema
+http://livecdnh2.tvanywhere.ae/hls/nile_cin/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xhR4dy0.jpg" tvg-country="EG" tvg-url="" group-title="Egypt",Nile Cinema
+https://livestreaming5.onlinehorizons.net/hls-live/NTNNileCinema/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="Nile Drama ARB" tvg-name="Nile Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jiyPTfa.png" tvg-country="EG" tvg-url="" group-title="Egypt",Nile Drama
+http://livecdnh2.tvanywhere.ae/hls/nile_drama/index.m3u8
+
+#EXTINF:-1 tvg-id="Nile Drama ARB" tvg-name="Nile Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jiyPTfa.png" tvg-country="EG" tvg-url="" group-title="Egypt",Nile Drama*
+http://livecdnh2.tvanywhere.ae/hls/nile_drama/index.m3u8
+https://livestreaming5.onlinehorizons.net/hls-live/NTNNileDrama/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="Nile Sport ARB" tvg-name="Nile Sport ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X8hX15o.jpg" tvg-country="EG" tvg-url="" group-title="Egypt",Nile Sports
+http://livecdnh2.tvanywhere.ae/hls/nile_sp/index.m3u8
+
+#EXTINF:-1 tvg-id="Nile Sport ARB" tvg-name="Nile Sport ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X8hX15o.jpg" tvg-country="EG" tvg-url="" group-title="Egypt",Nile Sports*
+https://livestreaming5.onlinehorizons.net/hls-live/NTNNileSport/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="Nile Sport ARB" tvg-name="Nile Sport ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X8hX15o.jpg" tvg-country="EG" tvg-url="" group-title="Egypt", Nile Comedy
+https://livestreaming5.onlinehorizons.net/hls-live/NTNNileComedy/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="Nile Sport ARB" tvg-name="Nile Sport ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X8hX15o.jpg" tvg-country="EG" tvg-url="" group-title="Egypt", Nile Culture
+https://livestreaming5.onlinehorizons.net/hls-live/NTNNileCulture/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="Nile Sport ARB" tvg-name="Nile Sport ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X8hX15o.jpg" tvg-country="EG" tvg-url="" group-title="Egypt", Nile Familt
+https://livestreaming5.onlinehorizons.net/hls-live/NTNNileFamily/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="Nile Sport ARB" tvg-name="Nile Sport ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X8hX15o.jpg" tvg-country="EG" tvg-url="" group-title="Egypt", Nile Learning
+https://livestreaming5.onlinehorizons.net/hls-live/Learning1/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="Nile Sport ARB" tvg-name="Nile Sport ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X8hX15o.jpg" tvg-country="EG" tvg-url="" group-title="Egypt", Nile Live
+https://livestreaming5.onlinehorizons.net/hls-live/NTNNileLife/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EIqkKxU.jpg" tvg-country="EG" tvg-url="" group-title="Egypt",ON  Drama
+https://video-weaver.prg02.hls.ttvnw.net/v1/playlist/Cv4DqUUliSpkpkyxJtYXdW8JOhLAbrcQ1n_oGAS17D6ZfB7Bk1jOYgBNfgaXm4mBnYDP2XdjRvM7OPwCN8B-juf_-MuYX3w0r40Koz4DwX07E573YyiFjHn22CsJTdMgLzq9lrhcrZXkHi2IGs-s7uQJ3c1ChrbGyx_gxh3v--vxbNPIRwVd2-akgeb5a_1AgKePiydhkeeX-4w5O-3h9RXdyzXMnWSMLUFqScwOmjGl7KeuHbL_mZKu5kZN7hYFK3-tys5GpDrC049YY6SoJNmDypSuJU1QqQC_4sJx16-M0_KXTLZ86dWyIFlO-5dstWaCdeHyCCliR4lHQbR4HfBt0KohQYpXf4C-ZcFrwsTemeQVQhg5KmexL2qTM1pQwhsgMnHVYcS0xW26PxphuJ0WiYDupSM4PizP0hhZ8raqec9cGTM1LztP0igR0IT5B8lWXub9Qyq8bZfLSE8smVFG0AcSYbQ7dOOdKd7e12QuPXgE7zt5L_ADmc4Adecpn70YQq419nE6pxABYd3JdW0iSOXboZNcABHGUqMlWauMPs6LEnMXGXbnyPN2d40qRL5W1nJQEUuipXCIkAVoG5lHAcY5tUqDZOrk7tqXvO-f3lhmz1CnLpZXyTN9tttalMUSwsQljiDZswpEz8YF8dqq56Zs6k2ZqK4wtvcgCdIZEhAWY4PSoulegwZ_B4cveCSQGgy7v0B80b25q-k_lnY.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EIqkKxU.jpg" tvg-country="EG" tvg-url="" group-title="Egypt",ON Sport
+http://95.170.215.107/hls/m3u8/ON-Sport.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EIqkKxU.jpg" tvg-country="EG" tvg-url="" group-title="Egypt",ON Sport*
+https://video-weaver.mrs01.hls.ttvnw.net/v1/playlist/Cv8DfFbWvPOWSqlWrIHWykvibDEL0DRcm53PDrC2vpvFdoBT8erElsNlLUoRBkosVNQw2ApMmdeq7rE5PSpEtmRAzlCIvwH73SkOqC-NVJy4iI20YdrBDemSXOJgVEdiTtpG2NEczxxgZDae0penQeZxM7oVTbWiZ_1yQi2AAPC02HE_AAycQwJkhdxCeblObKgEDaMsLyKviZFJQIUFohvd9JEp0XtVogvqTzlOIel0y3UOhvfy6ZK8J8ilaRvIPQcRzFlOfyp_g2UeLyXOV3VZonbE0oNh6KpZxG4U_Y-Bmi-HXnFWBNJZmg2uIpXGJBJp3ujSN2oGVkH2DZZy4ypi7Bu0MXPHtexuMc8Knz-Z-XA5D_KjQ3LSbSTPbVyKvU06C-MUqduRfhBYydH02GdwBn6L2kskd1fNfxn3xmhy4Kt4nTGLf9Vprx4ahANHcmbSZk7me00PTS1tYEAsL6t7g6XDHs5xK0gCCCAq0kYm4vcp4T9te4mPC8pRLKA0xayvDMGF19tT71l85U4oXhyBKuaXwHwXOVJym7_hiwEmf_hPYIaDlvFLAYRbZVwpLY3cI64NUF9F-pmT3_tnkmEz96h-TwLz9eOgZHIZBAsWOfEtPtS0l3P56d_KS6fRGr7oGIUfgsKibkHl5d0f940RcE--uyITG4spx8zQ6U0S7xIQ_dVSNyEXLvgKxWaAt-577RoMKKOo_NI8E35M7XaH.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Z6b9ldh.png" tvg-country="EG" tvg-url="" group-title="Egypt",Panorama Drama
+http://95.170.215.109/hls/m3u8/Pan-Drama-Backup.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Z6b9ldh.png" tvg-country="EG" tvg-url="" group-title="Egypt",Panorama Drama*
+http://192.34.153.37:7777/PanoramaDrama_HD/PanoramaDrama_High.m3u8?user=sgls540839&session=1a265e928f78884ca558c74e31923fdca085d5d4dfa788c27c0f8772c4f2024f&hlsid=HTTP_ID_11&starttime=20200504T202449.781390
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Z6b9ldh.png" tvg-country="EG" tvg-url="" group-title="Egypt",Panorama Drama**
+http://212.47.232.9:23123/hlsr/SUYNWUZbRFgbUgFUUFNSXFZUXVEPCVRUCg9WAAsABAFQAgZZVgUHAVxAGhBFF0YAVlo7W1wTDFYAAlBTHkYXQVcWOlFREVxAD1cHBQdBGEdDXglXGgsGSRpHCwIQXkADB1RQDBcfRAdBFlNAWAJYOlNSEltbVBRfVkIOCh5GDVxtAABVVF0CQANABhAaQV0WRxVeEGtSVxdUUhZGcAEOVVsRCBh7ZUROGwBfRkQCQAAVDUYLCgcUSRpUDRNcEBBLEF5HenARSkBcGkJXWBBdClkVXhBVAkNdGhtAD0E7EFdBEBddVF4DEBtYFAIUTxYIVk87UVdfWABbQwsJXBdACBBVRxQXXgkMUBZZQGkTXQEVDUYADQQEXBpK/Hakan/asdfghj/38525/1552b1f1637d8727a17ce7fe0d12f8f1/38525_802.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/kUxspvK.png" tvg-country="EG" tvg-url="" group-title="Egypt",Panorama Drama 2
+http://95.170.215.109/hls/m3u8/Panorama2-Backup.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/kUxspvK.png" tvg-country="EG" tvg-url="" group-title="Egypt",Panorama Drama 2*
+http://192.34.153.37:7777/PanoramaDrama2_HD/PanoramaDrama2_High.m3u8?user=sgls540839&session=60a2f80f1fa0aed2c9a096ed86178f2ba085d5d4dfa788c27c0f8772c4f2024f&hlsid=HTTP_ID_11&starttime=20200504T202449.767382
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="EG" tvg-url="" group-title="Egypt",Panorama Film
+http://192.34.153.37:7777/PanoramaFilm_HD/PanoramaFilm_High.m3u8?user=sgls540839&session=864682e44d7d571867bcd840ffee5dc5a085d5d4dfa788c27c0f8772c4f2024f&hlsid=HTTP_ID_11&starttime=20200504T202449.767382
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="EG" tvg-url="" group-title="Egypt",Panorama Food
+http://95.170.215.107/hls/m3u8/Pano-Food-Backup.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VCLGwxP.png" tvg-country="EG" tvg-url="" group-title="Egypt",Sada Elbalad
+http://livecdnh1.tvanywhere.ae/hls/sada_balad/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VCLGwxP.png" tvg-country="EG" tvg-url="" group-title="Egypt",Sada Elbalad*
+https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/Cv0DwdMoiLcHNzeurBQjNuhX72yPFwGLL3krtte-6MALbRbZmtTjUIbh-aulWBNfaJ479EtmKBFxPaQPLQb8Wqbr7sczU4_-vj3y3WZMpkMYcZgNUeHr9lKoKjEmB7HMKBuzJOhZ5jHmaWh_iV9LVi98Qrm8pV82vw1uM_PPe0XnRyFaBuH7ySy6WF2y9d5bSPMGWJ4xs17GPpbbpQOFYeIwVdJlYFrc46pE2Nk2R3QVl8QmMx3GwGYK5HlIK7Apq3zx3RjjnNQw55kGA1EAVaxD2At4FxStJ6TbPziV6ly83t8VfmZf7xTGeFALA63b-Ys-77d5Lz7LC5j3b_OHsKBiBwT0aNgNYpDgrfOO4PhcSSlQkxKCa_drwhQNO9KahRo7bd7f3-JQwmw3UYQGbzQoD8NJsqqASAMbeb2zX49ZetBw9-5IBnhWFqpR6F_-5Bg186kE5qq0eih5apuMNgknzdq5Ab5meRwOSOJ9vsAULgC3si2-FeETo-OYnht4E0IL_KpyBhDVQ5MD95nVNN7TGk3GxJlbOZMJqsgQVd55bZOzEaogFCYPtFDMXc1ddzK6penWCHnQlsyTtcqagnO8AKCZ9IOb0_c1dlD6_n_E4uPE5rHYx6tJ4p5vo7RsSeY84I_xsnffndqO8IunTDPRqHqa07s5E3q8TT7UEYQSEA6HKz_P4FjU85FRt2oz_XAaDO2ozVVkWqSkrROzmw.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="EG" tvg-url="" group-title="Egypt",TokTok
+http://95.170.215.109/hls/m3u8/TokTok-Backup.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.watanegypt.tv/design/home/img/f-logo.png" tvg-country="EG" tvg-url="" group-title="Religious",Watan
+http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
