@@ -1,0 +1,15 @@
+#EXTM3U size="medium"
+#EXTINF:-1 tvg-id="Rotana aflam" tvg-name="Rotana classic" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="Rotana",Rotana aflam
+http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
+
+#EXTINF:-1 tvg-id="Rotana cinema" tvg-name="Rotana classic" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/cinema.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1289/" group-title="Rotana", Rotana cinema
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
+
+#EXTINF:-1 tvg-id="Rotana drama" tvg-name="Rotana classic" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/drama.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1147/" group-title="Rotana", Rotana drama
+http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+
+#EXTINF:-1 tvg-id="Rotana khalijiah" tvg-name="Rotana classic" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/khalijiat.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1149/" group-title="Rotana", Rotana khalijiah
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
+
+#EXTINF:-1 tvg-id="Rotana clip" tvg-name="Rotana classic" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/clips.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1149/" group-title="Rotana", Rotana clip
+http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
