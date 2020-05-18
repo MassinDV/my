@@ -71,7 +71,7 @@ https://shls-hadath-prod.shahid.net/hadath-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/ae-al-arabiya-al-hada.png" group-title="MBC",Alarabiya Al Hadath HD
 https://shls-hadath-prod.shahid.net/hadath-prod_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Wanasah.pnge" group-title="MBC", Wanasah HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Wanasah.png" group-title="MBC", Wanasah HD
 https://shls-wanasah-prod.shahid.net/wanasah-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Wanasah.png" group-title="MBC", Wanasah SD
 https://shls-wanasah-prod.shahid.net/wanasah-prod_2.m3u8
