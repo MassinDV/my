@@ -26,6 +26,7 @@ https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8
 https://shls-mbc5-prod.shahid.net/mbc5-prod_2.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBCActionEn.sa.png" group-title="MBC",MBC Action HD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBCActionEn.sa.png" group-title="MBC",MBC Action SD
@@ -75,6 +76,12 @@ https://shls-hadath-prod.shahid.net/hadath-prod_2.m3u8
 https://shls-wanasah-prod.shahid.net/wanasah-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Wanasah.png" group-title="MBC", Wanasah SD
 https://shls-wanasah-prod.shahid.net/wanasah-prod_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/ZeeAflam.png" group-title="MBC",Zee Aflam
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/zeealwan.png" group-title="MBC",Zee Alwan
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/MBCFM-Riyadh.jpg" group-title="MBC",MBCFM Riyadh
 https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh_1.m3u8
