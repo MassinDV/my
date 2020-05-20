@@ -1,94 +1,94 @@
-#EXTM3U size="medium"
+#EXTM3U size="medium" OSN  E! HD AR
 
-#EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN", HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN", HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49359.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN ANIMAL PLANET HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN ANIMAL PLANET HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49349.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN Boomerang HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN Boomerang HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49352.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN DISCOVERY HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN DISCOVERY HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49354.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN DISCOVERY ID HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN DISCOVERY ID HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49355.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN DISCOVERY SCIENCE HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN DISCOVERY SCIENCE HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49356.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN DISNEY HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN DISNEY HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49357.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN DISNEY JUNIOR HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN DISNEY JUNIOR HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49358.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN DISNEY XD HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN DISNEY XD HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49346.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN HISTORY HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN HISTORY HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49362.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN KIDS ZONE HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN KIDS ZONE HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49363.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN LIVING HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN LIVING HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49364.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN MOVIES ACTION HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN MOVIES ACTION HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49366.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN MOVIES BINGI HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN MOVIES BINGI HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49367.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN MOVIES Disney HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN MOVIES Disney HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49368.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN MOVIES ENGIMA HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN MOVIES ENGIMA HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49369.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN MOVIES FIRST  2 HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN MOVIES FIRST  2 HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49361.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN MOVIES FIRST HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN MOVIES FIRST HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49360.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN MOVIES HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN MOVIES HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49365.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN MOVIES KIDS HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN MOVIES KIDS HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49370.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN MTV LIVE HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN MTV LIVE HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49343.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN NAT GEO HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN NAT GEO HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49371.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",Osn Nat Geo Kids HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",Osn Nat Geo Kids HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49383.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN NAT GEO PEOPLE HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN NAT GEO PEOPLE HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49372.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN NAT GEO WILD HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN NAT GEO WILD HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49373.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN NICKELODEON HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN NICKELODEON HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49375.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN SERIES COMEDY HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN SERIES COMEDY HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49377.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN SERIES FIRST HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN SERIES FIRST HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49378.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN STAR MOVIES HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN STAR MOVIES HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49380.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN STAR WORLD HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN STAR WORLD HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49381.m3u8
 
-EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN",OSN YAHALA HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN YAHALA HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49341.m3u8
