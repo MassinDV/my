@@ -40,7 +40,7 @@ https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele Maroc" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/telemaroc.png" tvg-shift="0" group-title="MOROCCO", TELE MAROC SD
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele Maroc" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/telemaroc.png" tvg-shift="0" group-title="MOROCCO", TELE MAROC HD
-dw=14400&ts=1589983200&hdnts=exp=1590157554~acl=/streams/27130247_8196478_lsijemrvlmlqgptcat7_1/media*~hmac=8df27cf3e2de03f477023c61a8a5af0705fce8e705afea6bf327c3af8ee265ee
+http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele Maroc" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rtvm.png" tvg-shift="0" group-title="MOROCCO", TV Melilla
 https://tvmelilla-hls-rm-lw.flumotion.com/chunklist_b1088000.m3u8
 
