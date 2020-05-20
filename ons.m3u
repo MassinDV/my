@@ -1,9 +1,9 @@
-#EXTM3U size="medium" OSN  E! HD AR
+#EXTM3U size="medium"
 
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN", HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN", HD AR*
 https://dealsw.com/ur/jfubO
 
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN ANIMAL PLANET HD AR
+#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN ANIMAL PLANET HD AR*
 https://dealsw.com/ur/93mb3
 
 #EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN Boomerang HD AR
