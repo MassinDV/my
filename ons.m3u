@@ -1,4 +1,4 @@
-#EXTM3U size="medium" OSN  E! HD AR
+#EXTM3U size="medium"
 
 #EXTINF:-1 tvg-id="Osn" tvg-name="OSN" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="OSN", HD AR
 http://vip1080.us:8000/live/Hakan/asdfghj/49359.m3u8
