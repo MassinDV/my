@@ -1,27 +1,27 @@
-#EXTM3U
-https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="Kuwait",KTV Al Majlis
+#EXTM3U size="medium"
+https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/almajlistv.png" tvg-country="KW" tvg-url="Kuwait" group-title="Kuwait",KTV Al Majlis
 https://live.hibridcdn.net/kwmedia/kwtvmajlis_dabr/kwmedia/kwtvmajlis_1080p/chunks.m3u8
 
-https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/kw/Kuwait-Sport-TV.png" tvg-country="KW" tvg-url="Kuwait" group-title="Kuwait",KTV Sport Plus 
+https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/Kuwait-Sport-TV.png" tvg-country="KW" tvg-url="Kuwait" group-title="Kuwait",KTV Sport Plus 
 https://live.hibridcdn.net/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Kuwait" tvg-name="Kuwait" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/kw/quran.png" tvg-country="KW" tvg-url="Kuwait" group-title="Kuwait",KTV Al Qurain
+#EXTINF:-1 tvg-id="Kuwait" tvg-name="Kuwait" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/quran.png" tvg-country="KW" tvg-url="Kuwait" group-title="Kuwait",KTV Al Qurain
 https://live.hibridcdn.net/kwmedia/kwtvqurain_dabr/kwmedia/kwtvqurain_1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Kuwait" tvg-name="Kuwait" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/kw/KTA-arab.png" tvg-country="KW" tvg-url="Kuwait" group-title="Kuwait",KTV Arabe
+#EXTINF:-1 tvg-id="Kuwait" tvg-name="Kuwait" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/KTA-arab.png" tvg-country="KW" tvg-url="Kuwait" group-title="Kuwait",KTV Arabe
 https://live.hibridcdn.net/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Kuwait" tvg-name="Kuwait" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/kw/ktvethrae.png" tvg-country="KW" tvg-url="Kuwait" group-title="Kuwait",KTV Ethraa
+#EXTINF:-1 tvg-id="Kuwait" tvg-name="Kuwait" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/ktvethrae.png" tvg-country="KW" tvg-url="Kuwait" group-title="Kuwait",KTV Ethraa
 https://live.hibridcdn.net/kwmedia/kwtvethraa_dabr/kwmedia/kwtvethraa_1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Kuwait" tvg-name="Kuwait" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/kw/kuwait_kids.png" tvg-country="KW" tvg-url="Kuwait" group-title="Kuwait",KTV Kids
+#EXTINF:-1 tvg-id="Kuwait" tvg-name="Kuwait" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/kuwait_kids.png" tvg-country="KW" tvg-url="Kuwait" group-title="Kuwait",KTV Kids
 https://live.hibridcdn.net/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Kuwait" tvg-name="Kuwait" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/kw/Kuwait-Sport-TV.png" tvg-country="KW" tvg-url="Kuwait" group-title="Kuwait",KTV Sport
+#EXTINF:-1 tvg-id="Kuwait" tvg-name="Kuwait" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/Kuwait-Sport-TV.png" tvg-country="KW" tvg-url="Kuwait" group-title="Kuwait",KTV Sport
 https://live.hibridcdn.net/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="Kuwait" tvg-name="Kuwait" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/kw/ktv2_Kuwait.png" tvg-country="KW" tvg-url="Kuwait" group-title="Kuwait",KTV 2
+#EXTINF:-1 tvg-id="Kuwait" tvg-name="Kuwait" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/ktv2_Kuwait.png" tvg-country="KW" tvg-url="Kuwait" group-title="Kuwait",KTV 2
 https://live.hibridcdn.net/kwmedia/kwtv2_dabr/kwmedia/kwtv2_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="Kuwait" tvg-name="Kuwait" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/kw/KTV1_Kuwait.png" tvg-country="KW" tvg-url="Kuwait" group-title="Kuwait",KTV 1
+#EXTINF:-1 tvg-id="Kuwait" tvg-name="Kuwait" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/KTV1_Kuwait.png" tvg-country="KW" tvg-url="Kuwait" group-title="Kuwait",KTV 1
 https://live.hibridcdn.net/kwmedia/kwtv1_dabr/kwmedia/kwtv1_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Kuwait" tvg-name="Kuwait" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qeWaLeX.jpg" tvg-country="KW" tvg-url="Kuwait" group-title="Kuwait",Al Maaref TV
