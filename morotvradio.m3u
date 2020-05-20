@@ -352,6 +352,144 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/aljazeera.png" tvg-shift="0" group-title="Qatar", Al Jazeera HD 
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/aljazeera.png" tvg-shift="0" group-title="Qatar", Al Jazeera SD 
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/aljazeeranen.png" tvg-shift="0" group-title="Qatar", Al Jazeera English HD 
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/aljazeeranen.png" tvg-shift="0" group-title="Qatar", Al Jazeera English SD 
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/aljazeeramobashir.png .png" tvg-shift="0" group-title="Qatar", Al Jazeera Mobashir HD
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/aljazeeramobashir.png .png" tvg-shift="0" group-title="Qatar", Al Jazeera Mobashir SD
+https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Jazeera Documentary " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/AljazeeraDoc.png" tvg-shift="0" group-title="Qatar", Ja Documentary HD
+https://live-hls-web-ajd.getaj.net/AJD/01.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Jazeera Documentary " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/AljazeeraDoc.png" tvg-shift="0" group-title="Qatar", Ja Documentary SD
+https://live-hls-web-ajd.getaj.net/AJD/02.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Araby " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaraby.png" tvg-shift="0" group-title="Qatar", Al Araby HD 
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Araby " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alaraby.png" tvg-shift="0" group-title="Qatar", Al Araby SD
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Rayan 1 HD " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/akrayyan1.png" tvg-shift="0" group-title="Qatar", Rayan 1 HD 
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Rayan 2 HD " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/akrayyan1.png" tvg-shift="0" group-title="Qatar", Rayan Qadim HD 
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeempublich/alrayyanqadeem/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Qatar 1 HD " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/qtv.png" tvg-shift="0" group-title="Qatar", Qatar 1 HD
+http://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master720p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Qatar Talimya HD " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/qtvEdu1.png" tvg-shift="0" group-title="Qatar", Qatar Talimya HD
+http://qtv-i.akamaihd.net/hls/live/1019478-b/QTVEdu1/master720p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Qatar Talimya SD " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/qtvEdu1.png" tvg-shift="0" group-title="Qatar", Qatar Talimya SD
+http://qtv-i.akamaihd.net/hls/live/1019478/QTVEdu1/master576p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Qatar Talimya 2 HD " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/qtvEdu2.png" tvg-shift="0" group-title="Qatar", Qatar Talimya 2 HD
+http://qtv-i.akamaihd.net/hls/live/1019479/QTVEdu2/master720p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Qatar Talimya 2 SD " tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/qtvEdu2.png" tvg-shift="0" group-title="Qatar", Qatar Talimya 2 SD
+http://qtv-i.akamaihd.net/hls/live/1019479-b/QTVEdu2/master720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 1" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport1.png" tvg-shift="0" group-title="Qatar", Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 1 *" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport1.png" tvg-shift="0" group-title="Qatar", Al Kass Sports 1*
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1laoGlw/master570.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 2" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport2.png" tvg-shift="0" group-title="Qatar", Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 2 *" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport2.png" tvg-shift="0" group-title="Qatar", Al Kass Sports 2*
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2baIzzy/master570.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 3" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/al_kass_sport1.png" tvg-shift="0" group-title="Qatar", Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 4" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/qa-al-kass-four.png" tvg-shift="0" group-title="Qatar", Al Kass Sports 4*
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 4" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/qa-al-kass-four.png" tvg-shift="0" group-title="Qatar", Al Kass Sports 4
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjeApo/master570.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 5" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alkas5.png" tvg-shift="0" group-title="Qatar", Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Shariqa Sport SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/alkas5.png" tvg-shift="0" group-title="Qatar", Al Kass Sports Online
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlinespfwGsd/master570.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/H7D7dmK.png" tvg-country="OM" tvg-url="" group-title="Oman",Al-Istiqama TV
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1 tvg-id="Oman Sport ARB" tvg-name="Oman Sport ARB" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_sport.png" tvg-country="OM" tvg-url="" group-title="Oman",Oman Sport
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Oman TV ARB" tvg-name="Oman TV ARB" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/omantv_general.png" tvg-country="OM" tvg-url="" group-title="Oman",Oman TV
+https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/cultural.png" tvg-country="OM" tvg-url="" group-title="Oman",Oman TV Cultural
+https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_live.png" tvg-country="OM" tvg-url="" group-title="Oman",Oman TV Mubashir
+https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_live.png" tvg-country="OM" tvg-url="" group-title="Oman",Oman TV Mubashir*
+http://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_live.png" tvg-country="OM" tvg-url="" group-title="Oman",RAdio*
+https://5caf24a595d94.streamlock.net:1937/8010/8010/chunklist_w1031898830.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/Almamlkatv.png" group-title="Jordan",Al mamlaka Tv
+https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/roya.png" group-title="Jordan", Roya TV
+https://roya-live.ercdn.net/roya/roya_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/royanews.png" group-title="Jordan", Roya News TV
+https://roya-live.ercdn.net/roya/roya_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/altaghier-tv.png" group-title="Jordan", Altaghier tv
+https://api.new.livestream.com/accounts/17678123/events/8170529/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/kaifatv.png" group-title="Jordan", Kaifa TV
+http://192.34.153.37:7777/Kaifa_HD/Kaifa_High.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/KarameeshTv.jpg" group-title="Jordan", Karameesh Tv
+http://95.170.215.109/hls/m3u8/Karameesh-Backup.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/jordantv.png" group-title="Jordan", A1 Jordan
+http://livecdnh2.tvanywhere.ae/hls/jordan/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/jordantv.png" group-title="Jordan", Jordan tv.
+http://stream.joinvisions.net:1935/jorlive/jrtv/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/jordansport.png" group-title="Jordan", Jordan Sport
+http://stream.joinvisions.net:1935/jorlive/sport/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/jordansport.png" group-title="Jordan", Jordan Sport HD
+http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/ammantv.png" group-title="Jordan", Amman TV
+https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
