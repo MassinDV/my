@@ -281,15 +281,7 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_360p_chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Al Sharijah Radio" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/sharijaradio.png" tvg-shift="0" group-title="EMIRATES Radio", Al Sharijah Radio
-https://svs.itworkscdn.net/smcweblive/sharjahweb/chunks.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Plus" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Pulse.png" tvg-shift="0" group-title="EMIRATES Radio", Plus 95 Radio
-https://svs.itworkscdn.net/pulse95live/pulse96vision/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Nour Dubai" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/logo-noordubai.png" tvg-shift="0" group-title="EMIRATES Radio", Nour Dubai
-http://dmithrvll.cdn.mangomolo.com/noordubairdo/noordubairdo_aac/chunklist.m3u8
 
 
 
