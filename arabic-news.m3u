@@ -1,5 +1,4 @@
 #EXTM3U size="medium"
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeera.png" tvg-shift="0" group-title="Arabic News", Al Jazeera HD 
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 
