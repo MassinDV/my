@@ -1,94 +1,75 @@
-#EXTM3U size="medium"
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN", HD AR*
-https://dealsw.com/ur/jfubO
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN ANIMAL PLANET HD AR*
-https://dealsw.com/ur/93mb3
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN Boomerang HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49352.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN DISCOVERY HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49354.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN DISCOVERY ID HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49355.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN DISCOVERY SCIENCE HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49356.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN DISNEY HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49357.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN DISNEY JUNIOR HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49358.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN DISNEY XD HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49346.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN HISTORY HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49362.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN KIDS ZONE HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49363.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN LIVING HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49364.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN MOVIES ACTION HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49366.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN MOVIES BINGI HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49367.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN MOVIES Disney HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49368.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN MOVIES ENGIMA HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49369.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN MOVIES FIRST  2 HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49361.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN MOVIES FIRST HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49360.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN MOVIES HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49365.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN MOVIES KIDS HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49370.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN MTV LIVE HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49343.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN NAT GEO HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49371.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",Osn Nat Geo Kids HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49383.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN NAT GEO PEOPLE HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49372.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN NAT GEO WILD HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49373.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN NICKELODEON HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49375.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN SERIES COMEDY HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49377.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN SERIES FIRST HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49378.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN STAR MOVIES HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49380.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN STAR WORLD HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49381.m3u8
-
-#EXTINF:-1 tvg-id="OSN" tvg-name="OSN" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/aflam-plus.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1148/" group-title="OSN",OSN YAHALA HD AR
-http://vip1080.us:8000/live/Hakan/asdfghj/49341.m3u8
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2896.m3u8
+#EXTINF:-1,|OSN | Fann
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/21035.m3u8
+#EXTINF:-1,|OSN| AlSafwa
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/21036.m3u8
+#EXTINF:-1,|OSN| Alyawm HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2859.m3u8
+#EXTINF:-1,|OSN| Cinema1
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2861.m3u8
+#EXTINF:-1,|OSN| Cinema2
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2862.m3u8
+#EXTINF:-1,|OSN| Musalsalat HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2885.m3u8
+#EXTINF:-1,|OSN| Music Now
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2873.m3u8
+#EXTINF:-1,|OSN| Yahala HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2881.m3u8
+#EXTINF:-1,|OSN| Yahala ALOula HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2883.m3u8
+#EXTINF:-1,|OSN| Yahala Cinema HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2880.m3u8
+#EXTINF:-1,|OSN| Movies HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2872.m3u8
+#EXTINF:-1,|OSN| Movies Action HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2868.m3u8
+#EXTINF:-1,|OSN| Movies Comedy HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2870.m3u8
+#EXTINF:-1,|OSN| Movies Disney  HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2871.m3u8
+#EXTINF:-1,|OSN| First Movies HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2865.m3u8
+#EXTINF:-1,|OSN| Animal planet HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2860.m3u8
+#EXTINF:-1,|OSN| Discovery HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2863.m3u8
+#EXTINF:-1,|OSN| Disney HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2864.m3u8
+#EXTINF:-1,|OSN| History HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2866.m3u8
+#EXTINF:-1,|OSN| Living HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2867.m3u8
+#EXTINF:-1,|OSN| Nat Geo Wild HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2874.m3u8
+#EXTINF:-1,|OSN| National Geographic HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2875.m3u8
+#EXTINF:-1,|OSN| Paramount HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2876.m3u8
+#EXTINF:-1,|OSN| Series First HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2877.m3u8
+#EXTINF:-1,|OSN| Star Movies HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2878.m3u8
+#EXTINF:-1,|OSN| Star World HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2879.m3u8
+#EXTINF:-1,|OSN| OSN Kids HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2882.m3u8
+#EXTINF:-1,|OSN| Nat Geo People HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2884.m3u8
+#EXTINF:-1,|OSN| Baby TV HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2887.m3u8
+#EXTINF:-1,|OSN| Nickelodeon HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2888.m3u8
+#EXTINF:-1,|OSN| Nick Jr HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2889.m3u8
+#EXTINF:-1,|OSN| E! Entertainment HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2891.m3u8
+#EXTINF:-1,|OSN| Comedy Central HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2892.m3u8
+#EXTINF:-1,|OSN| OSN Enigma HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2894.m3u8
+#EXTINF:-1,|OSN| Sky News HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/2895.m3u8
+#EXTINF:-1,|OSN| Series Comedy HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/21037.m3u8
+#EXTINF:-1,|OSN| News HD
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/21038.m3u8
