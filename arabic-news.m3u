@@ -70,7 +70,7 @@ https://playback2.akamaized.net/streams/7861901_8861358_lsif0gutydchmc9tgvn_1/ex
 http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/musawa.png" group-title="Arabic News", Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/bna.jpg" group-title="Arabic News", Bahrain News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/bna.png" group-title="Arabic News", Bahrain News
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/index.m3u8 bna
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/maannews.png" group-title="Arabic News", Maaan News
 http://htvmada.mada.ps:8888/maannews/tracks-v1a1/mono.m3u8
