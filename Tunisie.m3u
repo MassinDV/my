@@ -37,5 +37,8 @@ http://serv30.vintera.tv:8081/africa/tunisieimmob/chunks.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/tu/logo-tunisie-immobilier-tv-1.png" type="video" description="Tunisie" group-title="Tunisie", Tunisie Immobilier TV (Opt-2)
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/index.m3u8
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/tu/hannibaltv.png" type="video" description="Tunisie" group-title="Tunisie", Hanibal
-https://dealsw.com/ur/MfYSF
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/tu/Marinatv.png" type="video" description="Tunisie" group-title="Tunisie",Marina TV
+http://www.radiomarina.tn:8080/media/live.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/tu/mosaiquefm.png" type="video" description="Tunisie" group-title="Tunisie",Mosaique-FM WEB TV
+https://webcam.mosaiquefm.net:1936/mosatv/studio/chunklist_w494698786.m3u8
