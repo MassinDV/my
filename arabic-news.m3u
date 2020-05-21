@@ -1,20 +1,21 @@
 #EXTM3U size="medium"
 
-#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/skynews.png" tvg-country="KW" tvg-url="News" group-title="Arabic News", Al Jazeera HD
+#EXTINF:-1 tvg-id="Al Jazeera HD" tvg-name="Al Jazeera HD" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/skynews.png" tvg-country="KW" tvg-url="News" group-title="Arabic News", Al Jazeera HD
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 
-#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/skynews.png" tvg-country="KW" tvg-url="News" group-title="Arabic News", Al Jazeera SD
+#EXTINF:-1 tvg-id="Al Jazeera SD" tvg-name="Sky News" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/skynews.png" tvg-country="KW" tvg-url="News" group-title="Arabic News", Al Jazeera SD
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeeranen.png" tvg-shift="0" group-title="Arabic News", Al Jazeera English HD 
+#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera English HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeeranen.png" tvg-shift="0" group-title="Arabic News", Al Jazeera English HD 
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeeranen.png" tvg-shift="0" group-title="Arabic News", Al Jazeera English SD 
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeeranen.png" tvg-shift="0" group-title="Arabic News", Al Jazeera English SD 
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeeramobashir.png .png" tvg-shift="0" group-title="Arabic News", Al Jazeera Mobashir HD
+#EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera Mobashir HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeeramobashir.png .png" tvg-shift="0" group-title="Arabic News", Al Jazeera Mobashir HD
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Al Jazeera" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeeramobashir.png .png" tvg-shift="0" group-title="Arabic News", Al Jazeera Mobashir SD
+
+#EXTINF:-1 tvg-id="Al Jazeera Mobashir" tvg-name="Al Jazeera Mobashir" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aljazeeramobashir.png" tvg-shift="0" group-title="Arabic News", Al Jazeera Mobashir SD
 https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
 
 #EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-language="Arabic" tvg-logo=https://raw.githubusercontent.com/MassinDV/my/master/Logo/kw/skynews.png" tvg-country="KW" tvg-url="News" group-title="Arabic News", Sky News
@@ -38,25 +39,22 @@ https://shls-alarabiya-prod.shahid.net/alarabiya-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Alarabiya.png" group-title="Arabic News",Alarabiya SD
 https://shls-alarabiya-prod.shahid.net/alarabiya-prod_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/bbcar.png" group-title="Arabic News", BBC Arabic
-----------
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/bbcar.png" group-title="Arabic News", DW Arabic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/dwar.png" group-title="Arabic News", DW Arabic
 http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8?v=
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/trtar.png" group-title="Arabic News", TRT Arabic HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/trtarab.png" group-title="Arabic News", TRT Arabic HD
 https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/trtar.png" group-title="Arabic News", TRT Arabic SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/trtararab.png" group-title="Arabic News", TRT Arabic SD
 https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/france24ar.png" group-title="Arabic News", France 24
 http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/france24ar.png" group-title="Arabic News", Al Makan
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/makan.png" group-title="Arabic News", Al Makan
 https://kanlivep2event-i.akamaihd.net/hls/live/747613-b/747613/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/france24ar.png" group-title="Arabic News", Al Makan*
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/makan.png" group-title="Arabic News", Al Makan*
 https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_2.5k/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/AlMamlka.png" group-title="Arabic News", Al Mamlka HD
@@ -92,11 +90,14 @@ https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/imn.jpg" group-title="Arabic News", IMN Iraq
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/2d51fe4a0ba54894421ead1809309ed9.sdp/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/218tv.png" group-title="Arabic News", 218 TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/218tv.png" group-title="Arabic News", Libya 218
 https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/218tv.png" group-title="Arabic News", Al Magharibya
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/awraas.png" group-title="Arabic News", Awraas 
 https://playback2.akamaized.net/streams/7861901_6247367_lsidakb8t0zbz7aiaat_1/exp=1590154750~acl=%2f*~data=hdntl~hmac=9b1186b8aee453b944495199a8f6c58e3dfa37691125ec69b50aef5791b5ea6c/media/7861901_6247367_lsidakb8t0zbz7aiaat_1@4628000p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/awraas.png" group-title="Arabic News", Awraas*
+https://playback2.akamaized.net/streams/7861901_8861358_lsif0gutydchmc9tgvn_1/exp=1590164883~acl=%2f*~data=hdntl~hmac=1522696265d4b82b37e167d1b21d4b71c00777b711f9cd1ac89fc4d8fd411080/media/7861901_8861358_lsif0gutydchmc9tgvn_1@4628000pb.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/musawa.png" group-title="Arabic News", Musawa
 http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
@@ -146,3 +147,4 @@ https://livear.cgtn.com/1000a/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/almanar.png" group-title="Arabic News", Al Manar
 https://manar.live/iptv/chunklist_w1778468299_b500000.m3u8
+
