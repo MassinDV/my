@@ -19,7 +19,6 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_1080p.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alarabiyahada.jpg" group-title="Arabic News",Alarabiya Al Hadath HD
 https://shls-hadath-prod.shahid.net/hadath-prod_1.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alarabiyahada.jpg" group-title="Arabic News",Alarabiya Al Hadath HD
 https://shls-hadath-prod.shahid.net/hadath-prod_2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Alarabiya.png" group-title="Arabic News",Alarabiya HD
@@ -58,6 +57,8 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b1296000.m3u8
 https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Al_Hurra.png" group-title="Arabic News", Al Hura Iraq
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rtar.png" group-title="Arabic News", RT Today
+https://rt-arab.secure.footprint.net/1104.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/imn.jpg" group-title="Arabic News", IMN Iraq
 https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/2d51fe4a0ba54894421ead1809309ed9.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/218tv.png" group-title="Arabic News", Libya 218
