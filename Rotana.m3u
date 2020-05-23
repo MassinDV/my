@@ -8,7 +8,10 @@ http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
 #EXTINF:-1 tvg-id="Rotana drama" tvg-name="Rotana classic" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/drama.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1147/" group-title="Rotana", Rotana drama
 http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
 
-#EXTINF:-1 tvg-id="Rotana khalijiah" tvg-name="Rotana classic" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/khalijiat.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1149/" group-title="Rotana", Rotana khalijiah
+#EXTINF:-1 tvg-id="Rotana khalijiah" tvg-name="Rotana classic" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/khalijiat.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1149/" group-title="Rotana", Rotana khalijiah HD
+https://rotana.hibridmedia.com/rotana/khaleejiya_dabr/rotana/khaleejiya_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Rotana khalijiah" tvg-name="Rotana classic" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/khalijiat.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1149/" group-title="Rotana", Rotana khalijiah SD
 http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
 
 #EXTINF:-1 tvg-id="Rotana khalijiah" tvg-name="Rotana classic" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/comedy.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1149/" group-title="Rotana", Rotana Comedy
@@ -18,12 +21,20 @@ https://rotana.hibridmedia.com/rotana/comedy_dabr/rotana/comedy_1080p/chunks.m3u
 https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_1080p/chunks.m3u8
 
 
+
 #EXTINF:-1 tvg-id="Rotana clip" tvg-name="Rotana classic" tvg-language="Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rotana/clips.png" tvg-country="Arab" tvg-url="https://elcinema.com/tvguide/1149/" group-title="Rotana", Rotana clip
 http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bHz4QYC.png" tvg-country="SA" tvg-url="" group-title="Rotana",Rotana Classic+
 http://46.60.1.82:8081/live2/Rotana.Classic/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZMXEFd1.png" tvg-country="SA" tvg-url="" group-title="Rotana",Rotana cinema+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bHz4QYC.png" tvg-country="SA" tvg-url="" group-title="Rotana",Rotana Classic+
+https://rotana.hibridmedia.com/rotana/classical_dabr/rotana/classical_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZMXEFd1.png" tvg-country="SA" tvg-url="" group-title="Rotana",Rotana cinema+ HD
+https://rotana.hibridmedia.com/rotana/cinema_dabr/rotana/cinema_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZMXEFd1.png" tvg-country="SA" tvg-url="" group-title="Rotana",Rotana cinema+ SD
+
 http://46.60.1.82:8081/live2/Rotana.Cinema/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/niDVfYR.png" tvg-country="SA" tvg-url="" group-title="Rotana",Rotana masrya drama+
 http://46.60.1.82:8081/live2/Rotana.Masriya/playlist.m3u8
