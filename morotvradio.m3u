@@ -47,10 +47,8 @@ https://tvmelilla-hls-rm-lw.flumotion.com/chunklist_b1088000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele Maroc" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/ceuta-tv.png" tvg-shift="0" group-title="MOROCCO", TV Ceuta
 https://5924d3ad0efcf.streamlock.net/rtvcetv/rtvcetvlive/chunklist_w1223798893.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/mbc5.jpg" tvg-shift="0" group-title="MOROCCO", MBC 5
-https://shls-mbc5-prod.shahid.net/mbc5-prod_8.m3u8?filter=144_720&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTU4ODY2NTY1MiwiaWF0IjoxNTg4NjI5NjUyLCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iYzFuYS1wcm9kLnNoYWhpZC5uZXQvbWJjMW5hLXByb2QubTN1OD9maWx0ZXI9MTQ0XzcyMCJ9.zLjA7SdgeFXimZeeH_xOvkPo9wTjunfKUGdAUj1DbCE
-#EXTINF:-1 tvg-id="" tvg-name="ASSABIA Aflam" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aflamtv.png" tvg-shift="0" group-title="MOROCCO", TNT ASSABIA Aflam
-http://www.sansat.net:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/18281
+
+
 #EXTINF:-1 tvg-id="" tvg-name="AR: Canal Atlas" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Canal-Atlas-Morocco-removebg-preview.png" tvg-shift="0" group-title="MOROCCO", AR: Canal Atlas
 http://www.sansat.net:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/7579
 #EXTINF:-1 tvg-id="" tvg-name="AR : CHADA FM HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alaoula.png" tvg-shift="0" group-title="MOROCCO", AR : CHADA FM HD
@@ -85,10 +83,11 @@ https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="MBC",MBC 4 SD
 https://shls-mbc4-prod.shahid.net/mbc4-prod_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/mbc5.png" group-title="MBC",MBC 5 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/mbc5.png" group-title="MBC",MBC 5 HD
 https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/mbc5.png" group-title="MBC",MBC 5 SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/mbc5.png" group-title="MBC",MBC 5 SD
 https://shls-mbc5-prod.shahid.net/mbc5-prod_2.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBCActionEn.sa.png" group-title="MBC",MBC Action HD
@@ -126,14 +125,14 @@ https://shls-masr2-prod.shahid.net/masr2-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr2.eg.png" group-title="MBC",MBC Masr 2 SD
 https://shls-masr2-prod.shahid.net/masr2-prod_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Alarabiya.png" group-title="MBC",Alarabiya HD
+#EXTINF:-1 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/Alarabiya.png?raw=true" group-title="MBC",Alarabiya HD
 https://shls-alarabiya-prod.shahid.net/alarabiya-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Alarabiya.png" group-title="MBC",Alarabiya SD
+#EXTINF:-1 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/Alarabiya.png?raw=true" group-title="MBC",Alarabiya SD
 https://shls-alarabiya-prod.shahid.net/alarabiya-prod_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alarabiyahada.jpg" group-title="MBC",Alarabiya Al Hadath HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/ae-al-arabiya-al-hada.png" group-title="MBC",Alarabiya Al Hadath HD
 https://shls-hadath-prod.shahid.net/hadath-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alarabiyahada.jpg" group-title="MBC",Alarabiya Al Hadath HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/ae-al-arabiya-al-hada.png" group-title="MBC",Alarabiya Al Hadath HD
 https://shls-hadath-prod.shahid.net/hadath-prod_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Wanasah.png" group-title="MBC", Wanasah HD
@@ -141,8 +140,20 @@ https://shls-wanasah-prod.shahid.net/wanasah-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Wanasah.png" group-title="MBC", Wanasah SD
 https://shls-wanasah-prod.shahid.net/wanasah-prod_2.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/ZeeAflam.png" group-title="MBC",Zee Aflam
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/zeealwan.png" group-title="MBC",Zee Alwan
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/B4UAflam.png" group-title="MBC", B4U Aflam
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/MBCFM-Riyadh.jpg" group-title="MBC",MBCFM Riyadh
 https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh_1.m3u8
+
+
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="ext" tvg-name="Shariqa Tv" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/sharika1.png" tvg-shift="0" group-title="EMIRATES", Sharijah Tv
