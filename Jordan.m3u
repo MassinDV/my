@@ -34,3 +34,6 @@ https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/nashama.png" group-title="Jordan", Nashama
 https://playback2.akamaized.net/streams/28204822_8840889_lsixj3vu96rtn65apps_1/exp=1590704376~acl=%2f*~data=hdntl~hmac=9d19b8496bdd8126223bb10efe478c92ca64f4b28011b6b49246dc62af5dfca9/media/28204822_8840889_lsixj3vu96rtn65apps_1@1628000p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/sawtelghad.png" group-title="Jordan", Sawt Elghad FM
+https://playback2.akamaized.net/streams/28204822_8573421_lsik7d966wza6lk6xx4_1/exp=1590704815~acl=%2f*~data=hdntl~hmac=8af0142522f09e865254eadae0c640a9db8ba832173af99f2355048ead1bf372/media/28204822_8573421_lsik7d966wza6lk6xx4_1@2128000p.m3u8
