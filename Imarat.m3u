@@ -28,6 +28,8 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/index.m3u8
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8?
 #EXTINF:-1 tvg-id="ext" tvg-name="SAMA DUBAI" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/logo-wide.gif" tvg-shift="0" group-title="EMIRATES", SAMA DUBAI
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SAMA TV" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/samatv.png" tvg-shift="0" group-title="EMIRATES", SAMA TV
+https://svs.itworkscdn.net/samatvlive/sama.smil/samatv_720p_chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DUBAI.ZAMAN" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/dubayzman.png" tvg-shift="0" group-title="EMIRATES", DUBAI.ZAMAN
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DUBAI Racing" tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Dubaitrand.png" tvg-shift="0" group-title="EMIRATES", DUBAI Racing
