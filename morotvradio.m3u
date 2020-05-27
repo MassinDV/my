@@ -1,6 +1,4 @@
 #EXTM3U size="medium"
-#EXTINF:-1 tvg-id="" tvg-name="2M" tvg-logo="http://www.2m.ma/static/images/animated-logo/shape.png" tvg-shift="0" group-title="MOROCCO", 2M HD
-http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="2M Monde" tvg-logo="" tvg-shift="0" group-title="MOROCCO", 2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Aoula*" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alaoula.png" tvg-shift="0" group-title="MOROCCO", Al Aoula*
