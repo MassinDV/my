@@ -172,6 +172,8 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/index.m3u8
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8?
 #EXTINF:-1 tvg-id="ext" tvg-name="SAMA DUBAI" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/logo-wide.gif" tvg-shift="0" group-title="EMIRATES", SAMA DUBAI
 http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="SAMA TV" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/samatv.png" tvg-shift="0" group-title="EMIRATES", SAMA TV
+https://svs.itworkscdn.net/samatvlive/sama.smil/samatv_720p_chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DUBAI.ZAMAN" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/dubayzman.png" tvg-shift="0" group-title="EMIRATES", DUBAI.ZAMAN
 http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DUBAI Racing" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Dubaitrand.png" tvg-shift="0" group-title="EMIRATES", DUBAI Racing
@@ -194,7 +196,7 @@ http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
 https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="AL Dafrah TV" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/ALDafrahtv.png" tvg-shift="0" group-title="EMIRATES", AL Dafrah TV
-http://aldafrahtv.noip.us:1935/live/_definst_/myStream2/chunklist_w1054759444.m3u8
+https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Sharqiya HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/charqya.png" tvg-shift="0" group-title="EMIRATES", Al Sharqiya HD
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_chunks.m3u8
@@ -209,7 +211,7 @@ https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2tv_chunks.m3u8
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2tv_360p_chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ajman" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/ajmantv.png" tvg-shift="0" group-title="EMIRATES", Ajman
-http://livecdnh2.tvanywhere.ae/hls/ajman/04.m3u8
+https://dcunilive18-lh.akamaihd.net/i/dclive_1@189007/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1590719551~acl=%2fi%2fdclive_1%40189007*~data=hdntl~hmac=116ccc2765a411845c01e60c0ae7235e172b771691e161daf09ff7e4c3df3d32
 
 #EXTINF:-1 tvg-id="" tvg-name="Nour Dubai" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/logo-noordubai.png" tvg-shift="0" group-title="EMIRATES",Nour Dubai
 
@@ -265,17 +267,26 @@ https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_
 #EXTINF:-1 tvg-id="" tvg-name="Shariqa Sport HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/SharjahSport.png" tvg-shift="0" group-title="EMIRATES", Shariqa Sport HD
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 1" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/al_kass_sport1.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 1
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1laoGlw/master570.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 2" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/al_kass_sport2.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 3" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/al_kass_sport1.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2baIzzy/master570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 3" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/al_kass_sport1.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports Online
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlinespfwGsd/master570.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 4" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/qa-al-kass-four.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjeApo/master570.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass Sports 5" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alkas5.png" tvg-shift="0" group-title="EMIRATES", Al Kass Sports 5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Zpgdua/master570.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Shariqa Sport SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alkas5.png" tvg-shift="0" group-title="EMIRATES", Shariqa Sport SD
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_360p_chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Al Sharijah Radio" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/sharijaradio.png" tvg-shift="0" group-title="EMIRATES Radio", Al Sharijah Radio
+https://svs.itworkscdn.net/smcweblive/sharjahweb/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Plus" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Pulse.png" tvg-shift="0" group-title="EMIRATES Radio", Plus 95 Radio
+https://svs.itworkscdn.net/pulse95live/pulse96vision/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Nour Dubai" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/logo-noordubai.png" tvg-shift="0" group-title="EMIRATES Radio", Nour Dubai
+http://dmithrvll.cdn.mangomolo.com/noordubairdo/noordubairdo_aac/chunklist.m3u8
 
 
 
