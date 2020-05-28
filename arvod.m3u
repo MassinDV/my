@@ -1,4 +1,20 @@
 #EXTM3U size="medium"
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arfimlogo/1587449811386.jpg" type="video" description="Tunisie" group-title="Arabic Films ", الممر
+https://lb.casaflix.online/hls/fb56662c88623881d60f85244d11e91e/fb56662c88623881d60f85244d11e91e.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arfimlogo/1587448736278.jpg" type="video" description="2018" group-title="Arabic Films ", عقدة الخواجة
+https://lb.casaflix.online/hls/cf2d043e063e2a9b88ffd8cb9713d92a/cf2d043e063e2a9b88ffd8cb9713d92a.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arfimlogo/1587450122435.jpg" type="video" description="2018" group-title="Arabic Films ", نص جوازة 2018
+https://lb.casaflix.online/hls/b10e4dcd32dbc64614af7f9c2dfc86be/b10e4dcd32dbc64614af7f9c2dfc86be.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arfimlogo/1581594292472.jpg" type="video" description="2019" group-title="Arabic Films ", قصة حب 2019
+https://lb.casaflix.online/hls/8fecbd76b020af7142792db7ae7872a4/8fecbd76b020af7142792db7ae7872a4.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arfimlogo/1578921681451.jpg" type="video" description="2015" group-title="Arabic Films ",
+https://lb.casaflix.online/hls/289dbc0f33ee2de1626e8c1e76278502/289dbc0f33ee2de1626e8c1e76278502.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/muslims/haytam.png" group-title="Muslimin Ventions",كيفية الإبصار
 https://skyfire.vimeocdn.com/1590682364-0xf6d2fec8bba1f56b4aeffeb59c54712d342e55f0/242698079/sep/video/871961428,871961423,871961408,871961400/master.m3u8
 
