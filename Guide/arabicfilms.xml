@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Almamar">
+    <display-name lang="en">Almamar</display-name>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_a736b93ffd2500ebfe48f895cacb83ab6cb81c3d1066e78b32315ceffd51195c.jpg" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="عقدة الخواجة">
+    <display-name lang="en">عقدة الخواجة</display-name>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_e385fcda676239d7c9a99a1c20ba6837fa2dcd3697520c9e3e208704c97510bf.jpg" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+      <channel id="نص جوازة">
+    <display-name lang="en">نص جوازة</display-name>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_26b7f3b7aa717ceab6eb9067028e7a53d12d0a4fa6c10e94fa7ce7365550c033.jpg" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+        <channel id="2052323">
+    <display-name lang="en">قصة حب</display-name>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ddcb8f3427deeddeb62fd6727a1e1587d427ee64118414309f9227748554db3e.jpg" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+        <channel id="2053246">
+    <display-name lang="en">يوم وليلة</display-name>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_5b8629ea4a4f07c9a49c7e50101b27087b05dd62f534a260b62c8f86fb0191e0.jpg" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <programme start="20200429000000 +0200" stop="20200429000000 +0200" channel="Almamar">
+    <title lang="en">تواصل
+            
+              08:55  AM
+              [5 minutes]</title>
+  </programme>
+  <programme start="20200429000000 +0200" stop="20200429000000 +0200" channel="Almamar">
+    <title lang="en">برنامج
+            
+              09:00  AM
+              [30 minutes]</title>
+  </programme>
+  <programme start="20200429093000 +0200" stop="20200429100000 +0200" channel="Almamar">
+    <title lang="en">09:30  AM
+            [30 minutes]</title>
+  </programme>

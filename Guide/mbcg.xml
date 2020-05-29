@@ -30,6 +30,11 @@
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1129_1.png" />
     <url>http://www.elcinema.com</url>
   </channel>
+    <channel id="MBC 5">
+    <display-name lang="en">MBC 5</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1354_1.png" />
+    <url>http://www.elcinema.com</url>
+  </channel>
   <channel id="MBC Bollywood">
     <display-name lang="en">MBC Bollywood</display-name>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1259_1.png" />
@@ -38,6 +43,11 @@
   <channel id="MBC Drama +">
     <display-name lang="en">MBC Drama +</display-name>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1131_1.png" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="MBC MASR">
+    <display-name lang="en">MBC MASR</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1278_1.png" />
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="MBC MASR 2">
@@ -53,6 +63,11 @@
   <channel id="MBC Egypt">
     <display-name lang="en">MBC Egypt</display-name>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1239_1.png" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+  <channel id="MBC Iraq">
+    <display-name lang="en">MBC Iraq</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1340_1.png" />
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="Emirates">
