@@ -1,44 +1,61 @@
 #EXTM3U size="medium"
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arfimlogo/1587449811386.jpg" type="video" description="Tunisie" group-title="Arabic Films ", الممر
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Almamar الممر" tvg-logo="" tvg-shift="0" group-title="Arabic Films", Almamar الممر
 https://lb.casaflix.online/hls/fb56662c88623881d60f85244d11e91e/fb56662c88623881d60f85244d11e91e.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arfimlogo/1587448736278.jpg" type="video" description="2018" group-title="Arabic Films ", عقدة الخواجة
+#EXTINF:-1 tvg-id="" tvg-name="عقدة الخواجة" tvg-logo="" tvg-shift="0" group-title="Arabic Films", عقدة الخواجة
 https://lb.casaflix.online/hls/cf2d043e063e2a9b88ffd8cb9713d92a/cf2d043e063e2a9b88ffd8cb9713d92a.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arfimlogo/1587450122435.jpg" type="video" description="2018" group-title="Arabic Films ", نص جوازة 2018
+#EXTINF:-1 tvg-id="" tvg-name="نص جوازة 2018" tvg-logo="" tvg-shift="0" group-title="Arabic Films", نص جوازة 2018
 https://lb.casaflix.online/hls/b10e4dcd32dbc64614af7f9c2dfc86be/b10e4dcd32dbc64614af7f9c2dfc86be.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arfimlogo/1581594292472.jpg" type="video" description="2019" group-title="Arabic Films ", قصة حب 2019
+#EXTINF:-1 tvg-id="" tvg-name="قصة حب 2019" tvg-logo="" tvg-shift="0" group-title="Arabic Films", قصة حب 2019
 https://lb.casaflix.online/hls/8fecbd76b020af7142792db7ae7872a4/8fecbd76b020af7142792db7ae7872a4.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arfimlogo/1578921681451.jpg" type="video" description="2015" group-title="Arabic Films ", يوم وليلة 2020
+#EXTINF:-1 tvg-id="" tvg-name="يوم وليلة 2020" tvg-logo="" tvg-shift="0" group-title="Arabic Films", يوم وليلة 2020
 https://lb.casaflix.online/hls/289dbc0f33ee2de1626e8c1e76278502/289dbc0f33ee2de1626e8c1e76278502.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arfimlogo/1587320379533.jpg" type="video" description="2015" group-title="Arabic Films ", خسسني شكراً 2019
+#EXTINF:-1 tvg-id="" tvg-name="خسسني شكراً  2019" tvg-logo="" tvg-shift="0" group-title="Arabic Films", خسسني شكراً  2019
 https://lb.casaflix.online/hls/3a749546af2c950a1548c6f2fb5885a3/3a749546af2c950a1548c6f2fb5885a3.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arfimlogo/1587315757883.jpg" type="video" description="2015" group-title="Arabic Films ", قهوة بورصة مصر 2019
+#EXTINF:-1 tvg-id="" tvg-name="قهوة بورصة مصر 2019" tvg-logo="" tvg-shift="0" group-title="Arabic Films", قهوة بورصة مصر 2019
 https://lb.casaflix.online/hls/b913e33f3c2ac7b52ff08af14c5c0103/b913e33f3c2ac7b52ff08af14c5c0103.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arfimlogo/1587315075132.jpg" type="video" description="2015" group-title="Arabic Films ",حليمو أسطورة الشواطئ 2017
+#EXTINF:-1 tvg-id="" tvg-name="حليمو أسطورة الشواطئ 2017" tvg-logo="" tvg-shift="0" group-title="Arabic Films", حليمو أسطورة الشواطئ 2017
 https://lb.casaflix.online/hls/a722dad492fe9402be3cc6b0beba9c03/a722dad492fe9402be3cc6b0beba9c03.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arfimlogo/1585787800.jpg" type="video" description="2015" group-title="Arabic Films ",خط الموت 2019
+#EXTINF:-1 tvg-id="" tvg-name="خط الموت 2019" tvg-logo="" tvg-shift="0" group-title="Arabic Films", خط الموت 2019
 https://lb.casaflix.online/hls/9523647918e8eaf0caccbd0ee6fc12d2/9523647918e8eaf0caccbd0ee6fc12d2.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arfimlogo/1584975259263.jpg" type="video" description="2015" group-title="Arabic Films ",دماغ شيطان 2020
+#EXTINF:-1 tvg-id="" tvg-name="دماغ شيطان 2020" tvg-logo="" tvg-shift="0" group-title="Arabic Films", دماغ شيطان 2020
 https://www70.uptostream.com/24akm59aaf6/720/0/video.mp4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arfimlogo/02022220000.jpg" type="video" description="2015" group-title="Arabic Films ", كازابلانكا 2019
+#EXTINF:-1 tvg-id="" tvg-name="كازابلانكا 2019" tvg-logo="" tvg-shift="0" group-title="Arabic Films", كازابلانكا 2019
 http://casaflix.online/hls/241b4a5864433cc8016bd6fac2e9283b/241b4a5864433cc8016bd6fac2e9283b.playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arfimlogo/1587449811386.jpg" type="video" description="Tunisie" group-title="Arabic Films ", اقوى الرجال
+#EXTINF:-1 tvg-id="" tvg-name="الأبلة طم طم  2018 AL-Abla Tamtam" tvg-logo="" tvg-shift="0" group-title="Arabic Films", الأبلة طم طم  2018 AL-Abla Tamtam
+https://vod-movies.panet.co.il/El-Abla-Tamtam/1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="حملة فرعون  2019  Hamlet Pharoan" tvg-logo="" tvg-shift="0" group-title="Arabic Films", حملة فرعون  2019  Hamlet Pharoan
+https://vod-movies.panet.co.il/Hamlet-Feron/1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="جواب اعتقال  2017  Jawab E'teqal" tvg-logo="" tvg-shift="0" group-title="Arabic Films", جواب اعتقال  2017  Jawab E'teqal
+https://vod-movies.panet.co.il/Gawab-eteqal/1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="شنطة حمزة 2017  Shantet Hamza" tvg-logo="" tvg-shift="0" group-title="Arabic Films", شنطة حمزة 2017  Shantet Hamza
+https://vod-movies.panet.co.il/shante-7mza/1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="حبة كراميل  2017  Habbet Caramel" tvg-logo="" tvg-shift="0" group-title="Arabic Films", حبة كراميل  2017  Habbet Caramel
+https://vod-movies.panet.co.il/7bet-krmel/1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="خبصة  2018  Khabsa" tvg-logo="" tvg-shift="0" group-title="Arabic Films", خبصة  2018  Khabsa
+https://vod-movies.panet.co.il/Khabsa/1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="تايم آوت 2018" tvg-logo="" tvg-shift="0" group-title="Arabic Films", تايم آوت 2018
+https://vod-movies.panet.co.il/Time-Out-Web/1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Khayaal Ma'atah  2019 خيال ماتة" tvg-logo="" tvg-shift="0" group-title="Arabic Films", Khayaal Ma'atah  2019 خيال ماتة
+https://vod-movies.panet.co.il/5eal/1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="اقوى الرجال" tvg-logo="" tvg-shift="0" group-title="Arabic Films", اقوى الرجال
 https://proxy-042.ix7.dailymotion.com/sec(zlsE6ZSaVLSMXxY4GyPBt2wspvAYXMn8gLx90aRBsE19vF7Nengcq2OgmDwSIV06wvXEDJkjv6L0jZo6jMVDED5ZoF-c6lqrIExYKNau2sU)/video/534/071/448170435_mp4_h264_aac_hq.m3u8
+#EXTINF:-1 tvg-id="MBC2.net" tvg-name="الواد محروس بتاع الوزير" tvg-logo="" tvg-shift="0" group-title="Arabic Films", الواد محروس بتاع الوزير
+https://proxy-018.ix7.dailymotion.com/sec(MuyucYrWgkoHg2i5QVRo5nSTCBVzFbFUGTYMYou9VSOBnRYqoG1PcztevexoQhU-FP2Y-gki1jWmAUlUsXhbkFcy4LYnZ62zJP-fk3YNZ34)/video/311/610/447016113_mp4_h264_aac_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="اضحك الصورة تطلع حلوة" tvg-logo="" tvg-shift="0" group-title="Arabic Films", اضحك الصورة تطلع حلوة
+https://proxy-025.dc3.dailymotion.com/sec(FLFdH0c5j5Zp8M-elVmfOKJ-QLvIWtFgI4RsyG5DL5s1_9_2h7mCemWXZjJxAY2g2_O4HfMm6L8s0ocAuVIkAMEamraUo6dJDkDNUZRxbwk)/video/950/171/448171059_mp4_h264_aac_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1996 هستيريا" tvg-logo="" tvg-shift="0" group-title="Arabic Films", 1996 هستيريا
+https://proxy-017.dc3.dailymotion.com/sec(EmIm9qZ57xxVtk2oHDZgSqSshgFe7jB3_g-Ou84MNWGp2GtUo0Lo5J9aYQb1UokdwoM7x9DnOdu9YNeifHBPyRCd1MspyNeU0eWD7iQUJJE)/video/721/233/446332127_mp4_h264_aac_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="كده رضا 2007" tvg-logo="" tvg-shift="0" group-title="Arabic Films", كده رضا 2007
+https://proxy-038.dc3.dailymotion.com/sec(Ag2kWK5ZJFfHITwn7VOjZKag4_jCm9TZVFQ2t6naELBQ6XwyfCeiyOXo4Y0xAoZYSImK8vWRdOoM7-zglrVwYzJ9BTTYCTVMNdfbkw7lS_M)/video/555/388/471883555_mp4_h264_aac_hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="اغتيال" tvg-logo="" tvg-shift="0" group-title="Arabic Films", اغتيال
+https://proxy-047.ix7.dailymotion.com/sec(_MR2-nuL8DGH1FsPGkJ4SV7DR-bjz4mbePR847dggyQaozHBmY5B2riTFejKKawnvWUq4lvBYxaI-jjuy75qyIIJn0SJnfmFUXjbltKTUmQ)/video/779/378/448873977_mp4_h264_aac_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="فيلم جزيرة الشيطان" tvg-logo="" tvg-shift="0" group-title="Arabic Films", فيلم جزيرة الشيطان
+https://proxy-026.ix7.dailymotion.com/sec(f2DpPaaM8u15Kq2lKySPGCzwpsbt5LFs-MHWO48-500bMminlredKtfUfE3GIlw8gVXe_8JHwaaSzHh3ILlhJB9n8S-_enIzAstbMv3Ni_I)/video/819/410/447014918_mp4_h264_aac_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="سمارة الامير" tvg-logo="" tvg-shift="0" group-title="Arabic Films", سمارة الامير
+https://proxy-026.ix7.dailymotion.com/sec(Bf4sEhVqYgA_fMJKdNdkP02KRJI3zNEeZinP_Sam7tZMMp63GbwENvnJHtIdp102C7I6F0JI3rfVO1r1ayJcordZdL7DGSx8aPQlrKdbS-Q)/video/244/794/446497442_mp4_h264_aac_hq.m3u8
+
 
 
 
