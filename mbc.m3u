@@ -1,90 +1,55 @@
-
-#EXTM3U size="medium"
-#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="MBC",MBC 1 HD
+#EXTM3U
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC 1 HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 1 HD
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="MBC",MBC 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1 SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 1 SD
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="MBC",MBC 2 HD 
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2 HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 2 HD
 https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="MBC",MBC 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2 SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 2 SD
 https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="MBC",MBC 3 HD 
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3 HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 3 HD
 https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="MBC",MBC 3 SD 
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3 SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 3 SD
 https://shls-mbc3-prod.shahid.net/mbc3-prod_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="MBC",MBC 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4 HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 4 HD
 https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="MBC",MBC 4 SD
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4 SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 4 SD
 https://shls-mbc4-prod.shahid.net/mbc4-prod_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/mbc5.png" group-title="MBC",MBC 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5 HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 5 HD
 https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/mbc5.png" group-title="MBC",MBC 5 SD
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5 SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 5 SD
 https://shls-mbc5-prod.shahid.net/mbc5-prod_2.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBCActionEn.sa.png" group-title="MBC",MBC Action HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Action HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Action HD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBCActionEn.sa.png" group-title="MBC",MBC Action SD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Action SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Action SD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBCDrama.ae.png" group-title="MBC",MBC Drama HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Drama HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Drama HD
 https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBCDrama.ae.png" group-title="MBC",MBC Drama SD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Drama SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Drama SD
 https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBCBollywoodEn.sa.png" group-title="MBC",MBC Bollywood HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Bollywood HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Bollywood HD
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBCBollywoodEn.sa.png" group-title="MBC",MBC Bollywood SD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Bollywood SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Bollywood SD
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBCMax.ae.png" group-title="MBC",MBC Max HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Max HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Max HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBCMax.ae.png" group-title="MBC",MBC Max SD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Max SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Max SD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1340_1.png" group-title="MBC",MBC Iraq HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Iraq HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Iraq HD
 https://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1340_1.png" group-title="MBC",MBC Iraq SD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Iraq SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Iraq SD
 https://shls-iraq-prod.shahid.net/iraq-prod_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="MBC",MBC Masr HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Masr HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Masr HD
 https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="MBC",MBC Masr SD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Masr SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Masr SD
 https://shls-masr-prod.shahid.net/masr-prod_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr2.eg.png" group-title="MBC",MBC Masr 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Masr 2 HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Masr 2 HD
 https://shls-masr2-prod.shahid.net/masr2-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr2.eg.png" group-title="MBC",MBC Masr 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="MBC Masr 2 SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Masr 2 SD
 https://shls-masr2-prod.shahid.net/masr2-prod_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/Alarabiya.png?raw=true" group-title="MBC",Alarabiya HD
-https://shls-alarabiya-prod.shahid.net/alarabiya-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/MassinDV/my/blob/master/Logo/Alarabiya.png?raw=true" group-title="MBC",Alarabiya SD
-https://shls-alarabiya-prod.shahid.net/alarabiya-prod_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/ae-al-arabiya-al-hada.png" group-title="MBC",Alarabiya Al Hadath HD
-https://shls-hadath-prod.shahid.net/hadath-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/ae-al-arabiya-al-hada.png" group-title="MBC",Alarabiya Al Hadath HD
-https://shls-hadath-prod.shahid.net/hadath-prod_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Wanasah.png" group-title="MBC", Wanasah HD
+#EXTINF:-1 tvg-id="" tvg-name="Wanasah HD" tvg-logo="" tvg-shift="0" group-title="MBC", Wanasah HD
 https://shls-wanasah-prod.shahid.net/wanasah-prod_1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Wanasah.png" group-title="MBC", Wanasah SD
+#EXTINF:-1 tvg-id="" tvg-name="Wanasah SD" tvg-logo="" tvg-shift="0" group-title="MBC", Wanasah SD
 https://shls-wanasah-prod.shahid.net/wanasah-prod_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/ZeeAflam.png" group-title="MBC",Zee Aflam
-http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/zeealwan.png" group-title="MBC",Zee Alwan
-http://livecdnh3.tvanywhere.ae/hls/zeeaflam/03.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/B4UAflam.png" group-title="MBC", B4U Aflam
-http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/MBCFM-Riyadh.jpg" group-title="MBC",MBCFM Riyadh
+#EXTINF:-1 tvg-id="" tvg-name="MBCFM Riyadh" tvg-logo="" tvg-shift="0" group-title="MBC", MBCFM Riyadh
 https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh_1.m3u8
