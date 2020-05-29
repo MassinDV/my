@@ -494,26 +494,6 @@ https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live
 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/ammantv.png" group-title="Youtube Live", Rotana khaliji
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1590707873/ei/QPLPXqXbNMO7gAf_uLf4BA/ip/81.11.221.28/id/7PizmnGD_7c.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHPdgF5yHaAXyW7xtHrLRF5k2FO7MjfTQwk9Mzr3tQtwCIE7KBuZuXUzuSu8_od1GooiSh7PG4BDDOkL_zKLdK_sm/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/ammantv.png" group-title="Youtube Live", Makka 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1590707927/ei/d_LPXvu-IM-mgAfXirLQCQ/ip/81.11.221.28/id/7bfQJS5Thec.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgQlqFVQJsRGy9um7P2IcxIYfdbatR-Z5rqMjGtmVQw2MCIACokdWbqzqx-1sy6aC2sEgX-aGagOg9RywQv0pXfy-o/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/ammantv.png" group-title="Youtube Live", eXtra News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1590708002/ei/wvLPXvjNHsmC6dsP4-m2kA8/ip/81.11.221.28/id/0PdO3-lAW30.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHShEp6-E5_dZIzEgNbVgSj6mthKlq8N8gtKzwlHDW8ICIBs-pfpjymYSwqz2L41E7MwrjehndTgBicUuAo7Tp06U/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/ammantv.png" group-title="Youtube Live",Sky News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1590708091/ei/G_PPXuWzA8iV1gLOjoLoBw/ip/81.11.221.28/id/UDXxVq_jqpw.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPXleH61iC11JxyzNDKkj-pl5S3Yh1A5dGLCsOsyYUZ4CIHyadK4mCDOFAVwbzO33eQJl-Fce6AhAoQk-FrxW-HQZ/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/Jor/ammantv.png" group-title="Youtube Live", Saudi Alkhibarya
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1590708189/ei/ffPPXpq0GI71-gbn-IHYCg/ip/81.11.221.28/id/hGNGJDa_VtY.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgOCdgjvfUQDyrSdNWTZdt8JZAa_2Z0tDcqpb7GfDaAX0CIQCSpfxe6OGuUtpfQBZ8WMAK39wS5mCYoKX_hAXVjWV7vQ%3D%3D/file/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Alidaa Alwatania" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/idaawataniya.png" tvg-shift="0" group-title="Radio MOROCCO", Alidaa Alwatania
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Amazighia" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/idaatamazight.png" tvg-shift="0" group-title="Radio MOROCCO", Amazighia
