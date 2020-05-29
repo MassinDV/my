@@ -1,6 +1,9 @@
 #EXTM3U size="medium"
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arfimlogo/1587449811386.jpg" type="video" description="Tunisie" group-title="Arabic Films ", الممر
 https://lb.casaflix.online/hls/fb56662c88623881d60f85244d11e91e/fb56662c88623881d60f85244d11e91e.m3u8
 
@@ -34,8 +37,8 @@ https://www70.uptostream.com/24akm59aaf6/720/0/video.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arfimlogo/02022220000.jpg" type="video" description="2015" group-title="Arabic Films ", كازابلانكا 2019
 http://casaflix.online/hls/241b4a5864433cc8016bd6fac2e9283b/241b4a5864433cc8016bd6fac2e9283b.playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arfimlogo/1587449811386.jpg" type="video" description="Tunisie" group-title="Arabic Films ", اقوى الرجال
+https://proxy-042.ix7.dailymotion.com/sec(zlsE6ZSaVLSMXxY4GyPBt2wspvAYXMn8gLx90aRBsE19vF7Nengcq2OgmDwSIV06wvXEDJkjv6L0jZo6jMVDED5ZoF-c6lqrIExYKNau2sU)/video/534/071/448170435_mp4_h264_aac_hq.m3u8
 
 
 
@@ -84,12 +87,12 @@ https://proxy-030.dc3.dailymotion.com/sec(BpL1Vu9K0Q5jqlwLePgqqIoDqhJKqzKkewljl-
 https://proxy-047.ix7.dailymotion.com/sec(4pkX4jyJ09RyW9jaEyekkswkboHklQGytmUnvKnSjgZF4VYx46_smDa0Ug2bjibKi7c61zI8-XojiF_GtNnjOPFjhbe98rB15PlCipSzXME)/video/794/432/469234497_mp4_h264_aac_hd.m3u8
 
 
+https://proxy-042.ix7.dailymotion.com/sec(zlsE6ZSaVLSMXxY4GyPBt2wspvAYXMn8gLx90aRBsE19vF7Nengcq2OgmDwSIV06wvXEDJkjv6L0jZo6jMVDED5ZoF-c6lqrIExYKNau2sU)/video/534/071/448170435_mp4_h264_aac_hq.m3u8
 
 
 
 
 
-#EXTM3U size="medium"
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/marvod/tarikhouna.jpg" group-title="تاريخنا فخرنا", طارق بن زياد - الحلقة 1
 https://vod.medi1tv.com/F0033750.mp4
