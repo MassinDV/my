@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Al Aoula">
+    <display-name lang="en">Al Aoula</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1312_1.png" />
+    <url>http://www.AlAoula.ma</url>
+  </channel>
+    <channel id="Al Aoula laayoune">
+    <display-name lang="en">Al Aoula laayoune</display-name>
+    <icon src="https://raw.githubusercontent.com/MassinDV/my/master/Logo/laayoune.png" />
+    <url>http://www.AlAoula.ma</url>
+  </channel>
+    <channel id="Arryadia">
+    <display-name lang="en">Arryadia</display-name>
+    <icon src="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arriyadia.png" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="Arrabiaa">
+    <display-name lang="en">Arrabiaa</display-name>
+    <icon src="https://raw.githubusercontent.com/MassinDV/my/master/Logo/attakafiya.png" />
+    <url>http://www.Arrabiaa.ma</url>
+  </channel>
+    <channel id="Al Maghribia">
+    <display-name lang="en">Al Maghribia</display-name>
+    <icon src="https://raw.githubusercontent.com/MassinDV/my/master/Logo/almaghribia.png" />
+    <url>http://AlMaghribia.ma</url>
+  </channel>
+    <channel id="Assadissa">
+    <display-name lang="en">Assadissa</display-name>
+    <icon src="https://raw.githubusercontent.com/MassinDV/my/master/Logo/assadissa.png" />
+    <url>http://www.Assadissa.ma</url>
+  </channel>
+    <channel id="">
+    <display-name lang="en"></display-name>
+    <icon src="" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="Tamazight">
+    <display-name lang="en">Tamazight</display-name>
+    <icon src="https://raw.githubusercontent.com/MassinDV/my/master/Logo/tamazight.png" />
+    <url>http://www.Tamazight.ma</url>
+  </channel>
+    <channel id="2M Monde">
+    <display-name lang="en">2M Monde</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1353_1.png" />
+    <url>http://www.2m.ma</url>
+  </channel>
+    <channel id="Tele Maroc">
+    <display-name lang="en">Tele Maroc</display-name>
+    <icon src="https://raw.githubusercontent.com/MassinDV/my/master/Logo/telemaroc.png" />
+    <url>https://www.telemaroc.tv/</url>
+  </channel>
+    <channel id="Canal Atlas">
+    <display-name lang="en">Canal Atlas</display-name>
+    <icon src="" />
+    <url>http://canalatlas.com</url>
+  </channel>
+    <channel id="Medi1 TV">
+    <display-name lang="en">Medi1 TV</display-name>
+    <icon src="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Medi-1-TV.png" />
+    <url>https://www.medi1tv.com/ar/</url>
+  </channel>
+    <channel id="MEDI1 TV Afrique">
+    <display-name lang="en">MEDI1 TV Afrique</display-name>
+    <icon src="http://afrique.medi1tv.com/fr/img/logo_medi1tv_afrique.png" />
+    <url>http://afrique.medi1tv.com/</url>
+  </channel>
+    <channel id="CHADA TV">
+    <display-name lang="en">CHADA TV</display-name>
+    <icon src="https://chadatv.com/wp-content/themes/chadatv/images/logo.png" />
+    <url>https://chadatv.com/</url>
+  </channel>
+    <channel id="M24 TV">
+    <display-name lang="en">M24 TV</display-name>
+    <icon src="https://raw.githubusercontent.com/MassinDV/my/master/Logo/telemaroc.png" />
+    <url>https://www.m24tv.ma</url>
+  </channel>
+    <channel id="Ceuta TV">
+    <display-name lang="en">Ceuta TV</display-name>
+    <icon src="https://raw.githubusercontent.com/MassinDV/my/master/Logo/ceuta-tv.png" />
+    <url>http://ceutatv.com</url>
+  </channel>
+    <channel id="Melilla TV">
+    <display-name lang="en">Melilla TV</display-name>
+    <icon src="https://www.inmusa.es/wp-content/uploads/2019/12/RTVM_logo.png" />
+    <url>http://www.inmusa.es/</url>
+  </channel>
+    <channel id="">
+    <display-name lang="en"></display-name>
+    <icon src="" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="">
+    <display-name lang="en"></display-name>
+    <icon src="" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="">
+    <display-name lang="en"></display-name>
+    <icon src="" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="">
+    <display-name lang="en"></display-name>
+    <icon src="" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="">
+    <display-name lang="en"></display-name>
+    <icon src="" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="">
+    <display-name lang="en"></display-name>
+    <icon src="" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="">
+    <display-name lang="en"></display-name>
+    <icon src="" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="">
+    <display-name lang="en"></display-name>
+    <icon src="" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="">
+    <display-name lang="en"></display-name>
+    <icon src="" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="">
+    <display-name lang="en"></display-name>
+    <icon src="" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="">
+    <display-name lang="en"></display-name>
+    <icon src="" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="">
+    <display-name lang="en"></display-name>
+    <icon src="" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="">
+    <display-name lang="en"></display-name>
+    <icon src="" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="">
+    <display-name lang="en"></display-name>
+    <icon src="" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="">
+    <display-name lang="en"></display-name>
+    <icon src="" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="">
+    <display-name lang="en"></display-name>
+    <icon src="" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="">
+    <display-name lang="en"></display-name>
+    <icon src="" />
+    <url>http://www.elcinema.com</url>
+  </channel>
+    <channel id="">
+    <display-name lang="en"></display-name>
+    <icon src="" />
+    <url>http://www.elcinema.com</url>
+  </channel>

@@ -1,0 +1,57 @@
+#EXTM3U size="medium"
+#EXTINF:-1 tvg-id="" tvg-name="2M Monde" tvg-logo="" tvg-shift="0" group-title="MOROCCO", 2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula*" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alaoula.png" tvg-shift="0" group-title="MOROCCO", Al Aoula*
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alaoula.png" tvg-shift="0" group-title="MOROCCO", Al Aoula
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula laayoune" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/laayoune.png" tvg-shift="0" group-title="MOROCCO", Al Aoula laayoune
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula laayoune" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/laayoune.png" tvg-shift="0" group-title="MOROCCO", Al Aoula laayoune
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arryadia" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arriyadia.png" tvg-shift="0" group-title="MOROCCO", Arryadia
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arrabiaa" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/attakafiya.png" tvg-shift="0" group-title="MOROCCO", Arrabiaa
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arrabiaa*" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/attakafiya.png" tvg-shift="0" group-title="MOROCCO", Arrabiaa*
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Maghribia" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/almaghribia.png" tvg-shift="0" group-title="MOROCCO", Al Maghribia
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Maghribia*" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/almaghribia.png" tvg-shift="0" group-title="MOROCCO", Al Maghribia*
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Assadissa" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/assadissa.png" tvg-shift="0" group-title="MOROCCO", Assadissa
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Assadissa*" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/assadissa.png" tvg-shift="0" group-title="MOROCCO", Assadissa*
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tamazight" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/tamazight.png" tvg-shift="0" group-title="MOROCCO", Tamazight
+http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tamazight*" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/tamazight.png" tvg-shift="0" group-title="MOROCCO", Tamazight*
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Medi1 TV" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Medi-1-TV.png" tvg-shift="0" group-title="MOROCCO", Medi1 TV
+http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist_w1474658739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEDI1 TV Afrique" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Medi-1-AFxx.png" tvg-shift="0" group-title="MOROCCO", MEDI1 TV Afrique
+http://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/chunklist_w1363500254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEDI1 TV Arabic" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Medi-1-AF.png" tvg-shift="0" group-title="MOROCCO", MEDI1 TV Arabic
+https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8?checkedby:mycat.com
+#EXTINF:-1 tvg-id="" tvg-name="M24 TV" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/m24.png" tvg-shift="0" group-title="MOROCCO", M24 TV
+https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tele Maroc" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/telemaroc.png" tvg-shift="0" group-title="MOROCCO", TELE MAROC SD
+http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tele Maroc" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/telemaroc.png" tvg-shift="0" group-title="MOROCCO", TELE MAROC HD
+http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tele Maroc" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/rtvm.png" tvg-shift="0" group-title="MOROCCO", TV Melilla
+https://tvmelilla-hls-rm-lw.flumotion.com/chunklist_b1088000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tele Maroc" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/ceuta-tv.png" tvg-shift="0" group-title="MOROCCO", TV Ceuta
+https://5924d3ad0efcf.streamlock.net/rtvcetv/rtvcetvlive/chunklist_w1223798893.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal Atlas" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Canal-Atlas-Morocco-removebg-preview.png" tvg-shift="0" group-title="MOROCCO", AR: Canal Atlas
+http://www.sansat.net:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/7579
+#EXTINF:-1 tvg-id="" tvg-name="AR : CHADA FM HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/alaoula.png" tvg-shift="0" group-title="MOROCCO", AR : CHADA FM HD
+http://www.sansat.net:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/11126
+#EXTINF:-1 tvg-id="" tvg-name="Nasma SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/nasma.png" tvg-shift="0" group-title="MOROCCO", Nasma SD
+http://livecdnh2.tvanywhere.ae/hls/nessma/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nasma" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/nasma.png" tvg-shift="0" group-title="MOROCCO", Nasma
+http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
