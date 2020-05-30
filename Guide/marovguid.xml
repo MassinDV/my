@@ -3,27 +3,27 @@
   <channel id="Al Aoula">
     <display-name lang="en">Al Aoula</display-name>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1312_1.png" />
-    <url>http://www.AlAoula.ma</url>
+    <url>http://www.snrt-publicite.ma/</url>
   </channel>
     <channel id="Al Aoula laayoune">
     <display-name lang="en">Al Aoula laayoune</display-name>
     <icon src="https://raw.githubusercontent.com/MassinDV/my/master/Logo/laayoune.png" />
-    <url>http://www.AlAoula.ma</url>
+    <url>http://www.snrt-publicite.ma/</url>
   </channel>
     <channel id="Arryadia">
     <display-name lang="en">Arryadia</display-name>
     <icon src="https://raw.githubusercontent.com/MassinDV/my/master/Logo/arriyadia.png" />
-    <url>http://www.elcinema.com</url>
+    <url>http://www.snrt-publicite.ma/</url>
   </channel>
     <channel id="Arrabiaa">
     <display-name lang="en">Arrabiaa</display-name>
     <icon src="https://raw.githubusercontent.com/MassinDV/my/master/Logo/attakafiya.png" />
-    <url>http://www.Arrabiaa.ma</url>
+    <url>http://www.snrt-publicite.ma/</url>
   </channel>
     <channel id="Al Maghribia">
     <display-name lang="en">Al Maghribia</display-name>
     <icon src="https://raw.githubusercontent.com/MassinDV/my/master/Logo/almaghribia.png" />
-    <url>http://AlMaghribia.ma</url>
+    <url>http://www.snrt-publicite.ma/</url>
   </channel>
     <channel id="Assadissa">
     <display-name lang="en">Assadissa</display-name>
