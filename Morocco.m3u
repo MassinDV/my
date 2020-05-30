@@ -40,7 +40,7 @@ https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checke
 #EXTINF:-1 tvg-id="" tvg-name="Canal Atlas" tvg-logo="" tvg-shift="0" group-title="Morocco", Canal Atlas
 http://www.sansat.net:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/7579
 #EXTINF:-1 tvg-id="" tvg-name="CHADA TV" tvg-logo="" tvg-shift="0" group-title="Morocco", CHADA TV
-https://edge5.vedge.infomaniak.com/livecast/ik:chadatv/chunklist_w526041023_DVR.m3u8
+https://edge8.vedge.infomaniak.com/livecast/ik:chadatv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ceuta TV " tvg-logo="" tvg-shift="0" group-title="Morocco", Ceuta TV 
 https://5924d3ad0efcf.streamlock.net/rtvcetv/rtvcetvlive/chunklist_w1223798893.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Melilla TV" tvg-logo="" tvg-shift="0" group-title="Morocco", Melilla TV
