@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" tvg-logo="" tvg-shift="0" group-title="Morocco", 2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Aoula*" tvg-logo="" tvg-shift="0" group-title="Morocco", Al Aoula*
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1800000=4-mp4a_130400_qad=1.m3u8
 #EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="Al Aoula" tvg-logo="" tvg-shift="0" group-title="Morocco", Al Aoula
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_2100000=3-mp4a_1500000_qad=1.m3u8
 #EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="Al Aoula laayoune" tvg-logo="" tvg-shift="0" group-title="Morocco", Al Aoula laayoune
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="Al Aoula laayoune" tvg-logo="" tvg-shift="0" group-title="Morocco", Al Aoula laayoune
@@ -40,8 +40,8 @@ https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checke
 #EXTINF:-1 tvg-id="" tvg-name="Canal Atlas" tvg-logo="" tvg-shift="0" group-title="Morocco", Canal Atlas
 http://www.sansat.net:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/7579
 #EXTINF:-1 tvg-id="" tvg-name="CHADA TV" tvg-logo="" tvg-shift="0" group-title="Morocco", CHADA TV
-https://edge5.vedge.infomaniak.com/livecast/ik:chadatv/chunklist_w526041023_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ceuta TV " tvg-logo="" tvg-shift="0" group-title="Morocco", Ceuta TV 
+https://edge8.vedge.infomaniak.com/livecast/ik:chadatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ceuta TV" tvg-logo="" tvg-shift="0" group-title="Morocco", Ceuta TV
 https://5924d3ad0efcf.streamlock.net/rtvcetv/rtvcetvlive/chunklist_w1223798893.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Melilla TV" tvg-logo="" tvg-shift="0" group-title="Morocco", Melilla TV
 https://tvmelilla-hls-rm-lw.flumotion.com/chunklist_b1088000.m3u8
