@@ -20,7 +20,7 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabia
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Al Maghribia*" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/almaghribia.png" tvg-shift="0" group-title="Morocco", Al Maghribia*
+#EXTINF:-1 tvg-id="" tvg-name="Al Maghribia*" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/almaghribia.png" tvg-shift="0" group-title="Morocco", Al Maghribia
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
 
@@ -28,6 +28,8 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_sn
 #EXTINF:-1 tvg-id="" tvg-name="Assadissa*" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/assadissa.png" tvg-shift="0" group-title="Morocco", Assadissa
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1800000=3-mp4a_130400_qad=1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Assadissa*" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/aflamtv.png" tvg-shift="0" group-title="Morocco", TNT Assabiaa
+http://stream.iptvesun.com:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/51049
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Tamazight*" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/tamazight.png" tvg-shift="0" group-title="Morocco", Tamazight
@@ -52,6 +54,10 @@ http://www.sansat.net:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/7579
 
 #EXTINF:-1 tvg-id="" tvg-name="CHADA TV" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/chadafm.png" tvg-shift="0" group-title="Morocco", CHADA TV
 https://edge8.vedge.infomaniak.com/livecast/ik:chadatv/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="AR: AL ONS TV" tvg-logo="" group-title="Morocco",AR: AL ONS TV
+http://www.sansat.net:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/17634
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Ceuta TV" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/ceuta-tv.png" tvg-shift="0" group-title="Morocco", Ceuta TV
 https://5924d3ad0efcf.streamlock.net/rtvcetv/rtvcetvlive/chunklist_w1223798893.m3u8
