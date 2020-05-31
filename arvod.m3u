@@ -11,7 +11,14 @@ https://d14c63magvk61v.cloudfront.net/hls/vid/21827/1280x720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Almamar الممر" tvg-logo="" tvg-shift="0" group-title="Arabic Films", Live carton
 https://nrpus.bozztv.com/36bay2/gusa-cartoons4u/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0LfVHWM.png" group-title="PORTUGAL",TVCine Top HD
+http://85.244.70.140:8000/play/a00y
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/41AR5IC.png" group-title="PORTUGAL",TVCine Action HD
+http://85.244.70.140:8000/play/a00u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CQiqBZW.png" group-title="PORTUGAL",NOS Studios HD
+http://85.244.70.140:8000/play/a011
 
 
 
