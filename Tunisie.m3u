@@ -1,7 +1,11 @@
 #EXTINF:
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/tu/Hiwartun.png" type="video" description="Tunisie" group-title="Tunisie", Al Hiwar HD
-https://live.vimeocdn.com/1589741799-0x8703d884c3fc3285b0b31318aa64c92027d5d2ee/92872e2f-3dc4-48eb-9b9a-5889d93bcae8/chunklist_b3256000.m3u8?max_segments=10
+https://live.vimeocdn.com/1589741799-0x8703d884c3fc3285b0b31318aa64c92027d5d2ee/92872e2f-3dc4-48eb-9b9a-5889d93bcae8/chunklist_b3256000.m3u8?max_segments=20
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" tvg-country="TN" tvg-url="" group-title="Tunisia",Sahel TV
+https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/index.m3u8
+
 
 
 #EXTINF:-1,Al Hiwar HDW
@@ -21,6 +25,8 @@ https://streaming.toutech.net/live/jfm/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/tu/jawhara.png" type="video" description="Tunisie" group-title="Tunisie", Jawhara FM (Opt-2)
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 
+
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/tu/nesma.png" type="video" description="Tunisie" group-title="Tunisie",Nessma TV HD*
 https://stream-15.dc3.dailymotion.com/sec(URBhp0zYv0oL3J-5svQBhi7gAevJ7SmU9UZASS0YKqs)/dm/3/x7lmd4f/s/live-3.m3u8
 
@@ -39,6 +45,16 @@ https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/index.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/tu/Marinatv.png" type="video" description="Tunisie" group-title="Tunisie",Marina TV
 http://www.radiomarina.tn:8080/media/live.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/tu/Marinatv.png" type="video" description="Tunisie" group-title="Tunisie",Marina TV HD
+https://www.radiomarina.tn/wp-content/uploads/2017/11/marina-TV.m3u
+
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MassinDV/iptv/master/Logo/tu/mosaiquefm.png" type="video" description="Tunisie" group-title="Tunisie",Mosaique-FM WEB TV
 https://webcam.mosaiquefm.net:1936/mosatv/studio/chunklist_w494698786.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" tvg-country="TN" tvg-url="" group-title="Tunisia",Sahel TV+
+https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist_w1562240644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" tvg-country="TN" tvg-url="" group-title="Tunisia",Sahel TV++
+https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist_w1343297734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" tvg-country="TN" tvg-url="" group-title="Tunisia",Sahel TV+++
+http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
