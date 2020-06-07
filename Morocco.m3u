@@ -1,7 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="Youtube" tvg-logo="" tvg-shift="0" group-title="Morocco", Youtube
-https://www.youtube.com/watch?v=rLAv1ln8x7g&t=893s
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-name="2M Monde" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/2m.png" tvg-shift="0" group-title="Morocco", 2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 
