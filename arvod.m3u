@@ -1,6 +1,513 @@
 #EXTM3U size="medium"
 
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 1" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 1
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep1/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 2" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 2
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep2/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 3" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 3
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep3/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 4" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 4
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep4/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 5" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 5
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep5/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 6" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 6
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep6/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 7" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 7
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep7/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 8" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 8
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep8/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 9" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 9
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep9/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 10" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 10
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep10/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 11" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 11
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep11/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 12" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 12
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep12/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 13" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 13
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep13/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 14" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 14
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep14/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 15" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 15
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep15/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 16" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 16
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep16/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 17" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 17
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep17/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 18" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 18
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep18/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 19" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 19
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep19/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 20" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 20
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep20/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 21" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 21
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep21/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 22" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 22
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep22/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 23" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 23
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep23/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 24" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 24
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep24/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 25" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 25
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep25/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 26" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 26
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep26/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 27" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 27
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep27/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 28" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 28
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep28/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 29" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 29
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep29/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="قمر بني هاشم 30" tvg-logo="" tvg-shift="0" group-title="قمر بني هاشم", قمر بني هاشم 30
+https://belugacdn.shoofmax.com/qamar-bani-hachem/ep30/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 1" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 1
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep1/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 2" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 2
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep2/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 3" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 3
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep3/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 4" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 4
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep4/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 5" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 5
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep5/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 6" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 6
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep6/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 7" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 7
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep7/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 8" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 8
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep8/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 9" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 9
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep9/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 10" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 10
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep10/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 11" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 11
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep11/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 12" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 12
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep12/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 13" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 13
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep13/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 14" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 14
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep14/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 15" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 15
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep15/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 16" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 16
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep16/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 17" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 17
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep17/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 18" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 18
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep18/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 19" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 19
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep19/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 20" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 20
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep20/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 21" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 21
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep21/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 22" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 22
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep22/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 23" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 23
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep23/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 24" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 24
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep24/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 25" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 25
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep25/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 26" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 26
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep26/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 27" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 27
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep27/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 28" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 28
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep28/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 29" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 29
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep29/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الأول - 30" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الأول - 30
+https://belugacdn.shoofmax.com/aaqal-almajaneen-1/ep30/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 1" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 1
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep1/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 2" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 2
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep2/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 3" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 3
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep3/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 4" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 4
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep4/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 5" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 5
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep5/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 6" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 6
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep6/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 7" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 7
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep7/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 8" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 8
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep8/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 9" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 9
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep9/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 10" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 10
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep10/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 11" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 11
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep11/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 12" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 12
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep12/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 13" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 13
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep13/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 14" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 14
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep14/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 15" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 15
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep15/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 16" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 16
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep16/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 17" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 17
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep17/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 18" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 18
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep18/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 19" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 19
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep19/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 20" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 20
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep20/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 21" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 21
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep21/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 22" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 22
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep22/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 23" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 23
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep23/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 24" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 24
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep24/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 25" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 25
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep25/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 26" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 26
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep26/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 27" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 27
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep27/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 28" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 28
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep28/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 29" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 29
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep29/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثاني - 30" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثاني - 30
+https://belugacdn.shoofmax.com/aaqal-almajaneen-2/ep30/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 1" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 1
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep1/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 2" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 2
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep2/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 3" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 3
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep3/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 4" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 4
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep4/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 5" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 5
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep5/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 6" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 6
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep6/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 7" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 7
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep7/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 8" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 8
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep8/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 9" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 9
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep9/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 10" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 10
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep10/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 11" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 11
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep11/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 12" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 12
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep12/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 13" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 13
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep13/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 14" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 14
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep14/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 15" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 15
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep15/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 16" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 16
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep16/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 17" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 17
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep17/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 18" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 18
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep18/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 19" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 19
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep19/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 20" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 20
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep20/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 21" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 21
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep21/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 22" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 22
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep22/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 23" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 23
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep23/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 24" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 24
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep24/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 25" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 25
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep25/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 26" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 26
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep26/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 27" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 27
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep27/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 28" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 28
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep28/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 29" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 29
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep29/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="الجزء الثالث - 30" tvg-logo="" tvg-shift="0" group-title="أعقل المجانين", الجزء الثالث - 30
+https://belugacdn.shoofmax.com/aaqal-almajaneen-3/ep30/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 1" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 1
+https://belugacdn.shoofmax.com/habib-allah/ep1/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 2" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 2
+https://belugacdn.shoofmax.com/habib-allah/ep2/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 3" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 3
+https://belugacdn.shoofmax.com/habib-allah/ep3/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 4" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 4
+https://belugacdn.shoofmax.com/habib-allah/ep4/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 5" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 5
+https://belugacdn.shoofmax.com/habib-allah/ep5/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 6" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 6
+https://belugacdn.shoofmax.com/habib-allah/ep6/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 7" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 7
+https://belugacdn.shoofmax.com/habib-allah/ep7/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 8" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 8
+https://belugacdn.shoofmax.com/habib-allah/ep8/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 9" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 9
+https://belugacdn.shoofmax.com/habib-allah/ep9/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 10" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 10
+https://belugacdn.shoofmax.com/habib-allah/ep10/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 11" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 11
+https://belugacdn.shoofmax.com/habib-allah/ep11/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 12" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 12
+https://belugacdn.shoofmax.com/habib-allah/ep12/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 13" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 13
+https://belugacdn.shoofmax.com/habib-allah/ep13/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 14" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 14
+https://belugacdn.shoofmax.com/habib-allah/ep14/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 15" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 15
+https://belugacdn.shoofmax.com/habib-allah/ep15/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 16" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 16
+https://belugacdn.shoofmax.com/habib-allah/ep16/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 17" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 17
+https://belugacdn.shoofmax.com/habib-allah/ep17/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 18" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 18
+https://belugacdn.shoofmax.com/habib-allah/ep18/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 19" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 19
+https://belugacdn.shoofmax.com/habib-allah/ep19/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 20" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 20
+https://belugacdn.shoofmax.com/habib-allah/ep20/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 21" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 21
+https://belugacdn.shoofmax.com/habib-allah/ep21/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 22" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 22
+https://belugacdn.shoofmax.com/habib-allah/ep22/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 23" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 23
+https://belugacdn.shoofmax.com/habib-allah/ep23/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 24" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 24
+https://belugacdn.shoofmax.com/habib-allah/ep24/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 25" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 25
+https://belugacdn.shoofmax.com/habib-allah/ep25/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 26" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 26
+https://belugacdn.shoofmax.com/habib-allah/ep26/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 27" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 27
+https://belugacdn.shoofmax.com/habib-allah/ep27/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 28" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 28
+https://belugacdn.shoofmax.com/habib-allah/ep28/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 29" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 29
+https://belugacdn.shoofmax.com/habib-allah/ep29/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="حبيب الله ☆ محمد ☆ الحلقة 30 و الأخيرة" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", حبيب الله ☆ محمد ☆ الحلقة 30 و الأخيرة
+https://belugacdn.shoofmax.com/habib-allah/ep30/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 1" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 1
+https://belugacdn.shoofmax.com/khalil-allah/ep1/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 2" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 2
+https://belugacdn.shoofmax.com/khalil-allah/ep2/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 3" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 3
+https://belugacdn.shoofmax.com/khalil-allah/ep3/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 4" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 4
+https://belugacdn.shoofmax.com/khalil-allah/ep4/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 5" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 5
+https://belugacdn.shoofmax.com/khalil-allah/ep5/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 6" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 6
+https://belugacdn.shoofmax.com/khalil-allah/ep6/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 7" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 7
+https://belugacdn.shoofmax.com/khalil-allah/ep7/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 8" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 8
+https://belugacdn.shoofmax.com/khalil-allah/ep8/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 9" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 9
+https://belugacdn.shoofmax.com/khalil-allah/ep9/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 10" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 10
+https://belugacdn.shoofmax.com/khalil-allah/ep10/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 11" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 11
+https://belugacdn.shoofmax.com/khalil-allah/ep11/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 12" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 12
+https://belugacdn.shoofmax.com/khalil-allah/ep12/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 13" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 13
+https://belugacdn.shoofmax.com/khalil-allah/ep13/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 14" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 14
+https://belugacdn.shoofmax.com/khalil-allah/ep14/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 15" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 15
+https://belugacdn.shoofmax.com/khalil-allah/ep15/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 16" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 16
+https://belugacdn.shoofmax.com/khalil-allah/ep16/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 17" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 17
+https://belugacdn.shoofmax.com/khalil-allah/ep17/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 18" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 18
+https://belugacdn.shoofmax.com/khalil-allah/ep18/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 19" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 19
+https://belugacdn.shoofmax.com/khalil-allah/ep19/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 20" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 20
+https://belugacdn.shoofmax.com/khalil-allah/ep20/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 21" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 21
+https://belugacdn.shoofmax.com/khalil-allah/ep21/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 22" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 22
+https://belugacdn.shoofmax.com/khalil-allah/ep22/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 23" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 23
+https://belugacdn.shoofmax.com/khalil-allah/ep23/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 25" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 25
+https://belugacdn.shoofmax.com/khalil-allah/ep25/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 26" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 26
+https://belugacdn.shoofmax.com/khalil-allah/ep26/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 27" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 27
+https://belugacdn.shoofmax.com/khalil-allah/ep27/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 28" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 28
+https://belugacdn.shoofmax.com/khalil-allah/ep28/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 29" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 29
+https://belugacdn.shoofmax.com/khalil-allah/ep29/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="خليل الله  ( ابراهيم عليه السلام ) الحلقة 30 و الأخيرة" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", خليل الله  ( ابراهيم عليه السلام ) الحلقة 30 و الأخيرة
+https://belugacdn.shoofmax.com/khalil-allah/ep30/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 1" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 1
+https://belugacdn.shoofmax.com/kalim-allah/ep1/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 2" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 2
+https://belugacdn.shoofmax.com/kalim-allah/ep2/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 2" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 2
+https://belugacdn.shoofmax.com/kalim-allah/ep3/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 3" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 3
+https://belugacdn.shoofmax.com/kalim-allah/ep3/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 4" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 4
+https://belugacdn.shoofmax.com/kalim-allah/ep4/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 5" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 5
+https://belugacdn.shoofmax.com/kalim-allah/ep5/480p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 6" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 6
+https://belugacdn.shoofmax.com/kalim-allah/ep6/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 7" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 7
+https://belugacdn.shoofmax.com/kalim-allah/ep7/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 8" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 8
+https://belugacdn.shoofmax.com/kalim-allah/ep8/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 9" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 9
+https://belugacdn.shoofmax.com/kalim-allah/ep9/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 10" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 10
+https://belugacdn.shoofmax.com/kalim-allah/ep10/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 11" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 11
+https://belugacdn.shoofmax.com/kalim-allah/ep11/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 12" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 12
+https://belugacdn.shoofmax.com/kalim-allah/ep12/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 13" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 13
+https://belugacdn.shoofmax.com/kalim-allah/ep13/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 14" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 14
+https://belugacdn.shoofmax.com/kalim-allah/ep14/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 15" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 15
+https://belugacdn.shoofmax.com/kalim-allah/ep15/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 16" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 16
+https://belugacdn.shoofmax.com/kalim-allah/ep16/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 17" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 17
+https://belugacdn.shoofmax.com/kalim-allah/ep17/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 18" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 18
+https://belugacdn.shoofmax.com/kalim-allah/ep18/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 19" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 19
+https://belugacdn.shoofmax.com/kalim-allah/ep19/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 20" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 20
+https://belugacdn.shoofmax.com/kalim-allah/ep20/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 21" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 21
+https://belugacdn.shoofmax.com/kalim-allah/ep21/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 22" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 22
+https://belugacdn.shoofmax.com/kalim-allah/ep22/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 23" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 23
+https://belugacdn.shoofmax.com/kalim-allah/ep23/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 24" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 24
+https://belugacdn.shoofmax.com/kalim-allah/ep24/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 25" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 25
+https://belugacdn.shoofmax.com/kalim-allah/ep25/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 26" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 26
+https://belugacdn.shoofmax.com/kalim-allah/ep26/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 27" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 27
+https://belugacdn.shoofmax.com/kalim-allah/ep27/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 28" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 28
+https://belugacdn.shoofmax.com/kalim-allah/ep28/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 29" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 29
+https://belugacdn.shoofmax.com/kalim-allah/ep29/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 30" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 30
+https://belugacdn.shoofmax.com/kalim-allah/ep30/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 31" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 31
+https://belugacdn.shoofmax.com/kalim-allah/ep31/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 32" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 32
+https://belugacdn.shoofmax.com/kalim-allah/ep32/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 33" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 33
+https://belugacdn.shoofmax.com/kalim-allah/ep33/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 34" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 34
+https://belugacdn.shoofmax.com/kalim-allah/ep34/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 35" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 35
+https://belugacdn.shoofmax.com/kalim-allah/ep35/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 36" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 36
+https://belugacdn.shoofmax.com/kalim-allah/ep36/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 37" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 37
+https://belugacdn.shoofmax.com/kalim-allah/ep37/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 38" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 38
+https://belugacdn.shoofmax.com/kalim-allah/ep38/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 39" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 39
+https://belugacdn.shoofmax.com/kalim-allah/ep39/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 40" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 40
+,https://belugacdn.shoofmax.com/kalim-allah/ep40/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 41" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 41
+https://belugacdn.shoofmax.com/kalim-allah/ep41/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 42" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 42
+https://belugacdn.shoofmax.com/kalim-allah/ep42/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 43" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 43
+https://belugacdn.shoofmax.com/kalim-allah/ep43/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 44" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 44
+https://belugacdn.shoofmax.com/kalim-allah/ep44/480p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 45" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 45
+https://belugacdn.shoofmax.com/kalim-allah/ep45/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 46" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 46
+https://belugacdn.shoofmax.com/kalim-allah/ep46/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 47" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 47
+https://belugacdn.shoofmax.com/kalim-allah/ep47/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 48" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 48
+https://belugacdn.shoofmax.com/kalim-allah/ep48/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 49" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 49
+https://belugacdn.shoofmax.com/kalim-allah/ep49/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 50" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 50
+https://belugacdn.shoofmax.com/kalim-allah/ep50/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 51" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 51
+https://belugacdn.shoofmax.com/kalim-allah/ep51/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 52" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 52
+https://belugacdn.shoofmax.com/kalim-allah/ep52/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 53" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 53
+https://belugacdn.shoofmax.com/kalim-allah/ep53/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 54" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 54
+https://belugacdn.shoofmax.com/kalim-allah/ep54/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 55" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 55
+https://belugacdn.shoofmax.com/kalim-allah/ep55/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 56" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 56
+https://belugacdn.shoofmax.com/kalim-allah/ep56/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 57" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 57
+https://belugacdn.shoofmax.com/kalim-allah/ep57/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 58" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 58
+https://belugacdn.shoofmax.com/kalim-allah/ep58/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة 59" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة 59
+https://belugacdn.shoofmax.com/kalim-allah/ep59/720p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="كليم الله  ( موسى عليه السلام ) الحلقة الأخيرة 60" tvg-logo="" tvg-shift="0" group-title="قصص الأنبياء", كليم الله  ( موسى عليه السلام ) الحلقة الأخيرة 60
+https://belugacdn.shoofmax.com/kalim-allah/ep60/720p/index.m3u8
 
+
+
+<<<<<<< HEAD
+=======
+-------
+
+#EXTINF:-1 tvg-id="" tvg-name="Tiktik" tvg-logo="" tvg-shift="0" group-title="Arabic Films", TikTOK Live
+https://bozztv.com/36bay4/TikTok/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-shift="0" group-title="Arabic Films", Noh Film
+https://d14c63magvk61v.cloudfront.net/hls/vid/21739/1280x720/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="message" tvg-logo="" tvg-shift="0" group-title="Arabic Films",Message
+https://d14c63magvk61v.cloudfront.net/hls/vid/21827/1280x720/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Almamar الممر" tvg-logo="" tvg-shift="0" group-title="Arabic Films", Live carton
+https://nrpus.bozztv.com/36bay2/gusa-cartoons4u/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0LfVHWM.png" group-title="PORTUGAL",TVCine Top HD
+http://85.244.70.140:8000/play/a00y
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/41AR5IC.png" group-title="PORTUGAL",TVCine Action HD
+http://85.244.70.140:8000/play/a00u
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CQiqBZW.png" group-title="PORTUGAL",NOS Studios HD
+http://85.244.70.140:8000/play/a011
+
+
+
+>>>>>>> d50c9b5d213b62be3f386630f5c16d767bf8b273
 #EXTINF:-1 tvg-id="" tvg-name="Almamar الممر" tvg-logo="" tvg-shift="0" group-title="Arabic Films", Almamar الممر
 https://lb.casaflix.online/hls/fb56662c88623881d60f85244d11e91e/fb56662c88623881d60f85244d11e91e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="عقدة الخواجة" tvg-logo="" tvg-shift="0" group-title="Arabic Films", عقدة الخواجة
