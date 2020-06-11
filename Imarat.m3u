@@ -44,9 +44,9 @@ https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b1800000
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL Emarat SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/EmaratTV2020.png" tvg-shift="0" group-title="EMIRATES", AL Emarat SD
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Dubai SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Natgo.png" tvg-shift="0" group-title="EMIRATES", National Geographic Dubai SD
-http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Dubai" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Natgo.png" tvg-shift="0" group-title="EMIRATES", National Geographic Dubai
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Dubai SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Natgo.png" tvg-shift="0" group-title="EMIRATES", National Geographic Dubai HD
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Dubai" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Natgo.png" tvg-shift="0" group-title="EMIRATES", National Geographic Dubai SD
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hawas TV SD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Hawastv.png" tvg-shift="0" group-title="EMIRATES", Hawas TV SD
 https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8
