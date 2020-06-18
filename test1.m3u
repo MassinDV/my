@@ -1,0 +1,90 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC 1 HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 1 HD
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 1 SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 1 SD
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC 2" tvg-name="MBC 2 HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 2 HD
+https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+#EXTINF:-1 tvg-id="MBC 2" tvg-name="MBC 2 SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 2 SD
+https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3 HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 3 HD
+https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3 SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 3 SD
+https://shls-mbc3-prod.shahid.net/mbc3-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4 HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 4 HD
+https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
+#EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4 SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 4 SD
+https://shls-mbc4-prod.shahid.net/mbc4-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC 5" tvg-name="MBC 5 HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 5 HD
+https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8
+#EXTINF:-1 tvg-id="MBC 5" tvg-name="MBC 5 SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC 5 SD
+https://shls-mbc5-prod.shahid.net/mbc5-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Action HD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
+#EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Action SD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC Drama +" tvg-name="MBC Drama HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Drama HD
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
+#EXTINF:-1 tvg-id="MBC Drama" tvg-name="MBC Drama SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Drama SD
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="MBC Bollywood HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Bollywood HD
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
+#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="MBC Bollywood SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Bollywood SD
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC MAX" tvg-name="MBC Max HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Max HD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+#EXTINF:-1 tvg-id="MBC MAX" tvg-name="MBC Max SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Max SD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC Iraq" tvg-name="MBC Iraq HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Iraq HD
+https://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8
+#EXTINF:-1 tvg-id="MBC Iraq" tvg-name="MBC Iraq SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Iraq SD
+https://shls-iraq-prod.shahid.net/iraq-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC MASR" tvg-name="MBC Masr HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Masr HD
+https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
+#EXTINF:-1 tvg-id="MBC Egypt" tvg-name="MBC Masr SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Masr SD
+https://shls-masr-prod.shahid.net/masr-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC MASR 2" tvg-name="MBC Masr 2 HD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Masr 2 HD
+https://shls-masr2-prod.shahid.net/masr2-prod_1.m3u8
+#EXTINF:-1 tvg-id="MBC MASR 2" tvg-name="MBC Masr 2 SD" tvg-logo="" tvg-shift="0" group-title="MBC", MBC Masr 2 SD
+https://shls-masr2-prod.shahid.net/masr2-prod_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wanasah HD" tvg-logo="" tvg-shift="0" group-title="MBC", Wanasah HD
+https://shls-wanasah-prod.shahid.net/wanasah-prod_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wanasah SD" tvg-logo="" tvg-shift="0" group-title="MBC", Wanasah SD
+https://shls-wanasah-prod.shahid.net/wanasah-prod_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBCFM Riyadh" tvg-logo="" tvg-shift="0" group-title="MBC", MBCFM Riyadh
+https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh_1.m3u8
+
+#EXTINF:-1, Swinga
+https://www.youtube.com/watch?v=HNNvzAgcLzo
+#EXTINF:-1, Jylan
+https://www.youtube.com/watch?v=36xPvwp4id4
+#EXTINF:-1, Live
+https://www.youtube.com/watch?v=huZ_QNgAa24
+#EXTINF:-1, TST TV
+http://www.sansat.net:25461/zBwNQerQPhuprzb/UDaGTEFvtKG4Hyg/49310
+#EXTINF:-1,BEIN SPORTS 2 EN
+https://vcdnjt.useetv.com/joss/15/bein2/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1,BEIN SPORTS NEWS HD
+http://46.60.1.82:8081/live/hdmib2/playlist.m3u8
+#EXTINF:-1,BEIN SPORTS HD
+http://46.60.1.82:8081/live/hdmib3/playlist.m3u8
+
+#EXTINF:-1,BIEN NEWS SPORT
+http://46.60.1.82:8081/live/hdmbc/playlist.m3u8
+
+#EXTINF:-1,Majid Kids
+http://46.60.1.82:8081/live/Majid.Kids.TV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="FilmPremium1",Bein 1
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="FilmPremium1",WB TV
+https://vcdnjt.useetv.com:443/joss/15/warner/chunklist_w447548822_b894100_sleng.m3u8_80931.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="USEETV",Natgeo Grapict
+https://cdnkbl2.useetv.com/joss/15/natgeo/chunklist_w1457446162_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="USEETV",Natgeo People
+https://cdnkbl1.useetv.com/joss/15/natgeopeople/chunklist_w1008315489_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="USEETV",Natgeo Wild
+https://cdnmdc1.useetv.com/joss/15/natgeowild/chunklist_w1900083063_b1344100_sleng_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="USEETV",Discovery
+https://cdnkbl1.useetv.com/joss/15/disco/chunklist_w1040598677_b1344100_sleng_.m3u8
