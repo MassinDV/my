@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1,TV1
+https://td.klprojects.tech/0:/365%20Days%20(2020)%20[1080p]%20[WEBRip]%20[YTS.MX]/365.Days.2020.1080p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1,TV2
+https://td.klprojects.tech/0:/Joker%20[4K%20UHDrip][2160p][HDR][AC3%205.1-DTS-HD%207.1%20Castellano-AC3%205.1-Ingles+Subs][ES-EN]/Joker%204Krip2160.www.pctnew.org.mkv?a=view
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://github.com/mickflix/Mickflix-IPTV/raw/master/skystore.png" group-title="Sky Store 247",Sky Store One - Dolittle 2020
 http://51.68.215.97:5080/LiveApp/streams/426313535954371863554869.m3u8
 
