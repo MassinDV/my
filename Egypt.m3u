@@ -3,7 +3,7 @@
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hbC1X9B.png" tvg-country="EG" tvg-url="" group-title="Egypt", Watan TV*
 http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8
-
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hbC1X9B.png" tvg-country="EG" tvg-url="" group-title="Egypt",Fox Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hbC1X9B.png" tvg-country="EG" tvg-url="" group-title="",Al Fath TV
