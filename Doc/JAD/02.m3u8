@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:5713162
+#EXTINF:10.0000,
+https://live-hls-web-ajd.getaj.net/AJD/20190515T014704-02-5713162.ts
+#EXTINF:10.0000,
+https://live-hls-web-ajd.getaj.net/AJD/20190515T014704-02-5713163.ts
+#EXTINF:10.0000,
+https://live-hls-web-ajd.getaj.net/AJD/20190515T014704-02-5713164.ts
+#EXTINF:10.0000,
+https://live-hls-web-ajd.getaj.net/AJD/20190515T014704-02-5713165.ts
+#EXTINF:10.0000,
+https://live-hls-web-ajd.getaj.net/AJD/20190515T014704-02-5713166.ts
+#EXTINF:10.0000,
+https://live-hls-web-ajd.getaj.net/AJD/20190515T014704-02-5713167.ts
