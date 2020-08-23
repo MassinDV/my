@@ -1,3 +1,4 @@
-#EXTM3U
+#EXTM3U 
 #EXTVLCOPT:http-user-agent=yacineapp.tv
-http://62.210.181.164:7777/yacinenew001/yacinenew001/26
+#EXTINF:-1,Bein Movies HD1
+http://62.210.181.164:7777/yacinenew001/yacinenew001/23
