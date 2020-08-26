@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://raw.githubusercontent.com/MassinDV/my/master/Doc/094/audio/index.m3u8",GROUP-ID="audio",LANGUAGE="AR",NAME="ARABIC",AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-STREAM-INF:BANDWIDTH=486475,AVERAGE-BANDWIDTH=352930,CODECS="avc1.640040,mp4a.40.2",RESOLUTION=1280x720,AUDIO="audio"
+https://raw.githubusercontent.com/MassinDV/my/master/Doc/094/video/rendition.m3u8
+
