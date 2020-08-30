@@ -4,6 +4,9 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:10.0,
+https://raw.githubusercontent.com/MassinDV/my/master/test-gap-audio-video/media_b955392_0.ts
+#EXT-X-DISCONTINUITY
 #EXTINF:2.000,
 http://vod.qtv.qa/i/video/vod/vids/1521739553_,low,mid,high,.mp4.csmil/segment1_2_av.ts
 #EXTINF:2.000,
