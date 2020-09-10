@@ -1,0 +1,2391 @@
+#EXTM3U
+#EXT-X-VERSION:3
+## Created with Unified Streaming Platform(version=1.9.5)
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-TARGETDURATION:4
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-0.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-2.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-3.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-4.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-5.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-6.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-7.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-8.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-9.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-10.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-11.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-12.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-13.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-14.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-15.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-16.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-17.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-18.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-19.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-20.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-21.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-22.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-23.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-24.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-25.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-26.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-27.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-28.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-29.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-30.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-31.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-32.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-33.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-34.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-35.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-36.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-37.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-38.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-39.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-40.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-41.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-42.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-43.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-44.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-45.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-46.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-47.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-48.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-49.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-50.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-51.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-52.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-53.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-54.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-55.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-56.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-57.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-58.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-59.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-60.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-61.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-62.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-63.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-64.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-65.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-66.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-67.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-68.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-69.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-70.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-71.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-72.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-73.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-74.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-75.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-76.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-77.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-78.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-79.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-80.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-81.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-82.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-83.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-84.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-85.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-86.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-87.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-88.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-89.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-90.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-91.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-92.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-93.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-94.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-95.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-96.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-97.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-98.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-99.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-100.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-101.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-102.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-103.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-104.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-105.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-106.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-107.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-108.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-109.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-110.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-111.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-112.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-113.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-114.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-115.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-116.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-117.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-118.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-119.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-120.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-121.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-122.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-123.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-124.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-125.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-126.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-127.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-128.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-129.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-130.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-131.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-132.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-133.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-134.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-135.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-136.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-137.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-138.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-139.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-140.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-141.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-142.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-143.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-144.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-145.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-146.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-147.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-148.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-149.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-150.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-151.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-152.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-153.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-154.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-155.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-156.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-157.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-158.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-159.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-160.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-161.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-162.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-163.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-164.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-165.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-166.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-167.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-168.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-169.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-170.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-171.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-172.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-173.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-174.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-175.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-176.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-177.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-178.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-179.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-180.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-181.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-182.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-183.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-184.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-185.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-186.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-187.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-188.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-189.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-190.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-191.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-192.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-193.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-194.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-195.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-196.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-197.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-198.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-199.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-200.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-201.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-202.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-203.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-204.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-205.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-206.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-207.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-208.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-209.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-210.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-211.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-212.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-213.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-214.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-215.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-216.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-217.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-218.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-219.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-220.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-221.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-222.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-223.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-224.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-225.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-226.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-227.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-228.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-229.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-230.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-231.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-232.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-233.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-234.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-235.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-236.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-237.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-238.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-239.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-240.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-241.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-242.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-243.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-244.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-245.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-246.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-247.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-248.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-249.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-250.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-251.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-252.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-253.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-254.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-255.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-256.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-257.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-258.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-259.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-260.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-261.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-262.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-263.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-264.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-265.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-266.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-267.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-268.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-269.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-270.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-271.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-272.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-273.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-274.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-275.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-276.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-277.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-278.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-279.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-280.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-281.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-282.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-283.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-284.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-285.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-286.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-287.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-288.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-289.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-290.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-291.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-292.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-293.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-294.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-295.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-296.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-297.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-298.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-299.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-300.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-301.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-302.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-303.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-304.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-305.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-306.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-307.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-308.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-309.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-310.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-311.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-312.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-313.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-314.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-315.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-316.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-317.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-318.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-319.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-320.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-321.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-322.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-323.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-324.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-325.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-326.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-327.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-328.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-329.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-330.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-331.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-332.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-333.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-334.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-335.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-336.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-337.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-338.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-339.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-340.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-341.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-342.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-343.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-344.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-345.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-346.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-347.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-348.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-349.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-350.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-351.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-352.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-353.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-354.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-355.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-356.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-357.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-358.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-359.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-360.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-361.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-362.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-363.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-364.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-365.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-366.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-367.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-368.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-369.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-370.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-371.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-372.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-373.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-374.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-375.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-376.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-377.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-378.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-379.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-380.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-381.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-382.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-383.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-384.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-385.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-386.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-387.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-388.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-389.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-390.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-391.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-392.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-393.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-394.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-395.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-396.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-397.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-398.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-399.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-400.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-401.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-402.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-403.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-404.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-405.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-406.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-407.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-408.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-409.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-410.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-411.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-412.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-413.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-414.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-415.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-416.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-417.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-418.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-419.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-420.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-421.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-422.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-423.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-424.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-425.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-426.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-427.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-428.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-429.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-430.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-431.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-432.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-433.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-434.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-435.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-436.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-437.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-438.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-439.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-440.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-441.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-442.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-443.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-444.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-445.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-446.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-447.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-448.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-449.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-450.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-451.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-452.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-453.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-454.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-455.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-456.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-457.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-458.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-459.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-460.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-461.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-462.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-463.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-464.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-465.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-466.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-467.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-468.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-469.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-470.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-471.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-472.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-473.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-474.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-475.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-476.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-477.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-478.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-479.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-480.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-481.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-482.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-483.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-484.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-485.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-486.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-487.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-488.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-489.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-490.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-491.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-492.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-493.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-494.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-495.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-496.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-497.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-498.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-499.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-500.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-501.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-502.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-503.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-504.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-505.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-506.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-507.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-508.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-509.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-510.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-511.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-512.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-513.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-514.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-515.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-516.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-517.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-518.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-519.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-520.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-521.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-522.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-523.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-524.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-525.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-526.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-527.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-528.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-529.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-530.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-531.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-532.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-533.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-534.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-535.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-536.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-537.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-538.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-539.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-540.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-541.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-542.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-543.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-544.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-545.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-546.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-547.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-548.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-549.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-550.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-551.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-552.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-553.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-554.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-555.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-556.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-557.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-558.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-559.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-560.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-561.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-562.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-563.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-564.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-565.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-566.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-567.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-568.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-569.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-570.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-571.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-572.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-573.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-574.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-575.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-576.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-577.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-578.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-579.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-580.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-581.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-582.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-583.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-584.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-585.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-586.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-587.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-588.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-589.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-590.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-591.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-592.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-593.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-594.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-595.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-596.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-597.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-598.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-599.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-600.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-601.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-602.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-603.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-604.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-605.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-606.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-607.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-608.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-609.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-610.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-611.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-612.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-613.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-614.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-615.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-616.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-617.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-618.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-619.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-620.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-621.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-622.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-623.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-624.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-625.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-626.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-627.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-628.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-629.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-630.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-631.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-632.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-633.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-634.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-635.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-636.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-637.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-638.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-639.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-640.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-641.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-642.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-643.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-644.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-645.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-646.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-647.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-648.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-649.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-650.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-651.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-652.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-653.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-654.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-655.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-656.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-657.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-658.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-659.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-660.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-661.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-662.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-663.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-664.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-665.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-666.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-667.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-668.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-669.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-670.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-671.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-672.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-673.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-674.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-675.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-676.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-677.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-678.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-679.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-680.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-681.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-682.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-683.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-684.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-685.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-686.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-687.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-688.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-689.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-690.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-691.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-692.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-693.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-694.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-695.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-696.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-697.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-698.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-699.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-700.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-701.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-702.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-703.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-704.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-705.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-706.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-707.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-708.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-709.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-710.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-711.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-712.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-713.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-714.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-715.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-716.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-717.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-718.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-719.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-720.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-721.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-722.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-723.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-724.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-725.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-726.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-727.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-728.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-729.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-730.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-731.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-732.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-733.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-734.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-735.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-736.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-737.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-738.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-739.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-740.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-741.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-742.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-743.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-744.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-745.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-746.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-747.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-748.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-749.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-750.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-751.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-752.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-753.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-754.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-755.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-756.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-757.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-758.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-759.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-760.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-761.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-762.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-763.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-764.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-765.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-766.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-767.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-768.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-769.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-770.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-771.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-772.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-773.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-774.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-775.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-776.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-777.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-778.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-779.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-780.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-781.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-782.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-783.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-784.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-785.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-786.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-787.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-788.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-789.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-790.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-791.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-792.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-793.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-794.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-795.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-796.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-797.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-798.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-799.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-800.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-801.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-802.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-803.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-804.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-805.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-806.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-807.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-808.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-809.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-810.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-811.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-812.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-813.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-814.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-815.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-816.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-817.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-818.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-819.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-820.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-821.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-822.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-823.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-824.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-825.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-826.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-827.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-828.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-829.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-830.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-831.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-832.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-833.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-834.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-835.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-836.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-837.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-838.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-839.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-840.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-841.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-842.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-843.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-844.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-845.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-846.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-847.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-848.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-849.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-850.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-851.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-852.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-853.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-854.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-855.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-856.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-857.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-858.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-859.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-860.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-861.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-862.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-863.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-864.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-865.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-866.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-867.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-868.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-869.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-870.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-871.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-872.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-873.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-874.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-875.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-876.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-877.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-878.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-879.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-880.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-881.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-882.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-883.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-884.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-885.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-886.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-887.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-888.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-889.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-890.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-891.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-892.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-893.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-894.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-895.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-896.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-897.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-898.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-899.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-900.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-901.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-902.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-903.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-904.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-905.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-906.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-907.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-908.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-909.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-910.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-911.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-912.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-913.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-914.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-915.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-916.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-917.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-918.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-919.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-920.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-921.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-922.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-923.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-924.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-925.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-926.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-927.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-928.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-929.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-930.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-931.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-932.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-933.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-934.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-935.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-936.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-937.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-938.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-939.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-940.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-941.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-942.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-943.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-944.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-945.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-946.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-947.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-948.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-949.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-950.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-951.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-952.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-953.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-954.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-955.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-956.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-957.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-958.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-959.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-960.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-961.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-962.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-963.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-964.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-965.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-966.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-967.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-968.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-969.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-970.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-971.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-972.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-973.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-974.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-975.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-976.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-977.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-978.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-979.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-980.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-981.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-982.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-983.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-984.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-985.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-986.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-987.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-988.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-989.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-990.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-991.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-992.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-993.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-994.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-995.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-996.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-997.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-998.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-999.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1000.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1001.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1002.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1003.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1004.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1005.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1006.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1007.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1008.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1009.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1010.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1011.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1012.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1013.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1014.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1015.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1016.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1017.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1018.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1019.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1020.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1021.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1022.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1023.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1024.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1025.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1026.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1027.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1028.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1029.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1030.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1031.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1032.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1033.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1034.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1035.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1036.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1037.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1038.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1039.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1040.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1041.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1042.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1043.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1044.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1045.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1046.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1047.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1048.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1049.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1050.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1051.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1052.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1053.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1054.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1055.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1056.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1057.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1058.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1059.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1060.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1061.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1062.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1063.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1064.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1065.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1066.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1067.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1068.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1069.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1070.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1071.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1072.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1073.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1074.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1075.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1076.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1077.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1078.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1079.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1080.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1081.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1082.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1083.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1084.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1085.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1086.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1087.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1088.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1089.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1090.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1091.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1092.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1093.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1094.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1095.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1096.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1097.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1098.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1099.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1100.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1101.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1102.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1103.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1104.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1105.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1106.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1107.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1108.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1109.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1110.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1111.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1112.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1113.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1114.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1115.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1116.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1117.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1118.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1119.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1120.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1121.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1122.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1123.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1124.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1125.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1126.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1127.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1128.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1129.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1130.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1131.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1132.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1133.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1134.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1135.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1136.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1137.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1138.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1139.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1140.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1141.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1142.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1143.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1144.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1145.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1146.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1147.ts
+#EXTINF:2.001988, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1148.ts
+#EXTINF:4.004012, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1149.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1150.ts
+#EXTINF:1.960277, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1151.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1152.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1153.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1154.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1155.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1156.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1157.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1158.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1159.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1160.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1161.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1162.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1163.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1164.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1165.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1166.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1167.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1168.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1169.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1170.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1171.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1172.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1173.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1174.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1175.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1176.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1177.ts
+#EXTINF:1.960278, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1178.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1179.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1180.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1181.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1182.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1183.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1184.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1185.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1186.ts
+#EXTINF:2.001989, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1187.ts
+#EXTINF:4.004011, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1188.ts
+#EXTINF:4.004, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1189.ts
+#EXTINF:2.936822, no desc
+https://cloudfront.tubi.video/f21befc7-4688-4d73-8469-f4a65cb4d5d5/a0w1scgn/segment-1190.ts
+#EXT-X-ENDLIST
+#USP-X-STREAM-INF:BANDWIDTH=3368000,AVERAGE-BANDWIDTH=2640000,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1280x720
