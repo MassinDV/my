@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-MEDIA:TYPE=AUDIO,URI="https://raw.githubusercontent.com/MassinDV/my/master/ALL-DOC/AJD-EN/P1/A-Place-of-Refuge-Rome-and-Amsterdam/audio/index.m3u8",GROUP-ID="audio",LANGUAGE="en",NAME="ENGLISH",AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://raw.githubusercontent.com/MassinDV/my/master/ALL-DOC/AJD-EN/P01/Ahmad-the-Architect-Rebuilding-Schools-in-Northeast-Nigeria/video/index.m3u8",GROUP-ID="audio",LANGUAGE="en",NAME="ENGLISH",AUTOSELECT=YES,CHANNELS="2"
 #EXT-X-STREAM-INF:BANDWIDTH=486475,AVERAGE-BANDWIDTH=352930,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=1280x720,AUDIO="audio"
-https://raw.githubusercontent.com/MassinDV/my/master/ALL-DOC/AJD-EN/P1/A-Place-of-Refuge-Rome-and-Amsterdam/video/index.m3u8
+https://raw.githubusercontent.com/MassinDV/my/master/ALL-DOC/AJD-EN/P01/Ahmad-the-Architect-Rebuilding-Schools-in-Northeast-Nigeria/video/index.m3u8
