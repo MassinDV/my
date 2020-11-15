@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<settings>
+<filename>C:\Users\Massin\AppData\Local\WebGrab+Plus\guide.xml</filename>
+<mode>m</mode>
+<postprocess grab="y" run="n">mdb </postprocess>
+<proxy>automatic</proxy>
+<user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+<logging>off</logging>
+<retry time-out="5">5</retry>
+<skip>6,1</skip>
+<timespan>1, 18:00 24:00</timespan>
+<update>f</update>
+    <channel update="i" site="tvgids.tv" site_id="nat-geo-wild" xmltv_id="Nat Geo Wild">Nat Geo Wild</channel>
+    <channel update="i" site="tvgids.tv" site_id="nick-jr" xmltv_id="Nick Jr.">Nick Jr.</channel>
+    <channel update="i" site="tvgids.tv" site_id="npo-1-extra" xmltv_id="NPO 1 extra">NPO 1 extra</channel>
+    <channel update="i" site="tvgids.tv" site_id="npo-politiek" xmltv_id="NPO Politiek">NPO Politiek</channel>
+    <channel update="i" site="tvgids.tv" site_id="rtv-west" xmltv_id="Omroep West">Omroep West</channel>
+    <channel update="i" site="tvgids.tv" site_id="pebble-tv" xmltv_id="Pebble TV">Pebble TV</channel>
+    <channel update="i" site="tvgids.tv" site_id="prime-star" xmltv_id="Prime Star">Prime Star</channel>
+    <channel update="i" site="tvgids.tv" site_id="rtl-7" xmltv_id="RTL 7">RTL 7</channel>
+    <channel update="i" site="tvgids.tv" site_id="rtbf-la-1" xmltv_id="RTBF La 1">RTBF La 1</channel>
+    <channel update="i" site="tvgids.tv" site_id="rtl-z" xmltv_id="RTL Z">RTL Z</channel>
+    <channel update="i" site="tvgids.tv" site_id="rtv-utrecht" xmltv_id="RTV Utrecht">RTV Utrecht</channel>
+    <channel update="i" site="tvgids.tv" site_id="sky-1" xmltv_id="Sky 1">Sky 1</channel>
+    <channel update="i" site="tvgids.tv" site_id="sky-sports-4" xmltv_id="Sky Sports 4">Sky Sports 4</channel>
+    <channel update="i" site="tvgids.tv" site_id="travel-channel" xmltv_id="Travel Channel">Travel Channel</channel>
+    <channel update="i" site="tvgids.tv" site_id="sudwest-fernsehen" xmltv_id="SWR">SWR</channel>
+    <channel update="i" site="tvgids.tv" site_id="veronica" xmltv_id="Veronica">Veronica</channel>
+    <channel update="i" site="tvgids.tv" site_id="vtm" xmltv_id="VTM">VTM</channel>
+    <channel update="i" site="tvgids.tv" site_id="xite" xmltv_id="XITE">XITE</channel>
+    <channel update="i" site="tvgids.tv" site_id="sport1-extra-2" xmltv_id="Ziggo Sport Extra 2">Ziggo Sport Extra 2</channel>
+    <channel update="i" site="tvgids.tv" site_id="sport-1-3" xmltv_id="Ziggo Sport Golf">Ziggo Sport Golf</channel>
+    <channel update="i" site="tvgids.tv" site_id="zdf" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="tvgids.tv" site_id="vtm-hd" xmltv_id="VTM HD">VTM HD</channel>
+    <channel update="i" site="tvgids.tv" site_id="viceland" xmltv_id="Viceland">Viceland</channel>
+    <channel update="i" site="tvgids.tv" site_id="trt-international" xmltv_id="TRT">TRT</channel>
+    <channel update="i" site="tvgids.tv" site_id="syfy" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="tvgids.tv" site_id="sky-sports-f1" xmltv_id="Sky Sports F1">Sky Sports F1</channel>
+    <channel update="i" site="tvgids.tv" site_id="sky-2" xmltv_id="Sky 2">Sky 2</channel>
+    <channel update="i" site="tvgids.tv" site_id="sat-1" xmltv_id="Sat 1">Sat 1</channel>
+    <channel update="i" site="tvgids.tv" site_id="3sat" xmltv_id="3Sat">3Sat</channel>
+    <channel update="i" site="tvgids.tv" site_id="arte" xmltv_id="ARTE">ARTE</channel>
+    <channel update="i" site="tvgids.tv" site_id="ziggo-sport" xmltv_id="Ziggo Sport">Ziggo Sport</channel>
+    <channel update="i" site="tvgids.tv" site_id="sport1" xmltv_id="Ziggo Sport Select">Ziggo Sport Select</channel>
+    <channel update="i" site="tvgids.tv" site_id="sport-1-extra-1" xmltv_id="Ziggo Sport Extra 1">Ziggo Sport Extra 1</channel>
+    <channel update="i" site="tvgids.tv" site_id="sport-1-2" xmltv_id="Ziggo Sport Voetbal">Ziggo Sport Voetbal</channel>
+    <channel update="i" site="tvgids.tv" site_id="sport1-racing" xmltv_id="Ziggo Sport Racing">Ziggo Sport Racing</channel>
+    <channel update="i" site="tvgids.tv" site_id="zes" xmltv_id="ZES">ZES</channel>
+    <channel update="i" site="tvgids.tv" site_id="vtmkzoom" xmltv_id="vtmKzoom">vtmKzoom</channel>
+    <channel update="i" site="tvgids.tv" site_id="vt4" xmltv_id="VIER">VIER</channel>
+    <channel update="i" site="tvgids.tv" site_id="sky-sports-news" xmltv_id="Sky Sports News">Sky Sports News</channel>
+    <channel update="i" site="tvgids.tv" site_id="sky-sports-1" xmltv_id="Sky Sports 1">Sky Sports 1</channel>
+    <channel update="i" site="tvgids.tv" site_id="rtv-noord" xmltv_id="RTV Noord">RTV Noord</channel>
+    <channel update="i" site="tvgids.tv" site_id="rtl-crime" xmltv_id="RTL Crime">RTL Crime</channel>
+    <channel update="i" site="tvgids.tv" site_id="wdr-fernsehen" xmltv_id="WDR Fernsehen">WDR Fernsehen</channel>
+    <channel update="i" site="tvgids.tv" site_id="vitaya" xmltv_id="Vitaya">Vitaya</channel>
+    <channel update="i" site="tvgids.tv" site_id="tv5monde" xmltv_id="TV5Monde">TV5Monde</channel>
+    <channel update="i" site="tvgids.tv" site_id="rtl-5" xmltv_id="RTL 5">RTL 5</channel>
+    <channel update="i" site="tvgids.tv" site_id="rt" xmltv_id="RT">RT</channel>
+    <channel update="i" site="tvgids.tv" site_id="rtl-telekids" xmltv_id="RTL Telekids">RTL Telekids</channel>
+    <channel update="i" site="tvgids.tv" site_id="bbc-prime" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel update="i" site="tvgids.tv" site_id="animal-planet-hd" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+</settings>
