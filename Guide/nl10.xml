@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <settings>
-<filename>C:\Users\Massin\AppData\Local\WebGrab+Plus\guide.xml</filename>
+<filename>https://raw.githubusercontent.com/MassinDV/my/master/Guide/nl10.xml</filename>
 <mode>m</mode>
 <postprocess grab="y" run="n">mdb </postprocess>
 <proxy>automatic</proxy>
