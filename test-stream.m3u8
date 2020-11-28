@@ -1,5 +1,15 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=500000, RESOLUTION=1920x1080
-https://belugacdn.shoofmax.
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=500000, RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=648224,RESOLUTION=640x360,CODECS="avc1.4d401e,mp4a.40.2"
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep1/720p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=648224,RESOLUTION=640x360,CODECS="avc1.4d401e,mp4a.40.2"
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-18/studioFEJQF.smil/chunklist_b925733.m3u8
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=443680,RESOLUTION=400x224,CODECS="avc1.42e00d,mp4a.40.2"
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep1/720p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=443680,RESOLUTION=400x224,CODECS="avc1.42e00d,mp4a.40.2"
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-18/studioFEJQF.smil/chunklist_b925733.m3u8
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=956544,RESOLUTION=640x720,CODECS="avc1.4d401f,mp4a.40.2"
+https://belugacdn.shoofmax.com/nisr-elsaeed/ep1/720p/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=956544,RESOLUTION=640x720,CODECS="avc1.4d401f,mp4a.40.2"
 https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-18/studioFEJQF.smil/chunklist_b925733.m3u8
