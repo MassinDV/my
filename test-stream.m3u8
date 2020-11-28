@@ -3,8 +3,3 @@
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud",LANGUAGE="en",NAME="English",URI="https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-18/studioFEJQF.smil/chunklist_b925733.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud",LANGUAGE="fr",NAME="French",URI="https://belugacdn.shoofmax.com/nisr-elsaeed/ep1/1080p/index.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aud",LANGUAGE="fr",NAME="French",URI="https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-18/studioFEJQF.smil/chunklist_b925733.m3u8"
-
-#EXT-X-STREAM-INF:BANDWIDTH=5083609,CODECS="avc1.64002a,ec-3",RESOLUTION=1920x1080,AUDIO="aud"
-https://belugacdn.shoofmax.com/nisr-elsaeed/ep1/1080p/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=5083609,CODECS="avc1.64002a,ec-3",RESOLUTION=1920x1080,AUDIO="aud"
-https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-18/studioFEJQF.smil/chunklist_b925733.m3u8
