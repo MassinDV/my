@@ -1,4 +1,23 @@
+  HTTP/1.1 200 OK
+  Date: Mon, 21 Jun 2021 09:44:46 GMT
+  Content-Type: application/vnd.apple.mpegurl
+  Content-Length: 1262
+  Connection: keep-alive
+  Server: nginx
+  X-Cache-Status: STALE
+  Age: 7
+  X-LLID: 5e01d9d3e5f5a43678c90411937abe0a
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Credentials: true
 #EXTM3U
-#EXTINF:0, Name
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36"
-https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_1080p/chunks.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=587266,RESOLUTION=426x240,CODECS="avc1.4d4015,mp4a.40.2"
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_240p/chunks.m3u8?p=48&s=1624268608&e=1624355008&cf=1624355008&h=81361bae7dd69456e22335e86ec8624c
+#EXT-X-STREAM-INF:BANDWIDTH=764210,RESOLUTION=640x360,CODECS="avc1.77.30,mp4a.40.2"
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_360p/chunks.m3u8?p=48&s=1624268608&e=1624355008&cf=1624355008&h=81361bae7dd69456e22335e86ec8624c
+#EXT-X-STREAM-INF:BANDWIDTH=944041,RESOLUTION=854x480,CODECS="avc1.64001e,mp4a.40.2"
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_480p/chunks.m3u8?p=48&s=1624268608&e=1624355008&cf=1624355008&h=81361bae7dd69456e22335e86ec8624c
+#EXT-X-STREAM-INF:BANDWIDTH=1389872,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_720p/chunks.m3u8?p=48&s=1624268608&e=1624355008&cf=1624355008&h=81361bae7dd69456e22335e86ec8624c
+#EXT-X-STREAM-INF:BANDWIDTH=2069605,RESOLUTION=1920x1080,CODECS="avc1.64002a,mp4a.40.2"
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_1080p/chunks.m3u8?p=48&s=1624268608&e=1624355008&cf=1624355008&h=81361bae7dd69456e22335e86ec8624c
